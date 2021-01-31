@@ -20,4 +20,4 @@ ex. `python csvtoosm.py test.csv 82`
 `python csvtoosm.py test.csv 82 euc-kr`
 
 default incoding is 'utf-8'. The two columns of the csv file must not have infomation unless coordinates.
-If one or more of `phone`, `contact:phone`, `contact:mobile`, `contact:fax`, `contact:tty` exist, this application convert it smartly.
+If one or more of `phone`, `contact:phone`, `contact:mobile`, `contact:fax`, `contact:tty` exist, this application convert it smartly. (e.g. 02-123-4567 → +82 2 123 4567)
