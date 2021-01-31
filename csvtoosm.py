@@ -6,20 +6,15 @@ csv_file_path = sys.argv[1]
 osm_file_path = sys.argv[1][:-3] + "osm"
 
 if not len(sys.argv) in [2, 3]: # if without a path of csv file to read
-    print("Usage: csvtoosm <csv_file> (<incoding_of_csv_file>)\n")
+    print("Usage: python csvtoosm.py <csv_file> (<incoding_of_csv_file>)\n")
     sys.exit()
 
 csv_incoding = "utf-8" # set the incoding of csv file to read
 if len(sys.argv) == 3:
     csv_incoding = sys.argv[2]
+print("Info: Incoding of the csv file is " + csv_incoding)
 
 fr = open(csv_file_path, 'r', encoding=csv_incoding)
-'''try:
-    fw = open(osm_file_path, 'x')
-except:
-    print("Error: " + osm_file_path + " already exists")
-    sys.exit()
-   ''' 
 
 fr_csv_r = csv.reader(fr);
 fr_csv = []
@@ -52,4 +47,8 @@ for i in range(1, len(fr_csv)):
             tag.attrib['v'] = fr_csv[i][j]
 
 tree = ElementTree(fw_xml)
-tree.write(osm_file_path, encoding="utf-8", xml_declaration=True) # write
+print("Info: Done building the tree")
+tree.write(osm_file_path, encoding = "utf-8", xml_declaration = True) # write
+print("Info: Writed to " + osm_file_path)
+
+fr.close()
