@@ -39,7 +39,7 @@ for i in range(1, len(fr_csv)):
     node.attrib['visible'] = 'true'
 
     if not fr_csv[i][0] or not fr_csv[i][1]:
-        print("Error: All of lines have coordinate")
+        print("Error: All of lines must have coordinate")
         sys.exit()
     else:    
         node.attrib['lat'] = fr_csv[i][0]
