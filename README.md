@@ -9,7 +9,7 @@ ex. `python csvtoosm.py test.csv`
 
 `python csvtoosm.py test.csv euc-kr`
 
-defalut incoding is 'utf-8'.
+defalut incoding is 'utf-8'. The two columns of the csv file must have coordinates. (lat, lon)
 
 * convertphonenumber.py
 
@@ -19,4 +19,5 @@ ex. `python csvtoosm.py test.csv 82`
 
 `python csvtoosm.py test.csv 82 euc-kr`
 
-defalut incoding is 'utf-8'.
+defalut incoding is 'utf-8'. The two columns of the csv file must not have infomation unless coordinates.
+If one or more of `phone`, `contact:phone`, `contact:mobile`, `contact:fax`, `contact:tty` exist, this application convert it smartly.
