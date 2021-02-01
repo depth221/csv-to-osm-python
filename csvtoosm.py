@@ -48,7 +48,12 @@ for i in range(1, len(fr_csv)):
 
 tree = ElementTree(fw_xml)
 print("Info: Done building the tree")
-tree.write(osm_file_path, encoding = "utf-8", xml_declaration = True) # write
-print("Info: Writed to " + osm_file_path)
+try:
+    tree.write(osm_file_path, encoding = "utf-8", xml_declaration = True) # write
+except:
+    print("Error: Please delete '" + osm_file_path + "'")
+    sys.exit()
+    
+print("Info: Writed to '" + osm_file_path + "'")
 
 fr.close()

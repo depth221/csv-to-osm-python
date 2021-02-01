@@ -44,11 +44,15 @@ for j in range(2, len(keys_to_add)):
 
 print("Info: Done converting")
 fr.close()
-fw = open(csv_file_path[:-4] + "_phone.csv", 'w', encoding=csv_incoding, newline='') # write
+try:
+    fw = open(csv_file_path[:-4] + "_phone.csv", 'w', encoding=csv_incoding, newline='') # write
+except:
+    print("Error: Please delete '" + csv_file_path[:-4] + "_phone.csv'")
+    sys.exit()
 
 writer = csv.writer(fw)
 for i in fr_csv:
     writer.writerow(i)
 
-print("Info: Writed to " + csv_file_path[:-4] + "_phone.csv")
+print("Info: Writed to '" + csv_file_path[:-4] + "_phone.csv'")
 fw.close()
