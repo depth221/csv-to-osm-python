@@ -1,0 +1,163 @@
+위도,경도,name,amenity,community_centre,community_centre:for,addr:full,operator,operator:type,source:date
+33.2263718255,126.2694812389,상모1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 상모인성로 18,이교동마을회,community,2020-06-10
+33.2242128884,126.2599432158,상모2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 상모로274번길 10,상모2리 마을회,community,2020-06-10
+33.2219490263,126.2582931385,상모3리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 영서중로 45-4,상모3리 마을회,community,2020-06-10
+33.2159612215,126.2575070032,하모1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 최남단해안로125번길 47,하모1리 마을회,community,2020-06-10
+33.2202502977,126.2534546196,하모2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 신영로94번길 7,하모2리마을회,community,2020-06-10
+33.2217715861,126.249751579,하모3리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 하모상가로 9,하모3리 마을회,community,2020-06-10
+33.2285401098,126.2430725258,동일1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 동일하모로 99,동일리 마을회,community,2020-06-10
+33.2281611097,126.2412434718,동일1리 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 동일하모로 88,동일1리 마을회,community,2020-06-10
+33.2578425676,126.2366042472,동일2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 암반수마농로329번길 18,동일2리 마을회,community,2020-06-10
+33.2346721816,126.2397066857,일과1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 암반수마농로55번길 34,일과1리 마을회,community,2020-06-10
+33.2462842424,126.2238329637,일과2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 서림로 8,일과2리 마을회,community,2020-06-10
+33.2478003453,126.2804410533,인성리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 향교로75번길 60,인성리 마을회,community,2020-06-10
+33.2501921339,126.2818121362,안성리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 추사로 10-1,안성리 마을회,community,2020-06-10
+33.2513519399,126.2728703896,보성리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 추사로 93-10,보성리 마을회,community,2020-06-10
+33.251169375,126.2731036849,보성리 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 추사로 93-7,보성리 마을회,community,2020-06-10
+33.2653033538,126.2591074491,신평리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 중산간서로 2610,신평리 마을회,community,2020-06-10
+33.2728360278,126.2791538373,구억리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 중산간서로 2380,구억리 마을회,community,2020-06-10
+33.2742665466,126.2801853812,구억리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 중산간서로 2362,구억리 마을회,community,2020-06-10
+33.1664378466,126.2735293142,가파리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 가파로 73,가파리 어촌계,community,2020-06-10
+33.1180359459,126.2663207748,마라리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 마라로 65,마라도 마을회,community,2020-06-10
+33.2585553385,126.2109753818,영락리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 영락중동로 11,영락리 마을회,community,2020-06-10
+33.2701386983,126.2029889355,무릉1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 서삼중로 81,무릉1리 마을회,community,2020-06-10
+33.274845856,126.2352670185,무릉2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 중산간서로 2868,무릉2리 마을회,community,2020-06-10
+33.2812017047,126.2238460835,무릉2리 평지동마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 무영로228번길 19,무릉2리 평지동 마을회,community,2020-06-10
+33.2784330012,126.1917502468,신도1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 도원로 217,신도1리 마을회,community,2020-06-10
+33.2776223526,126.174854054,신도2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 도원로 43,신도2리 마을회,community,2020-06-10
+33.2866984721,126.1845116891,신도3리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대정읍 비자낭로 8,신도3리 마을회,community,2020-06-10
+33.2778188511,126.716155272,남원1리 종합복지회관,community_centre,village_hall,,제주특별자치도 서귀포시 남원읍 남원회관로 27,남원1리마을회 ,community,2020-06-10
+33.2738935219,126.6957308717,남원1리 신성동회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 태위로510번길 79-2,남원1리 ,community,2020-06-10
+33.2778188511,126.716155272,남원1리 어촌체험마을 방문자센터,community_centre,village_hall,,제주특별자치도 서귀포시 남원읍 남원회관로 27,남원1리,community,2020-06-10
+33.29480909,126.7114149276,남원2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 서의로 26,남원2리 마을회 ,community,2020-06-10
+33.2927534973,126.7099186435,남원2리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 남한로 173,남원2리 마을회,community,2020-06-10
+33.29480909,126.7114149276,남원2리 의례회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 서의로 26,남원2리 마을회,community,2020-06-10
+33.2927534973,126.7099186435,구 남원2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 남한로 173,남원2리 마을회,community,2020-06-10
+33.283439391,126.733145531,태흥1리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 태위로 817,태흥1리 마을회,community,2020-06-10
+33.283439391,126.733145531,태흥1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 태위로 817,태흥1리 마을회,community,2020-06-10
+33.2877131026,126.7451648454,태흥2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 태신로 14,태흥2리 마을회,community,2020-06-10
+33.2935930684,126.7584735241,태흥3리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 삼덕로 3,태흥3리 마을회,community,2020-06-10
+33.2935930684,126.7584735241,태흥3리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 삼덕로 3,태흥3리 마을회,community,2020-06-10
+33.273796837,126.657192757,위미1리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 위미해안로 4-3,위미1리 마을회,community,2020-06-10
+33.2740564802,126.6571831553,위미1리 경로복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 위미해안로 4-2,위미1리 마을회,community,2020-06-10
+33.2753894014,126.668603149,위미2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 태위로 197,위미2리 마을회 ,community,2020-06-10
+33.283116947,126.6614545732,위미2리 다목적복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 위미중앙로 78,위미2리 마을회 ,community,2020-06-10
+33.275529501,126.6878979884,위미3리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 태위로 381-5,위미3리 마을회,community,2020-06-10
+33.289800327,126.6576884486,위미2리 한마을복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 중산간동로 6862,위미2리마을회,community,2020-06-10
+33.2691679558,126.6253505133,하례1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 하례중앙로 95,하례1리 마을회,community,2020-06-10
+33.297204671,126.6088595616,하례2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 하례돈야로 83,하례2리 마을회,community,2020-06-10
+33.2881222069,126.6272191009,신례1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 신례중앙로 37,신례1리 마을회,community,2020-06-10
+33.2650876157,126.6407757466,신례2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 공천포로 69-1,신례2리 마을회,community,2020-06-10
+33.311850736,126.6951652583,한남리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 남한로 431,한남리 마을회,community,2020-06-10
+33.3284702633,126.7136755029,수망리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 태수로 599-34,수망리 마을회,community,2020-06-10
+33.3103395099,126.713305249,의귀리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 한신로 207,의귀리 마을회,community,2020-06-10
+33.3103395099,126.713305249,구 의귀리 노인회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 한신로 207,의귀리 마을회,community,2020-06-10
+33.3041475085,126.7669485323,신흥1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 신흥로 34,신흥1리마을회,community,2020-06-10
+33.304052174,126.7680397145,신흥1리 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 신흥앞동산로40번길 22-43,신흥1리마을회,community,2020-06-10
+33.3045706918,126.7676002498,신흥1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 신흥로 32-10,신흥2리마을회,community,2020-06-10
+33.3211355991,126.7456045988,신흥2리 종합복지타운,community_centre,village_hall,senior,제주특별자치도 서귀포시 남원읍 중산간동로 5807,신흥2리마을회,community,2020-06-10
+33.4648876863,126.9342771436,성산리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 성산중앙로65번길 7-1,성산리마을회,community,2020-06-10
+33.463628919,126.9340500419,구)성산리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 성산중앙로 46,성산리마을회,community,2020-06-10
+33.4614859071,126.9149861594,오조리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 오조로 85,오조리 마을회,community,2020-06-10
+33.4761520935,126.898993023,시흥리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 일주동로 3916,시흥리마을회,community,2020-06-10
+33.4448401027,126.9120211613,고성리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 서성일로1222번길 36,고성리마을회,community,2020-06-10
+33.4381754818,126.9174091936,신양리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 신고로 28,신양리마을회,community,2020-06-10
+33.4458799532,126.8829301053,수산1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 수산서남로 17,수산1리마을회,community,2020-06-10
+33.4421313765,126.8638222602,수산2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 수산서남로79번길 150,수산2리마을회,community,2020-06-10
+33.4081209913,126.9001726607,온평리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 온평애향로23번길 6,온평리마을회,community,2020-06-10
+33.4081209913,126.9001726607,온평리 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 온평애향로23번길 6,온평리마을회,community,2020-06-10
+33.4011802713,126.8707916169,난산리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 난산로 39,난산리마을회,community,2020-06-10
+33.4007733303,126.8713597871,난산리 마을다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 난산로 29,난산리마을회,community,2020-06-10
+33.3810298642,126.8768870122,신산리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 신산중앙로 1,신산리마을회,community,2020-06-10
+33.3801773934,126.8755427068,신산리 종합복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 일주동로 5120,신산리마을회,community,2020-06-10
+33.3742313734,126.8474178221,삼달1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 삼달로 209,삼달1리마을회,community,2020-06-10
+33.3694086079,126.8687195858,삼달2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 일주동로 5252,삼달2리마을회,community,2020-06-10
+33.3613983852,126.8352688037,신풍리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 신풍상동로 4,신풍리마을회,community,2020-06-10
+33.3441849584,126.8497949073,신천리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 성산읍 신천서로 5,신천리마을회,community,2020-06-10
+33.2463402196,126.3363012784,구)화순리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 화순중앙로 67,화순리마을회,community,2020-06-10
+33.2459863989,126.3335312882,화순리 종합복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 화순로 121-5,제주특별자치도,community,2020-06-10
+33.253965026,126.3297148362,화순리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 화순문화로 2,화순리부녀회(화순리마을회),community,2020-06-10
+33.2564828062,126.3291332849,화순리 마을센터,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 화순서서로 63,화순리마을회,community,2020-06-10
+33.231095129,126.2980950066,사계리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 사계중앙로 3,사계리마을회,community,2020-06-10
+33.2492817162,126.3233294477,사계리 산방 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 사계신항로 25-10,사계리마을회,community,2020-06-10
+33.254641923,126.3064917105,덕수리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 덕수회관로 98,덕수리마을회,community,2020-06-10
+33.254641923,126.3064917105,구)덕수리 새마을문고,library,,,제주특별자치도 서귀포시 안덕면 덕수회관로 98,덕수리마을회,community,2020-06-10
+33.254184115,126.3065296668,덕수리 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 덕수회관로 97,덕수리마을회,community,2020-06-10
+33.2849955875,126.3023055889,서광서리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 서광남로 144-5,서광서리마을회,community,2020-06-10
+33.2849955875,126.3023055889,서광서리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 서광남로 144-5,서광서리마을회,community,2020-06-10
+33.2879889557,126.3311767625,서광동리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 서광동로 17,서광동리마을회,community,2020-06-10
+33.2889281161,126.3301132368,서광동리 복합문화공간,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 서광동로47번길 19,서광동리마을회,community,2020-06-10
+33.3076041796,126.3399092491,동광리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 동광로 126,동광리마을회,community,2020-06-10
+33.3048580509,126.3382463251,동광리 해바른작은도서관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 동광로100번길 12,동광리마을회(문화마을조성시),community,2020-06-10
+33.3295889635,126.3812443597,광평리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 광평로 41,광평리마을회,community,2020-06-10
+33.3068421,126.3784946,상천리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 병악로 408-3,상천리마을회,community,2020-06-10
+33.2722780676,126.3660511671,상창리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 한창로 102,상창리마을회,community,2020-06-10
+33.2655896511,126.3684864129,창천리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 창천중앙로 31,창천리마을회,community,2020-06-10
+33.2673604377,126.3691992031,창천리 건강관리실,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 창천중앙로 55,창천리마을회,community,2020-06-10
+33.2658284758,126.3686435363,창천리 문화회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 창천중앙로 35-2,창천리마을회,community,2020-06-10
+33.2383367368,126.3658885314,대평리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 대평감산로 43,대평리마을회,community,2020-06-10
+33.2354497343,126.3669479256,대평리 용왕난드르 체험장,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 대평감산로 8 ,대평리마을회,community,2020-06-10
+33.2594738197,126.3538879578,감산리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 감산중로 29,감산리마을회,community,2020-06-10
+33.2588518135,126.3535619999,감산리 마을문고,library,,,제주특별자치도 서귀포시 안덕면 감산중로 34-1,감산리마을회,community,2020-06-10
+33.2590094653,126.3533633749,감산리 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 안덕면 감산중로 32,감산리마을회,community,2020-06-10
+33.2588518135,126.3535619999,감산리 산이마을방문객센터,community_centre,village_hall,,제주특별자치도 서귀포시 안덕면 감산중로 34-1,감산리마을회,community,2020-06-10
+33.3247199533,126.832352118,표선리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 표선동서로 234,표선리 마을회,community,2020-06-10
+33.3277518451,126.8236809504,표선리 복합문화센터,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 표선관정로 48-36,표선리 마을회,community,2020-06-10
+33.3311469,126.8284242,표선리 종합복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 표선중앙로 21,제주특별자치도,community,2020-06-10
+33.3463917768,126.840818815,하천리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 하천로 59,하천리 마을회,community,2020-06-10
+33.3899568113,126.7977816504,성읍1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 중산간동로 4658,성읍1리 마을회,community,2020-06-10
+33.3923458651,126.8009834228,성읍1리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 서성일로10번길 6-4,성읍1리 마을회,community,2020-06-10
+33.3977394351,126.8044452075,성읍1리 복지타운,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 서성일로 74,성읍1리 마을회,community,2020-06-10
+33.4132783692,126.7719813327,성읍2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 성읍이리로 52,성읍2리 마을회,community,2020-06-10
+33.3531468528,126.7715623812,가시리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 가시로565번길 20,가시리 마을회,community,2020-06-10
+33.3531468528,126.7715623812,가시리 문화센터,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 가시로565번길 20,가시리 마을회,community,2020-06-10
+33.3293937342,126.7982224072,세화1리 마을문고회,library,,,제주특별자치도 서귀포시 표선면 세성로 274,세화1리마을회,community,2020-06-10
+33.3318313679,126.7979976735,세화1리 종합복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 세성로 302,세화1리마을회,community,2020-06-10
+33.3318313679,126.7979976735,세화1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 세성로 302,세화1리마을회,community,2020-06-10
+33.3070417962,126.801228961,세화2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 일주동로 6276,세화2리마을회,community,2020-06-10
+33.3070417962,126.801228961,세화2리 건강관리동,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 일주동로 6276,세화2리마을회,community,2020-06-10
+33.3187124968,126.7902655802,세화3리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 세화로 168,세화3리 마을회,community,2020-06-10
+33.3264659417,126.7657377844,토산1리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 중산간동로5570번길 2,토산1리 마을회,community,2020-06-10
+33.3264659417,126.7657377844,토산1리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 중산간동로5570번길 2,토산1리 마을회,community,2020-06-10
+33.3087689925,126.7796501094,토산2리 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 토산중앙로16번길 1,토산2리 마을회,community,2020-06-10
+33.30943,126.7809109,토산2리 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 표선면 토산리 332-12,토산2리 마을회,community,2020-06-10
+33.2450313075,126.5660082536,서귀 송산복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 소암로 4,제주특별자치도,community,2020-06-10
+33.2412990528,126.6028597146,보목 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 보목로70번길 51-2,보목마을회,community,2020-06-10
+33.2445080107,126.553679799,남성 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 남성중로141번길 3,남성마을회장(남성마을회),community,2020-06-10
+33.2645972645,126.614332626,신효 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 신효중앙로4번길 1,신효마을회장,community,2020-06-10
+33.2620182926,126.618911618,하효 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 하효중앙로 132,하효마을회장,community,2020-06-10
+33.257979061,126.6177615376,하효 마을다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 칠십리로 740,하효마을회,community,2020-06-10
+33.2710092014,126.5905064083,토평 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 토상로 7,토평마을회,community,2020-06-10
+33.2699674411,126.5895710391,토평동 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 토평로50번길 4,토평마을회,community,2020-06-10
+33.2726392142,126.59708921,상효1동 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 상효로 152,상효1동 마을회,community,2020-06-10
+33.2807980749,126.6098172814,상효2동 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 동상효로 23,상효2동 마을회,community,2020-06-10
+33.2916097071,126.5960572815,법호촌 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 하신상로427번길 5-3,법호촌 마을회,community,2020-06-10
+33.3021439073,126.5743325178,돈내코 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 돈내코로 217,돈내코 마을회,community,2020-06-10
+33.266284543,126.5670494257,동홍동 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 중산간동로 7950,제주특별자치도,community,2020-06-10
+33.2639957,126.5484827,서홍동 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 중산간동로 8106,제주특별자치도,community,2020-06-10
+33.2404635743,126.5166016881,법환동 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 이어도로 968,법환동마을회,community,2020-06-10
+33.2569979441,126.5227521564,서호동 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 서호로 33,서호동마을회,community,2020-06-10
+33.2569893252,126.5280536203,호근동 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 호근남로 6,호근동마을회,community,2020-06-10
+33.2517344048,126.5121056058,대륜동 새서귀포 마을회 사무실,community_centre,village_hall,senior,제주특별자치도 서귀포시 신동로27번길 6-7,새서귀포마을회,community,2020-06-10
+33.2582508372,126.5240674978,서호마을 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 서호호근로 123,서호동마을회,community,2020-06-10
+33.2501741409,126.5133719227,새서귀포 대륜동 문화복지센터,community_centre,village_hall,senior,제주특별자치도 서귀포시 서호남로 10,제주특별자치도,community,2020-06-10
+33.237186615,126.4776856911,강정  마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 강정통물로 112,강정동마을회장,community,2020-06-10
+33.2520636229,126.4811727628,용흥 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 용흥로 67,용흥동마을회,community,2020-06-10
+33.2461211543,126.4610650518,월평 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 월평로 43,월평동마을회,community,2020-06-10
+33.2508531483,126.4754668208,도순 마을복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 도순남로29번길 13,도순동마을회,community,2020-06-10
+33.2459803,126.4586318,월평 다목적회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 월평로 41,월평마을회장,community,2020-06-10
+33.2538114118,126.4250941838,중문 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 중문로26번길 7,중문마을회,community,2020-06-10
+33.2424866373,126.4320740104,대포 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 대포동서로 135,대포마을회,community,2020-06-10
+33.2570408681,126.4600579299,하원 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 하원로19번길 20-6,하원마을회,community,2020-06-10
+33.2625699869,126.4462007791,회수 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 중산간서로 645,회수마을회,community,2020-06-10
+33.2608296404,126.4104612685,색달 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 색달로72번길 2,색달마을회장,community,2020-06-10
+33.2608296404,126.4104612685,색달 청년회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 색달로72번길 2,색달마을회장,community,2020-06-10
+33.2609674483,126.4113832965,색달 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 색달로 74,색달마을회장,community,2020-06-10
+33.2487363,126.3884001,상예1 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 예래로144번길 42,상예1마을회장,community,2020-06-10
+33.253224725,126.3897670496,상예1 복지타운,community_centre,village_hall,senior,제주특별자치도 서귀포시 상예로 77,상예1마을회장,community,2020-06-10
+33.2657189772,126.3769642129,상예2 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 존제로15번길 2,상예2마을회장,community,2020-06-10
+33.2653900966,126.3775461049,상예2 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 존제로 12,상예2마을회장,community,2020-06-10
+33.2652218663,126.3778005856,상예2 복지타운,community_centre,village_hall,senior,제주특별자치도 서귀포시 존제로 10,상예2마을회장,community,2020-06-10
+33.2434436837,126.3860495285,하예1 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 하예로 1-3,하예1마을회,community,2020-06-10
+33.2365133125,126.373291828,하예2 마을회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 예래로 416,하예2마을회장,community,2020-06-10
+33.2365133125,126.373291828,하예2 마을 복지회관,community_centre,village_hall,senior,제주특별자치도 서귀포시 예래로 416,하예2마을회장,community,2020-06-10

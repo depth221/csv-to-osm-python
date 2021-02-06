@@ -1,0 +1,20 @@
+위도,경도,amenity,social_facility,name,phone,addr:full,addr:district,addr:street,addr:housenumber,addr:subdistrict,addr:unit,level,addr:door
+37.77303153,128.8996002,social_facility,nursing_home,YWCA,+82 33 651 2385,,,수리골길,27,,,,
+37.75233362,128.8861547,social_facility,nursing_home,해피케어,+82 33 655 3579,,,홍제로,44,,,,
+37.5468641,129.1064642,social_facility,nursing_home,동해YWCA,+82 33 531 3007,,,발한로,182,,,,
+38.201638,128.535232,social_facility,nursing_home,산모나라,+82 33 635 3582,,,신흥3길,11,,,,
+38.215143,128.590126,social_facility,nursing_home,속초YWCA 돌봄과 살림,+82 33 636 3525,,,번영로,184,,,,
+37.350291,127.945422,social_facility,nursing_home,원주YWCA,+82 33 742 6091,,,천사로,190,,,,
+37.291036,127.917833,social_facility,nursing_home,에스엠천사,+82 33 762 7118,강원도 원주시 흥업면 북원로 1600 남원주 두산 위브 APT상가 2층 203호,,북원로,1600,흥업면,,2,203
+37.349528,127.952162,social_facility,nursing_home,굿아이맘,+82 33 744 3575,,,평원로,37,,,3,
+37.341905,127.934176,social_facility,nursing_home,맘스매니저,+82 33 731 7325,,,이화4길,87,,,,101
+37.88359876,127.7288026,social_facility,nursing_home,(사) 대한여자기독교춘천YWCA,+82 33 254 4878,,,중앙로,14,,,,
+37.86342922,127.7234628,social_facility,nursing_home,참사랑어머니회,+82 33 253 7307,,,충혼길5번길,1,,,,
+37.88357854,127.7418473,social_facility,nursing_home,춘천아가마지,+82 33 253 3532,,,삭주로,98-1,,,2,
+37.86108404,127.7401399,social_facility,nursing_home,친정맘,+82 33 257 3248,강원도 춘천시 효석로 77번길 20-1,,효석로,20-1,,,,
+37.87839424,127.7669285,social_facility,nursing_home,빅맘,+82 33 257 3249,,,만천로,57-1,,,2,
+37.86131399,127.7201695,social_facility,nursing_home,산모도우미119,+82 33 255 3519,강원도 춘천시 충혼길 44번길 12,,충혼길,12,,,,
+37.87512581,127.7436019,social_facility,nursing_home,바우처베스트맘,+82 33 256 3710,,,백령로,152,,,3,
+37.36903725,128.3978508,social_facility,nursing_home,평창지역자활센터,+82 33 332 5432,,,노성로,129,평창읍,,,
+37.656453,127.886526,social_facility,nursing_home,즐거운산모도우미센터,+82 33 432 2200,,,성산터길,12-10,홍천읍,,,
+37.489426,127.992162,social_facility,nursing_home,(유)열린사회서비스센터,+82 33 343 7132,,,어사매로,41,횡성읍,,,

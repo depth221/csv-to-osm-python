@@ -1,0 +1,10 @@
+위도,경도,name,addr:full,phone,website,amenity,community_centre,community_centre:for,addr:district,addr:street,addr:housenumber,addr:subdistrict,addr:unit,level,addr:door
+35.19157102,129.0856105,부산광역시육아종합지원센터,,+82 51 866 0536,http://busan.childcare.go.kr,community_centre,famaily_centre,family,,거제천로,262,연산동,,,
+35.15547355,129.0348512,부산진구육아종합지원센터,,+82 51 936 7011,http://bjscfc.or.kr,community_centre,famaily_centre,family,,가야대로,575-18,가야동,,,
+35.2115,129.0956729,동래구육아종합지원센터,,+82 51 526 0756,http://bdscc.or.kr,community_centre,famaily_centre,family,,시실로,129,명장동,,,
+35.21593924,129.0263489,북구육아종합지원센터,,+82 51 342 6161,http://bbgscc.or.kr,community_centre,famaily_centre,family,,만덕1로104번가길,37,만덕동,,,
+35.22077852,129.1189306,해운대구육아종합지원센터,,+82 51 527 2446,http://ecohud.or.kr,community_centre,famaily_centre,family,,반송로513번길,66-11,석대동,,,
+35.18408371,129.0802187,연제구육아종합지원센터,,+82 51 866 7191,http://www.yjscfc.or.kr,community_centre,famaily_centre,family,,거제대로124번길,22,거제동,,,
+35.15970609,129.1115179,수영구육아종합지원센터,,+82 51 756 3700,http://bsyscc.or.kr,community_centre,famaily_centre,family,,장대골로,20-14,광안동,,,
+35.16801707,128.9778956,사상구육아종합지원센터,,+82 51 321 3389,http://www.sasangicare.kr,community_centre,famaily_centre,family,,낙동대로1210번길,17,괘법동,,,
+35.32632973,129.1822294,기장군육아종합지원센터,부산광역시 기장군 정관읍 정관중앙로 110(정관읍),+82 51 991 0777,http://www.gijangchild.or.kr,community_centre,famaily_centre,family,,정관중앙로,110,정관읍,정관,,

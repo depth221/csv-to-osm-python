@@ -1,0 +1,10 @@
+위도,경도,amenity,religion,denomination,name,addr:full,website,addr:district,addr:street,addr:housenumber,addr:subdistrict,addr:unit,level,addr:door
+35.735011,128.627518,place_of_worship,buddhist,mahayana,남지장사,,http://www.namgijangsa.or.kr/,,남지장사길,95,가창면,,,
+35.696328,128.528312,place_of_worship,buddhist,mahayana,대견사,,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=108&key=fd_cate_name&keyword=&category=2159&start=,,휴양림길,232,유가면,,,
+35.691312,128.510458,place_of_worship,buddhist,mahayana,소재사,,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=68&key=fd_cate_name&keyword=&category=2159&start=,,휴양림길,228,유가면,,,
+35.768916,128.538983,place_of_worship,buddhist,mahayana,용문사,,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=106&key=fd_cate_name&keyword=&category=2159&start=,,화원휴양림길,132,화원읍,,,
+35.748159,128.521124,place_of_worship,buddhist,mahayana,용연사,,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=5&key=fd_cate_name&keyword=&category=2159&start=,,용연사길,260,옥포면,,,
+35.780189,128.603465,place_of_worship,buddhist,mahayana,운흥사,,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=104&key=fd_cate_name&keyword=&category=2159&start=,,헐티로,1068,가창면,,,
+35.714467,128.507499,place_of_worship,buddhist,mahayana,유가사,,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=10&key=fd_cate_name&keyword=&category=2159&start=,,유가사길,161,유가면,,,
+35.69806,128.44643,place_of_worship,buddhist,mahayana,현풍 포교당,대구광역시 달성군 현풍면 현풍동로 27길 54-6,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=107&key=fd_cate_name&keyword=&category=2159&start=,,현풍동로,54-6,현풍면,,,
+35.803013,128.502167,place_of_worship,buddhist,mahayana,화장사,대구광역시 달성군 화원읍 비슬로 522길 41,http://www.dalseong.daegu.kr/new/culture/html/page.html?mc=1956&mode=view&tbl=tourinfo&no=105&key=fd_cate_name&keyword=&category=2159&start=,,비슬로,41,화원읍,,,

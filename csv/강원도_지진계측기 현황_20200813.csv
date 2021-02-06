@@ -1,0 +1,22 @@
+경도(WGS84좌표),위도(WGS84좌표),man_made,monitoring:seismic_activity,name,operator,operator:type,start_date,addr:full
+128.8760583,37.7518458,monitoring_station,yes,강릉시청,강릉시,government,2014,강원도 강릉시 홍제동 1001
+128.4680551,38.3805632,monitoring_station,yes,고성군청,행정안전부,government,2014,강원도 고성군 간성읍 하리 12
+129.114494,37.5250249,monitoring_station,yes,동해시청(지하3축센서),동해시,government,2016,강원도 동해시 천곡동 806
+129.114494,37.5250249,monitoring_station,yes,동해시청(최상층2축센서),동해시,government,2016,강원도 동해시 천곡동 806
+129.114494,37.5250249,monitoring_station,yes,동해시청(최상층1축센서),동해시,government,2016,강원도 동해시 천곡동 806
+129.114494,37.5250249,monitoring_station,yes,동해시청,동해시,government,2016,강원도 동해시 천곡동 806
+129.114494,37.5250249,monitoring_station,yes,동해시청 신관(재난상황실),동해시,government,2016,강원도 동해시 천곡동 806
+128.5922597,38.2073706,monitoring_station,yes,속초시청,국민안전처,government,2014,강원도 속초시 중앙동 469-6
+127.9923897,38.1104458,monitoring_station,yes,양구군청 ,양구군,government,2015,강원도 양구군 양구읍 하리 34-5
+128.6191583,38.0756503,monitoring_station,yes,양양군청,양양군,government,2015,강원도 양양군 양양읍 군청길1
+128.5422133,38.0119521,monitoring_station,yes,양수발전소,양수발전소,government,2012,강원도 양양군 서면 영덕리 산74-1
+128.5422133,38.0119521,monitoring_station,yes,양양공항,양양공항,government,2013,강원도 양양군 서면 영덕리 산74-1
+127.9187,37.3409214,monitoring_station,yes,원주시청,행정안전부,government,2013,강원도 원주시 무실동 1
+128.169734,38.0695361,monitoring_station,yes,인제군청,인제군,government,2013,강원도 인제군 인제읍 상동리 349-6번지
+128.6613918,37.3782494,monitoring_station,yes,정선군청 별관,정선군,government,2012,강원도 정선군 정선읍 봉양리 267
+127.3125449,38.1465863,monitoring_station,yes,철원군청,철원군,government,2014,강원도 철원군 갈말읍 신철원리 649
+128.9868699,37.1626608,monitoring_station,yes,태백시청,태백시,government,2014,강원도 태백시 황지동 244-3
+128.3901368,37.3709597,monitoring_station,yes,평창군청,평창군,government,2012,강원도 평창군 평창읍 하리 210-2
+127.8888694,37.6967679,monitoring_station,yes,홍천군청 별관,홍천군,government,2015,강원도 홍천군 홍천읍 희망리 181
+127.7081308,38.1062847,monitoring_station,yes,화천군청,강원도,government,2015,강원도 화천군 화천읍 아리 239
+127.9850466,37.4917027,monitoring_station,yes,횡성군청,횡성군,government,2014,강원도 횡성군 횡성읍 읍하리 58-1
