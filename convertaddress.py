@@ -1,10 +1,13 @@
 import csv
 import sys
 import re
+import time
+
+start = time.time()
 
 csv_file_path = sys.argv[1]
 
-if not len(sys.argv) in [3, 4]: # if without a path of csv file to read
+if not len(sys.argv) in [2, 3]: # if without a path of csv file to read
     print("Usage: python convertaddress.py <csv_file> (<incoding_of_csv_file>)\n")
     sys.exit()
 
@@ -26,7 +29,9 @@ fr_csv[0].append('addr:district')
 fr_csv[0].append('addr:street')
 fr_csv[0].append('addr:housenumber')
 fr_csv[0].append('addr:subdistrict')
+fr_csv[0].append('addr:unit')
 fr_csv[0].append('level')
+fr_csv[0].append('addr:door')
 
 for j in range(2, len(keys_to_add)):
     if keys_to_add[j] in ['address', 'addr:full']:
@@ -39,8 +44,15 @@ for j in range(2, len(keys_to_add)):
             
             if fr_csv[i][j]: # if the address exists
                 address_splitted = fr_csv[i][j].replace("(", " (").split()
-                fr_csv[i].extend([None, None, None, None, None])
+                fr_csv[i].extend([None] * 7)
                 for factor in address_splitted:
+                    if factor[0] == "(": # erase ()
+                        factor = factor[1:]
+                    if factor[-1] == ")":
+                        factor = factor[:-1]
+
+                    if len(factor) == 0:
+                        continue
                     
                     if factor[-1] == "도": # addr:province
                         province = "do"
@@ -55,34 +67,65 @@ for j in range(2, len(keys_to_add)):
 
                     elif factor[-1] in ["시", "군", "구"]:
                         if province in ["teuk", "gwang", "jachi"]:
-                           fr_csv[i][-5] == factor # addr:district
+                           fr_csv[i][-7] == factor # addr:district
                         # else:
                             # addr:city
                     
-                    elif factor[-1] in ["읍", "면", "동", "가"]:
-                        fr_csv[i][-2] = factor # addr:subdistrict
-                    elif len(factor) >= 4 and\
+                    elif len(factor) >= 2 and factor[-2].upper() == factor[-2].lower() and factor[-1] in ["읍", "면", "동"]:
+                        if (len(factor) >= 3 and not factor[-3:-2].isdecimal()) or\
+                                (len(factor) == 2 and not factor[-2].isdecimal()):
+                            if fr_csv[i][-4]:
+                                fr_csv[i][-3] = factor[:-1] # addr:unit (exception)
+                                is_exception = True
+                            else:
+                                fr_csv[i][-4] = factor
+                    elif len(factor) >= 3 and factor[-3] == "로" and factor[-2].isdecimal() and factor[-1] == "가":
+                        fr_csv[i][-4] = factor # addr:subdistrict
+                    elif (len(factor) >= 4 and\
                              len(re.findall("\d", factor)) <= 1 and\
                              factor[0] == "(" and factor[-1] == ")" and\
-                             factor[-2] in ["동", "가"]: 
+                             factor[-3].upper() == factor[-3].lower() and\
+                             factor[-2] in ["읍", "면", "동"])\
+                        or len(factor) >= 5 and\
+                             factor[-3].isdecimal() and\
+                             factor[0] == "(" and factor[-1] == ")" and\
+                             factor[-2] == "가": 
                         # 1. avoid out of range error
                         # 2. only has one digit
-                        fr_csv[i][-2] = factor[1:-1] # (OOn-dong)
+                        fr_csv[i][-4] = factor[1:-1] # (OOn-dong)
 
                     elif factor[-1] in ["로", "길"]: # addr:street
-                        fr_csv[i][-4] = factor
+                        if fr_csv[i][-6]:
+                            is_exception = True
+                        else:
+                            fr_csv[i][-6] = factor
                         
                     elif factor.replace('-', '').replace(',', '').isdecimal(): # addr:housenumber
+                        if fr_csv[i][-5]:
+                            is_exception = True
+                            continue
+                            
                         if factor[-1] == ",":
-                            fr_csv[i][-3] = factor[:-1]
+                            fr_csv[i][-5] = factor[:-1]
                         else:
-                            fr_csv[i][-3] = factor
+                            fr_csv[i][-5] = factor
+
+                    elif (len(factor) >= 2 and factor[-1] == "동"):
+                        if factor[:-1].isdecimal() or factor[-2].upper() != factor[-2].lower():
+                            if fr_csv[i][-3]:
+                                fr_csv[i][-4] = factor # addr:subdistrict (exception)
+                                is_exception = True
+                            else:
+                                fr_csv[i][-3] = factor[:-1] # addr:unit
+
+                    elif (len(factor) >= 2 and factor[-1] == "호"):
+                        fr_csv[i][-1] = factor[:-1].replace('~', '-') # addr:room
 
                     elif factor[-1] == "층": # level
                         if factor[0:2] == "지하":
-                            fr_csv[i][-1] = "-" + factor[2:-1] # basement
+                            fr_csv[i][-2] = "-" + factor[2:-1] # basement
                         elif factor[:-1].isdecimal():
-                            fr_csv[i][-1] = factor[:-1]
+                            fr_csv[i][-2] = factor[:-1]
                         else:
                             is_exception = True
 
@@ -97,12 +140,12 @@ fr.close()
 try:
     fw = open(csv_file_path[:-4] + "_address.csv", 'w', encoding=csv_incoding, newline='') # write
 except:
-    print("Error: Please delete '" + csv_file_path[:-4] + "_address.csv'")
+    print("Error: Please delete '" + csv_file_path[:-4] + "_address.csv (%.3fs)" %(time.time() - start))
     sys.exit()
 
 writer = csv.writer(fw)
 for i in fr_csv:
     writer.writerow(i)
 
-print("Info: Writed to '" + csv_file_path[:-4] + "_address.csv'")
+print("Info: Writed to '" + csv_file_path[:-4] + "_address.csv' (%.3fs)" %(time.time() - start))
 fw.close()
