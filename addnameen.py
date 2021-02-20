@@ -39,9 +39,8 @@ for j in range(2, len(keys_to_add)):
 
                 if (fr_csv[i][j])[-1] == ")":
                     pos_of_left = [a.start() for a in re.finditer('\(', fr_csv[i][j])][-1]
-                    fr_csv[i][-2] = (fr_csv[i][j])[pos_of_left - 1:-1] # name:en
+                    fr_csv[i][-2] = (fr_csv[i][j])[pos_of_left + 1:-1] # name:en
                     fr_csv[i][-1] = (fr_csv[i][j])[:pos_of_left] # name:ko
-                    fr_csv[i][j] = fr_csv[i][-2] # name
 
 print("Info: Done converting")
 fr.close()
