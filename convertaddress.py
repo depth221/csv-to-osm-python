@@ -119,7 +119,10 @@ for j in range(2, len(keys_to_add)):
                                 fr_csv[i][-3] = factor[:-1] # addr:unit
 
                     elif (len(factor) >= 2 and factor[-1] == "호"):
-                        fr_csv[i][-1] = factor[:-1].replace('~', '-') # addr:room
+                        if fr_csv[i][-1]:
+                                is_exception = True
+                            else:
+                                fr_csv[i][-1] = factor[:-1].replace('~', '-') # addr:room            
 
                     elif factor[-1] == "층": # level
                         if factor[0:2] == "지하":
