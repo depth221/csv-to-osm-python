@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="JOSM">
+	<node id="-200001" action="modify" visible="true" lat="34.984077" lon="126.962474">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="남도명가"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 371 0085"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="능주농공길"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:subdistrict" v="능주면"/>
+	</node>
+	<node id="-200002" action="modify" visible="true" lat="34.991046" lon="126.956823">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="빛고을회관"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 372 1616"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="석고길"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:subdistrict" v="능주면"/>
+	</node>
+	<node id="-200003" action="modify" visible="true" lat="34.984805" lon="126.962224">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="전원"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="phone" v="+82 61 372 1663"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="죽수길"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:subdistrict" v="능주면"/>
+	</node>
+	<node id="-200004" action="modify" visible="true" lat="35.017017" lon="126.912507">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="남도의 향기"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 373 8989"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="212"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200005" action="modify" visible="true" lat="35.019288" lon="126.908537">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="둥근지붕"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="phone" v="+82 61 371 3333"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="260"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200006" action="modify" visible="true" lat="35.020478" lon="126.906505">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="쭈꾸미사랑"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="phone" v="+82 61 371 0008"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="279"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200007" action="modify" visible="true" lat="35.032559" lon="126.907046">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="시골돼지담양숯불갈비"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 375 8833"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="431"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200008" action="modify" visible="true" lat="35.033355" lon="126.907899">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="색동두부"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 5066"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="438"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200009" action="modify" visible="true" lat="35.034264" lon="126.907598">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="만강장어명품관"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="phone" v="+82 61 375 5525"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="444"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200010" action="modify" visible="true" lat="35.040149" lon="126.905343">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="옥수정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 371 7881"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="514"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200011" action="modify" visible="true" lat="35.042372" lon="126.904398">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="달맞이 흑두부"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 8465"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="542"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200012" action="modify" visible="true" lat="35.043461" lon="126.904253">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="수려재"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 374 4400"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="558"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200013" action="modify" visible="true" lat="34.983721" lon="126.893047">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="구백가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 373 8117"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="천태로"/>
+		<tag k="addr:housenumber" v="1020"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200014" action="modify" visible="true" lat="35.029606" lon="127.048866">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="달맞이 흑두부"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 372 8465"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="충의로"/>
+		<tag k="addr:housenumber" v="849"/>
+		<tag k="addr:subdistrict" v="동면"/>
+	</node>
+	<node id="-200015" action="modify" visible="true" lat="35.163821" lon="127.084242">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="적벽"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 370 5116"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="옥리길"/>
+		<tag k="addr:housenumber" v="14-21"/>
+		<tag k="addr:subdistrict" v="북면"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200016" action="modify" visible="true" lat="35.064344" lon="126.983984">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="석란"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 5333"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="교동길"/>
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200017" action="modify" visible="true" lat="35.060828" lon="126.991113">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="다원정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 7892"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="만연로"/>
+		<tag k="addr:housenumber" v="60-8"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200018" action="modify" visible="true" lat="35.073484" lon="127.001106">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="금막동갈비"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 374 8892"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="만연로"/>
+		<tag k="addr:housenumber" v="66-8"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200019" action="modify" visible="true" lat="35.053101" lon="126.988356">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="약산흑염소"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 373 9292"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="상삼2길"/>
+		<tag k="addr:housenumber" v="13-9"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200020" action="modify" visible="true" lat="35.068717" lon="126.988758">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="오메!인자오셨소"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 371 7722"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="서양로"/>
+		<tag k="addr:housenumber" v="478"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200021" action="modify" visible="true" lat="35.055577" lon="126.973647">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="사평다슬기수제비"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="phone" v="+82 61 372 6004"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="서양로"/>
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200022" action="modify" visible="true" lat="35.070316" lon="126.999233">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="저녁노을"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 9797"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="안양산로"/>
+		<tag k="addr:housenumber" v="68"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200023" action="modify" visible="true" lat="35.062257" lon="126.996263">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="예술보리밥"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 373 6789"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="용곡1길"/>
+		<tag k="addr:housenumber" v="46"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200024" action="modify" visible="true" lat="35.060614" lon="126.982688">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="금강민물"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="phone" v="+82 61 374 4898"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="중앙로"/>
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200025" action="modify" visible="true" lat="35.064774" lon="126.987535">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="수림정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 374 6560"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="진각로"/>
+		<tag k="addr:housenumber" v="154"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200026" action="modify" visible="true" lat="35.065213" lon="126.987588">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="다도복집"/>
+		<tag k="cuisine" v="seafood; blowfish"/>
+		<tag k="phone" v="+82 61 375 1547"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="진각로"/>
+		<tag k="addr:housenumber" v="160"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200027" action="modify" visible="true" lat="35.065824" lon="126.987589">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="달가 우리밀팥죽,칼국수"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 8889"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="진각로"/>
+		<tag k="addr:housenumber" v="166"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200028" action="modify" visible="true" lat="35.073952" lon="126.989452">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="초향"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 375 4321"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="진각로"/>
+		<tag k="addr:housenumber" v="260"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200029" action="modify" visible="true" lat="35.05367" lon="126.973856">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="백두대간"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 371 9292"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="칠충로"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200030" action="modify" visible="true" lat="35.040412" lon="126.963047">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="경복궁"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 371 2222"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="학포로"/>
+		<tag k="addr:housenumber" v="2584-1"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200031" action="modify" visible="true" lat="35.051069" lon="126.961629">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="들녘"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 371 1530"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="학포로"/>
+		<tag k="addr:housenumber" v="2655"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200032" action="modify" visible="true" lat="35.05055" lon="126.965406">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="외갓집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 1818"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="학포로"/>
+		<tag k="addr:housenumber" v="2699"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200033" action="modify" visible="true" lat="35.062622" lon="126.986572">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="남해바다"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 372 8555"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="진각로"/>
+		<tag k="addr:housenumber" v="128"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200034" action="modify" visible="true" lat="34.98189" lon="126.891394">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="은성가든"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 373 9230"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="천태로"/>
+		<tag k="addr:housenumber" v="996"/>
+		<tag k="addr:subdistrict" v="도암면"/>
+	</node>
+	<node id="-200035" action="modify" visible="true" lat="35.064589" lon="126.989876">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="현대찜갈비"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="phone" v="+82 61 371 8295"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="만연로"/>
+		<tag k="addr:housenumber" v="99"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+	<node id="-200036" action="modify" visible="true" lat="35.041485" lon="126.904639">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="행복한임금님"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 374 0211"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="지강로"/>
+		<tag k="addr:housenumber" v="532"/>
+		<tag k="addr:subdistrict" v="도곡면"/>
+	</node>
+	<node id="-200037" action="modify" visible="true" lat="35.052943" lon="126.977483">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="여미꽃"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 61 375 5710"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-09-25"/>
+		<tag k="addr:street" v="서양로"/>
+		<tag k="addr:housenumber" v="41"/>
+		<tag k="addr:subdistrict" v="화순읍"/>
+	</node>
+</osm>
