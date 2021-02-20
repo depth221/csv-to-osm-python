@@ -1,2 +1,278 @@
 <?xml version='1.0' encoding='utf-8'?>
-<osm version="0.6" generator="JOSM"><node id="-200001" action="modify" visible="true" lat="35.630153" lon="127.8118741"><tag k="amenity" v="restaurant" /><tag k="name" v="안의원조갈비집" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 962 4333" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="강변로" /><tag k="addr:housenumber" v="317" /><tag k="addr:subdistrict" v="안의면" /></node><node id="-200002" action="modify" visible="true" lat="35.5292622" lon="127.7313986"><tag k="amenity" v="restaurant" /><tag k="name" v="안의갈비탕" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 8700" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="함양로" /><tag k="addr:housenumber" v="1243" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200003" action="modify" visible="true" lat="35.517497" lon="127.726443"><tag k="amenity" v="restaurant" /><tag k="name" v="갑을식당" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 962 3540" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="함양로" /><tag k="addr:housenumber" v="1106" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200004" action="modify" visible="true" lat="35.5185725" lon="127.7252678"><tag k="amenity" v="restaurant" /><tag k="name" v="대웅" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 7352" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="학사루3길" /><tag k="addr:housenumber" v="18-1" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200005" action="modify" visible="true" lat="35.5440543" lon="127.780135"><tag k="amenity" v="restaurant" /><tag k="name" v="쌈촌구이&amp;샤브" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 5536" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="거함대로" /><tag k="addr:housenumber" v="621" /><tag k="addr:subdistrict" v="수동면" /></node><node id="-200006" action="modify" visible="true" lat="35.5212766" lon="127.719791"><tag k="amenity" v="restaurant" /><tag k="name" v="수동메기메운탕" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 6674" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="서위천길" /><tag k="addr:housenumber" v="29" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200007" action="modify" visible="true" lat="35.520049" lon="127.7293025"><tag k="amenity" v="restaurant" /><tag k="name" v="상림숯불갈비" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 964 2208" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="용평1길" /><tag k="addr:housenumber" v="9" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200008" action="modify" visible="true" lat="35.5180499" lon="127.7285595"><tag k="amenity" v="restaurant" /><tag k="name" v="샤브향함양점" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 962 2283" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="중앙시장길" /><tag k="addr:housenumber" v="2-16" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200009" action="modify" visible="true" lat="35.5195463" lon="127.7286085"><tag k="amenity" v="restaurant" /><tag k="name" v="청정해역" /><tag k="cuisine" v="fish" /><tag k="phone" v="+82 55 963 8120" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="용평길" /><tag k="addr:housenumber" v="12-4" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200010" action="modify" visible="true" lat="35.4862584" lon="127.6951036"><tag k="amenity" v="restaurant" /><tag k="name" v="청해수산" /><tag k="cuisine" v="fish" /><tag k="phone" v="+82 55 962 4281" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="함양로" /><tag k="addr:housenumber" v="619-6" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200011" action="modify" visible="true" lat="35.5210818" lon="127.7279969"><tag k="amenity" v="restaurant" /><tag k="name" v="청학산" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 962 1707" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="함양로" /><tag k="addr:housenumber" v="1148" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200012" action="modify" visible="true" lat="35.5241869" lon="127.7239564"><tag k="amenity" v="restaurant" /><tag k="name" v="신화루" /><tag k="cuisine" v="chinese" /><tag k="phone" v="+82 55 962 6996" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="필봉산길" /><tag k="addr:housenumber" v="65" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200013" action="modify" visible="true" lat="35.5202291" lon="127.7304078"><tag k="amenity" v="restaurant" /><tag k="name" v="노가면옥" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 8277" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="용평길" /><tag k="addr:housenumber" v="31-3" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200014" action="modify" visible="true" lat="35.5199229" lon="127.7281177"><tag k="amenity" v="restaurant" /><tag k="name" v="1004 화로구이" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 3844" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="용평길" /><tag k="addr:housenumber" v="11-11" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200015" action="modify" visible="true" lat="35.5231739" lon="127.7224549"><tag k="amenity" v="restaurant" /><tag k="name" v="바우석쇠" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 964 6633" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="상림3길" /><tag k="addr:housenumber" v="6" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200016" action="modify" visible="true" lat="35.5298857" lon="127.7324948"><tag k="amenity" v="restaurant" /><tag k="name" v="연밭식육식당" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 964 6262" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="함양로" /><tag k="addr:housenumber" v="1257" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200017" action="modify" visible="true" lat="35.6224546" lon="127.7834896"><tag k="amenity" v="restaurant" /><tag k="name" v="늘봄가든" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 962 4945" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="육십령로" /><tag k="addr:housenumber" v="3102" /><tag k="addr:subdistrict" v="안의면" /></node><node id="-200018" action="modify" visible="true" lat="35.5201243" lon="127.7287223"><tag k="amenity" v="restaurant" /><tag k="name" v="도야낙지" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 4450" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="용평1길" /><tag k="addr:housenumber" v="8-5" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200019" action="modify" visible="true" lat="35.5223468" lon="127.7202967"><tag k="amenity" v="restaurant" /><tag k="name" v="삼순이네 돌판아구찜 복어요리" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 8149" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="동위천1길" /><tag k="addr:housenumber" v="5" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200020" action="modify" visible="true" lat="35.5318854" lon="127.7351248"><tag k="amenity" v="restaurant" /><tag k="name" v="닭이봉" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 964 0622" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="뇌계길" /><tag k="addr:housenumber" v="6" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200021" action="modify" visible="true" lat="35.5242863" lon="127.7232846"><tag k="amenity" v="restaurant" /><tag k="name" v="함양산청축협한우프라자" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 2607" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="필봉산길" /><tag k="addr:housenumber" v="63" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200022" action="modify" visible="true" lat="35.680418" lon="127.6883073"><tag k="amenity" v="restaurant" /><tag k="name" v="예다믄" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 964 3009" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="칠형정뒷길" /><tag k="addr:housenumber" v="6" /><tag k="addr:subdistrict" v="서상면" /></node><node id="-200023" action="modify" visible="true" lat="35.5189491" lon="127.7280085"><tag k="amenity" v="restaurant" /><tag k="name" v="농월초계탕" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 963 2154" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="용평중앙길" /><tag k="addr:housenumber" v="11-2" /><tag k="addr:subdistrict" v="함양읍" /></node><node id="-200024" action="modify" visible="true" lat="35.6267542" lon="127.8103044"><tag k="amenity" v="restaurant" /><tag k="name" v="해원복국" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 964 8041" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="광풍로" /><tag k="addr:housenumber" v="107" /><tag k="addr:subdistrict" v="안의면" /></node><node id="-200025" action="modify" visible="true" lat="35.628374" lon="127.811372"><tag k="amenity" v="restaurant" /><tag k="name" v="화림골" /><tag k="cuisine" v="korean" /><tag k="phone" v="+82 55 962 0666" /><tag k="source" v="공공데이터포털" /><tag k="source:date" v="2020-06-17" /><tag k="addr:street" v="광풍로" /><tag k="addr:housenumber" v="127-2" /><tag k="addr:subdistrict" v="안의면" /></node></osm>
+<osm version="0.6" generator="JOSM">
+	<node id="-200001" action="modify" visible="true" lat="35.630153" lon="127.8118741">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="안의원조갈비집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 962 4333"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="강변로"/>
+		<tag k="addr:housenumber" v="317"/>
+		<tag k="addr:subdistrict" v="안의면"/>
+	</node>
+	<node id="-200002" action="modify" visible="true" lat="35.5292622" lon="127.7313986">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="안의갈비탕"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 8700"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="함양로"/>
+		<tag k="addr:housenumber" v="1243"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200003" action="modify" visible="true" lat="35.517497" lon="127.726443">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="갑을식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 962 3540"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="함양로"/>
+		<tag k="addr:housenumber" v="1106"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200004" action="modify" visible="true" lat="35.5185725" lon="127.7252678">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="대웅"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 7352"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="학사루3길"/>
+		<tag k="addr:housenumber" v="18-1"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200005" action="modify" visible="true" lat="35.5440543" lon="127.780135">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="쌈촌구이&amp;샤브"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 5536"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="거함대로"/>
+		<tag k="addr:housenumber" v="621"/>
+		<tag k="addr:subdistrict" v="수동면"/>
+	</node>
+	<node id="-200006" action="modify" visible="true" lat="35.5212766" lon="127.719791">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="수동메기메운탕"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 6674"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="서위천길"/>
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200007" action="modify" visible="true" lat="35.520049" lon="127.7293025">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="상림숯불갈비"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 964 2208"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="용평1길"/>
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200008" action="modify" visible="true" lat="35.5180499" lon="127.7285595">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="샤브향함양점"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 962 2283"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="중앙시장길"/>
+		<tag k="addr:housenumber" v="2-16"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200009" action="modify" visible="true" lat="35.5195463" lon="127.7286085">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="청정해역"/>
+		<tag k="cuisine" v="fish"/>
+		<tag k="phone" v="+82 55 963 8120"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="용평길"/>
+		<tag k="addr:housenumber" v="12-4"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200010" action="modify" visible="true" lat="35.4862584" lon="127.6951036">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="청해수산"/>
+		<tag k="cuisine" v="fish"/>
+		<tag k="phone" v="+82 55 962 4281"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="함양로"/>
+		<tag k="addr:housenumber" v="619-6"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200011" action="modify" visible="true" lat="35.5210818" lon="127.7279969">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="청학산"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 962 1707"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="함양로"/>
+		<tag k="addr:housenumber" v="1148"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200012" action="modify" visible="true" lat="35.5241869" lon="127.7239564">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="신화루"/>
+		<tag k="cuisine" v="chinese"/>
+		<tag k="phone" v="+82 55 962 6996"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="필봉산길"/>
+		<tag k="addr:housenumber" v="65"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200013" action="modify" visible="true" lat="35.5202291" lon="127.7304078">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="노가면옥"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 8277"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="용평길"/>
+		<tag k="addr:housenumber" v="31-3"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200014" action="modify" visible="true" lat="35.5199229" lon="127.7281177">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="1004 화로구이"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 3844"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="용평길"/>
+		<tag k="addr:housenumber" v="11-11"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200015" action="modify" visible="true" lat="35.5231739" lon="127.7224549">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="바우석쇠"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 964 6633"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="상림3길"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200016" action="modify" visible="true" lat="35.5298857" lon="127.7324948">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="연밭식육식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 964 6262"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="함양로"/>
+		<tag k="addr:housenumber" v="1257"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200017" action="modify" visible="true" lat="35.6224546" lon="127.7834896">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="늘봄가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 962 4945"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="육십령로"/>
+		<tag k="addr:housenumber" v="3102"/>
+		<tag k="addr:subdistrict" v="안의면"/>
+	</node>
+	<node id="-200018" action="modify" visible="true" lat="35.5201243" lon="127.7287223">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="도야낙지"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 4450"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="용평1길"/>
+		<tag k="addr:housenumber" v="8-5"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200019" action="modify" visible="true" lat="35.5223468" lon="127.7202967">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="삼순이네 돌판아구찜 복어요리"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 8149"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="동위천1길"/>
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200020" action="modify" visible="true" lat="35.5318854" lon="127.7351248">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="닭이봉"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 964 0622"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="뇌계길"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200021" action="modify" visible="true" lat="35.5242863" lon="127.7232846">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="함양산청축협한우프라자"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 2607"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="필봉산길"/>
+		<tag k="addr:housenumber" v="63"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200022" action="modify" visible="true" lat="35.680418" lon="127.6883073">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="예다믄"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 964 3009"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="칠형정뒷길"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:subdistrict" v="서상면"/>
+	</node>
+	<node id="-200023" action="modify" visible="true" lat="35.5189491" lon="127.7280085">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="농월초계탕"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 963 2154"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="용평중앙길"/>
+		<tag k="addr:housenumber" v="11-2"/>
+		<tag k="addr:subdistrict" v="함양읍"/>
+	</node>
+	<node id="-200024" action="modify" visible="true" lat="35.6267542" lon="127.8103044">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="해원복국"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 964 8041"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="광풍로"/>
+		<tag k="addr:housenumber" v="107"/>
+		<tag k="addr:subdistrict" v="안의면"/>
+	</node>
+	<node id="-200025" action="modify" visible="true" lat="35.628374" lon="127.811372">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="화림골"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="phone" v="+82 55 962 0666"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-06-17"/>
+		<tag k="addr:street" v="광풍로"/>
+		<tag k="addr:housenumber" v="127-2"/>
+		<tag k="addr:subdistrict" v="안의면"/>
+	</node>
+</osm>
