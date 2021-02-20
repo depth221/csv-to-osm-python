@@ -1,2 +1,1385 @@
 <?xml version='1.0' encoding='utf-8'?>
-<osm version="0.6" generator="JOSM"><node id="-200001" action="modify" visible="true" lat="37.272031" lon="126.57049"><tag k="cuisine" v="korean" /><tag k="name" v="33호 할머니칼국수" /><tag k="phone" v="+82 32 886 9908" /><tag k="opening_hours" v="Mo-Su 09:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대부황금로" /><tag k="addr:housenumber" v="1297" /><tag k="addr:subdistrict" v="대부북동" /><tag k="level" v="1" /></node><node id="-200002" action="modify" visible="true" lat="37.308121" lon="126.828741"><tag k="cuisine" v="international" /><tag k="name" v="AW웨딩컨벤션" /><tag k="phone" v="+82 31 501 5900" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕1로" /><tag k="addr:housenumber" v="171" /><tag k="addr:subdistrict" v="고잔동" /><tag k="level" v="3;4;5" /><tag k="addr:housename" v="AW웨딩컨벤션" /></node><node id="-200003" action="modify" visible="true" lat="37.309066" lon="126.816275"><tag k="cuisine" v="korean" /><tag k="name" v="가반" /><tag k="phone" v="+82 31 483 7389" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕2로" /><tag k="addr:housenumber" v="58-16" /><tag k="addr:subdistrict" v="초지동" /></node><node id="-200004" action="modify" visible="true" lat="37.302402" lon="126.849903"><tag k="cuisine" v="korean" /><tag k="name" v="갈비락" /><tag k="phone" v="+82 31 408 9595" /><tag k="opening_hours" v="Mo-Su 11:30-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="서암로3길" /><tag k="addr:housenumber" v="1" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200005" action="modify" visible="true" lat="37.328952" lon="126.847514"><tag k="cuisine" v="korean" /><tag k="name" v="개성손만두요리전문점" /><tag k="phone" v="+82 31 475 8999" /><tag k="opening_hours" v="Mo-Su 11:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술광장1로" /><tag k="addr:housenumber" v="52" /><tag k="addr:subdistrict" v="월피동" /><tag k="addr:door" v="108" /></node><node id="-200006" action="modify" visible="true" lat="37.315114" lon="126.823547"><tag k="cuisine" v="korean" /><tag k="name" v="고잔숯불갈비" /><tag k="phone" v="+82 31 403 9991" /><tag k="opening_hours" v="Mo-Su 10:00-22:30 " /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕4로" /><tag k="addr:housenumber" v="102" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="121" /></node><node id="-200007" action="modify" visible="true" lat="37.280175" lon="126.851211"><tag k="cuisine" v="korean" /><tag k="name" v="고향순대감자탕" /><tag k="phone" v="+82 31 406 0166" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="선진4길" /><tag k="addr:housenumber" v="35" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200008" action="modify" visible="true" lat="37.328922" lon="126.845212"><tag k="cuisine" v="korean" /><tag k="name" v="곱팽이더덕두루치기" /><tag k="phone" v="+82 31 487 5224" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술광장로" /><tag k="addr:housenumber" v="11" /><tag k="addr:subdistrict" v="월피동" /></node><node id="-200009" action="modify" visible="true" lat="37.313533" lon="126.832609"><tag k="cuisine" v="korean" /><tag k="name" v="광양참숯불구이" /><tag k="phone" v="+82 31 419 9233" /><tag k="opening_hours" v="Mo-Su 11:00-22:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕동로" /><tag k="addr:housenumber" v="101" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="206" /></node><node id="-200010" action="modify" visible="true" lat="37.347806" lon="126.819655"><tag k="cuisine" v="chinese" /><tag k="name" v="교동중화반점" /><tag k="phone" v="+82 31 487 5002" /><tag k="opening_hours" v="Mo-Su 10:30-21:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="화정천동로8길" /><tag k="addr:housenumber" v="6" /><tag k="addr:subdistrict" v="와동" /></node><node id="-200011" action="modify" visible="true" lat="37.293762" lon="126.843661"><tag k="cuisine" v="korean" /><tag k="name" v="구곡산장" /><tag k="phone" v="+82 31 419 5292" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="12" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200012" action="modify" visible="true" lat="37.314648" lon="126.831163"><tag k="cuisine" v="korean" /><tag k="name" v="굴다리영양탕" /><tag k="phone" v="+82 31 402 9344" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="206" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="214" /></node><node id="-200013" action="modify" visible="true" lat="37.301619" lon="126.851044"><tag k="cuisine" v="korean" /><tag k="name" v="궁중삼계탕" /><tag k="phone" v="+82 31 502 9090" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="석호공원로" /><tag k="addr:housenumber" v="69" /><tag k="addr:subdistrict" v="사동" /><tag k="addr:door" v="101" /></node><node id="-200014" action="modify" visible="true" lat="37.349195" lon="126.820521"><tag k="cuisine" v="korean" /><tag k="name" v="금강산가든" /><tag k="phone" v="+82 31 482 9595" /><tag k="opening_hours" v="Mo-Su 10:00-22:00 " /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="쑥개길" /><tag k="addr:housenumber" v="6" /><tag k="addr:subdistrict" v="화정동" /></node><node id="-200015" action="modify" visible="true" lat="37.320336" lon="126.833102"><tag k="cuisine" v="korean" /><tag k="name" v="김가네낙지전문점" /><tag k="phone" v="+82 31 402 0552" /><tag k="opening_hours" v="Mo-Su 10:00-22:00 " /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="당곡로" /><tag k="addr:housenumber" v="33" /><tag k="addr:door" v="125;126" /><tag k="addr:housename" v="프라움시티" /></node><node id="-200016" action="modify" visible="true" lat="37.333945" lon="126.848688"><tag k="cuisine" v="korean" /><tag k="name" v="김흥관힘센낙지 (빨간낙지마당)" /><tag k="phone" v="+82 31 410 3660" /><tag k="opening_hours" v="Mo-Su 10:30-22:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="안산천동로2길" /><tag k="addr:housenumber" v="1" /><tag k="addr:subdistrict" v="월피동" /></node><node id="-200017" action="modify" visible="true" lat="37.317836" lon="126.836074"><tag k="cuisine" v="korean" /><tag k="name" v="낙원타코 안산중앙점" /><tag k="phone" v="+82 31 401 0725" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="고잔2길" /><tag k="addr:housenumber" v="45" /></node><node id="-200018" action="modify" visible="true" lat="37.318676" lon="126.837573"><tag k="cuisine" v="korean" /><tag k="name" v="니뽕내뽕(안산중앙점)" /><tag k="phone" v="+82 31 475 4555" /><tag k="opening_hours" v="Mo-Su 11:30-15:30, 16:30-21:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="고잔로" /><tag k="addr:housenumber" v="102" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="201" /></node><node id="-200019" action="modify" visible="true" lat="37.329229" lon="126.846103"><tag k="cuisine" v="chinese" /><tag k="name" v="단야 중화요리" /><tag k="phone" v="+82 31 414 0064" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술광장로" /><tag k="addr:housenumber" v="19" /><tag k="level" v="1" /><tag k="addr:door" v="105;106;107" /><tag k="addr:housename" v="성포타운" /></node><node id="-200020" action="modify" visible="true" lat="37.35009" lon="126.822414"><tag k="cuisine" v="korean" /><tag k="name" v="단원" /><tag k="phone" v="+82 31 486 9233" /><tag k="opening_hours" v="Mo-Su 10:00-22:00 SH o" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="너비울길" /><tag k="addr:housenumber" v="15" /><tag k="addr:subdistrict" v="화정동" /></node><node id="-200021" action="modify" visible="true" lat="37.319088" lon="126.829743"><tag k="cuisine" v="korean" /><tag k="name" v="단원한정식" /><tag k="phone" v="+82 31 401 3500" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="251" /><tag k="addr:subdistrict" v="고잔동" /></node><node id="-200022" action="modify" visible="true" lat="37.268621" lon="126.569247"><tag k="cuisine" v="korean" /><tag k="name" v="대부맛집 청미" /><tag k="phone" v="+82 32 887 1108" /><tag k="opening_hours" v="Mo-Su 09:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대선로" /><tag k="addr:housenumber" v="36" /><tag k="addr:subdistrict" v="대부북동" /></node><node id="-200023" action="modify" visible="true" lat="37.294177" lon="126.844269"><tag k="cuisine" v="korean" /><tag k="name" v="대부흑염소" /><tag k="phone" v="+82 31 438 1021" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="65" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200024" action="modify" visible="true" lat="37.313146" lon="126.846384"><tag k="cuisine" v="japanese" /><tag k="name" v="대포항별미집" /><tag k="phone" v="+82 31 409 2791" /><tag k="opening_hours" v="Mo-Sa 12:00-22:00; Su off" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="송호3길" /><tag k="addr:housenumber" v="18" /><tag k="addr:subdistrict" v="이동" /><tag k="level" v="1" /></node><node id="-200025" action="modify" visible="true" lat="37.294732" lon="126.862685"><tag k="cuisine" v="korean" /><tag k="name" v="대호식당" /><tag k="phone" v="+82 31 408 6460" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="샘골로" /><tag k="addr:housenumber" v="123" /><tag k="addr:subdistrict" v="본오동" /><tag k="addr:door" v="104-105" /></node><node id="-200026" action="modify" visible="true" lat="37.293978" lon="126.843988"><tag k="cuisine" v="korean" /><tag k="name" v="댕이골낙지마을" /><tag k="phone" v="+82 31 407 7631" /><tag k="opening_hours" v="Mo-Su 11:00-01:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="15" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200027" action="modify" visible="true" lat="37.308566" lon="126.85121"><tag k="cuisine" v="korean" /><tag k="name" v="도둑고기 안산한대역점" /><tag k="phone" v="+82 31 417 3892" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕1로" /><tag k="addr:housenumber" v="379" /><tag k="addr:subdistrict" v="이동" /></node><node id="-200028" action="modify" visible="true" lat="37.331589" lon="126.792964"><tag k="cuisine" v="korean" /><tag k="name" v="독일미" /><tag k="phone" v="+82 31 493 8666" /><tag k="opening_hours" v="Mo-Su 10:00-01:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="부부로2길" /><tag k="addr:housenumber" v="22-1" /><tag k="addr:subdistrict" v="원곡동" /><tag k="level" v="1" /></node><node id="-200029" action="modify" visible="true" lat="37.31076" lon="126.827912"><tag k="cuisine" v="chinese" /><tag k="name" v="동방명주" /><tag k="phone" v="+82 31 411 8595" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕2로" /><tag k="addr:housenumber" v="155-12" /><tag k="addr:subdistrict" v="고잔동" /></node><node id="-200030" action="modify" visible="true" lat="37.287699" lon="126.575159"><tag k="cuisine" v="japanese" /><tag k="name" v="동원횟집" /><tag k="phone" v="+82 31 881 8811" /><tag k="opening_hours" v="Mo-Su 10:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대부황금로" /><tag k="addr:housenumber" v="1497" /><tag k="addr:subdistrict" v="대부북동" /><tag k="addr:door" v="209" /></node><node id="-200031" action="modify" visible="true" lat="37.313784" lon="126.831605"><tag k="cuisine" v="korean" /><tag k="name" v="동천게장" /><tag k="phone" v="+82 31 413 0660" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕3로" /><tag k="addr:housenumber" v="167-16" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="109" /></node><node id="-200032" action="modify" visible="true" lat="37.313428" lon="126.848076"><tag k="cuisine" v="korean" /><tag k="name" v="뜨락" /><tag k="phone" v="+82 31 418 2082" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="송호1길" /><tag k="addr:housenumber" v="69" /><tag k="addr:subdistrict" v="이동" /></node><node id="-200033" action="modify" visible="true" lat="37.309455" lon="126.828941"><tag k="cuisine" v="korean" /><tag k="name" v="마루야끼" /><tag k="phone" v="+82 31 480 3010" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="145" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="205" /></node><node id="-200034" action="modify" visible="true" lat="37.344115" lon="126.821605"><tag k="cuisine" v="korean" /><tag k="name" v="마포네숯불갈비" /><tag k="phone" v="+82 31 405 9282" /><tag k="opening_hours" v="Mo-Su 11:00-03:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="와동공원로" /><tag k="addr:housenumber" v="142" /><tag k="addr:subdistrict" v="와동" /></node><node id="-200035" action="modify" visible="true" lat="37.287791" lon="126.845828"><tag k="cuisine" v="korean" /><tag k="name" v="마포숯불화로이야기" /><tag k="phone" v="+82 31 416 3070" /><tag k="opening_hours" v="Mo-Su 10:30-22:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="항가울로" /><tag k="addr:housenumber" v="70" /><tag k="addr:subdistrict" v="사동" /><tag k="level" v="1" /></node><node id="-200036" action="modify" visible="true" lat="37.326834" lon="126.752776"><tag k="cuisine" v="korean" /><tag k="name" v="만해추어탕" /><tag k="phone" v="+82 31 492 7070" /><tag k="opening_hours" v="Mo-Su 10:30-21:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="황새바위길" /><tag k="addr:housenumber" v="3" /><tag k="addr:subdistrict" v="신길동" /><tag k="level" v="1" /></node><node id="-200037" action="modify" visible="true" lat="37.306258" lon="126.849658"><tag k="cuisine" v="korean" /><tag k="name" v="맛수원왕갈비" /><tag k="phone" v="+82 31 417 6635" /><tag k="opening_hours" v="Mo-Su 10:30-22:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="상록구중보1길" /><tag k="addr:housenumber" v="18" /><tag k="addr:subdistrict" v="이동" /><tag k="level" v="1" /></node><node id="-200038" action="modify" visible="true" lat="37.351665" lon="126.82144"><tag k="cuisine" v="korean" /><tag k="name" v="먹쇠장어" /><tag k="phone" v="+82 31 485 5289" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="꽃우물길" /><tag k="addr:housenumber" v="12" /><tag k="addr:subdistrict" v="화정동" /><tag k="level" v="1" /></node><node id="-200039" action="modify" visible="true" lat="37.306235" lon="126.845688"><tag k="cuisine" v="korean" /><tag k="name" v="명옥부대찌개" /><tag k="phone" v="+82 31 417 8686" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="천문4길" /><tag k="addr:housenumber" v="15" /><tag k="addr:subdistrict" v="사동" /><tag k="level" v="1" /></node><node id="-200040" action="modify" visible="true" lat="37.306373" lon="126.848293"><tag k="cuisine" v="korean" /><tag k="name" v="명장한우" /><tag k="phone" v="+82 31 415 0068" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕1로" /><tag k="addr:housenumber" v="346" /><tag k="addr:subdistrict" v="이동" /><tag k="addr:door" v="301" /></node><node id="-200041" action="modify" visible="true" lat="37.335455" lon="126.843005"><tag k="cuisine" v="korean" /><tag k="name" v="명태본가" /><tag k="phone" v="+82 31 405 1063" /><tag k="opening_hours" v="Mo-Su 11:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕산1로" /><tag k="addr:housenumber" v="3-3" /><tag k="addr:subdistrict" v="월피동" /></node><node id="-200042" action="modify" visible="true" lat="37.309031" lon="126.828908"><tag k="cuisine" v="chinese" /><tag k="name" v="몽차우" /><tag k="phone" v="+82 31 487 0085" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="141" /><tag k="addr:subdistrict" v="고잔동" /></node><node id="-200043" action="modify" visible="true" lat="37.29368" lon="126.84294"><tag k="cuisine" v="korean" /><tag k="name" v="무교뻘낙지" /><tag k="phone" v="+82 31 419 5900" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="6" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200044" action="modify" visible="true" lat="37.318814" lon="126.827352"><tag k="cuisine" v="korean" /><tag k="name" v="묵은지찌개마을" /><tag k="phone" v="+82 31 401 5555" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="원고잔로" /><tag k="addr:housenumber" v="15" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="101" /><tag k="addr:housename" v="반월빌딩" /></node><node id="-200045" action="modify" visible="true" lat="37.276788" lon="126.560552"><tag k="cuisine" v="japanese" /><tag k="name" v="바다회집(북동)" /><tag k="phone" v="+82 32 886 3164" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="구봉길" /><tag k="addr:housenumber" v="102-22" /><tag k="addr:subdistrict" v="대부북동" /></node><node id="-200046" action="modify" visible="true" lat="37.275504" lon="126.569106"><tag k="cuisine" v="korean" /><tag k="name" v="백합칼국수" /><tag k="phone" v="+82 32 886 1002" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대부황금로" /><tag k="addr:housenumber" v="1337" /><tag k="addr:subdistrict" v="대부북동" /></node><node id="-200047" action="modify" visible="true" lat="37.293761" lon="126.843379"><tag k="cuisine" v="korean" /><tag k="name" v="별장보쌈칼국수" /><tag k="phone" v="+82 31 419 5900" /><tag k="opening_hours" v="Mo-Fr 11:30-15:00, 17:0-21:00; Sa 11:30-16:00; Su off 11:30 ~ 21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="10" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200048" action="modify" visible="true" lat="37.318814" lon="126.827352"><tag k="cuisine" v="korean" /><tag k="name" v="복요리전문점복청(안산중앙점)" /><tag k="phone" v="+82 31 410 3588" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="원고잔로" /><tag k="addr:housenumber" v="15" /><tag k="addr:subdistrict" v="고잔동" /></node><node id="-200049" action="modify" visible="true" lat="37.314287" lon="126.797242"><tag k="cuisine" v="korean" /><tag k="name" v="복전문점복청" /><tag k="phone" v="+82 31 491 0086" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="동산로" /><tag k="addr:housenumber" v="63" /><tag k="addr:subdistrict" v="원시동" /><tag k="level" v="-2" /><tag k="addr:door" v="201" /></node><node id="-200050" action="modify" visible="true" lat="37.335198" lon="126.849543"><tag k="cuisine" v="chinese" /><tag k="name" v="북경대반점" /><tag k="phone" v="+82 31 401 1283" /><tag k="opening_hours" v="Mo-Su 10:30-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="안산천동로4길" /><tag k="addr:housenumber" v="1" /><tag k="addr:subdistrict" v="월피동" /></node><node id="-200051" action="modify" visible="true" lat="37.311622" lon="126.831914"><tag k="cuisine" v="japanese" /><tag k="name" v="사조회참치" /><tag k="phone" v="+82 31 439 1315" /><tag k="opening_hours" v="Mo-Su 11:30-02:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕2로" /><tag k="addr:housenumber" v="193-19" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="176" /></node><node id="-200052" action="modify" visible="true" lat="37.293763" lon="126.844327"><tag k="cuisine" v="korean" /><tag k="name" v="산골송어" /><tag k="phone" v="+82 31 419 3735" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="18" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200053" action="modify" visible="true" lat="37.302784" lon="126.915739"><tag k="cuisine" v="korean" /><tag k="name" v="산촌쌈밥" /><tag k="phone" v="+82 31 416 7370" /><tag k="opening_hours" v="Mo-Su 09:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="서해로" /><tag k="addr:housenumber" v="2813" /><tag k="addr:subdistrict" v="사사동" /></node><node id="-200054" action="modify" visible="true" lat="37.290787" lon="126.829853"><tag k="cuisine" v="korean" /><tag k="name" v="상록한정식" /><tag k="phone" v="+82 31 500 4455" /><tag k="opening_hours" v="Mo-Su 11:30-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="해안로" /><tag k="addr:housenumber" v="705" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200055" action="modify" visible="true" lat="37.31259" lon="126.84819"><tag k="cuisine" v="korean" /><tag k="name" v="새벽순댓국" /><tag k="phone" v="+82 31 502 4575" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="송호로" /><tag k="addr:housenumber" v="12-1" /><tag k="addr:subdistrict" v="이동" /></node><node id="-200056" action="modify" visible="true" lat="37.260424" lon="126.570016"><tag k="cuisine" v="korean" /><tag k="name" v="샤브랑버섯소고기샤브" /><tag k="phone" v="+82 32 886 6755" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대선로" /><tag k="addr:housenumber" v="131" /><tag k="addr:subdistrict" v="대부북동" /><tag k="level" v="1" /></node><node id="-200057" action="modify" visible="true" lat="37.295869" lon="126.872157"><tag k="cuisine" v="korean" /><tag k="name" v="서가네우렁쌈밥" /><tag k="phone" v="+82 31 406 4685" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="본이로1안길" /><tag k="addr:housenumber" v="38" /><tag k="addr:subdistrict" v="본오동" /></node><node id="-200058" action="modify" visible="true" lat="37.238071" lon="126.617351"><tag k="cuisine" v="korean" /><tag k="name" v="서래가든" /><tag k="phone" v="+82 32 886 4842" /><tag k="opening_hours" v="Mo-Su 06:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대부황금로" /><tag k="addr:housenumber" v="700" /><tag k="addr:subdistrict" v="대부동동" /></node><node id="-200059" action="modify" visible="true" lat="37.30779" lon="126.850016"><tag k="cuisine" v="korean" /><tag k="name" v="서울깍두기" /><tag k="phone" v="+82 31 416 0506" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕1로" /><tag k="addr:housenumber" v="365" /><tag k="addr:subdistrict" v="이동" /><tag k="addr:door" v="105106" /></node><node id="-200060" action="modify" visible="true" lat="37.320007" lon="126.829831"><tag k="cuisine" v="korean" /><tag k="name" v="소담한식부페" /><tag k="phone" v="+82 31 439 3829" /><tag k="opening_hours" v="Mo-Su 17:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="263" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="111" /></node><node id="-200061" action="modify" visible="true" lat="37.318593" lon="126.836468"><tag k="cuisine" v="korean" /><tag k="name" v="솔밭낙지마당" /><tag k="phone" v="+82 31 484 4024" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술대학로" /><tag k="addr:housenumber" v="17" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="212" /></node><node id="-200062" action="modify" visible="true" lat="37.330842" lon="126.860407"><tag k="cuisine" v="korean" /><tag k="name" v="송담추어탕" /><tag k="phone" v="+82 31 406 7988" /><tag k="opening_hours" v="Mo-Su 05:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="태마당로" /><tag k="addr:housenumber" v="4" /><tag k="addr:subdistrict" v="부곡동" /><tag k="level" v="1" /></node><node id="-200063" action="modify" visible="true" lat="37.301004" lon="126.811772"><tag k="cuisine" v="korean" /><tag k="name" v="송탄나여사부대찌개" /><tag k="phone" v="+82 31 403 2325" /><tag k="opening_hours" v="Mo-Su 09:30-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="원포공원2로" /><tag k="addr:housenumber" v="24" /><tag k="addr:subdistrict" v="초지동" /></node><node id="-200064" action="modify" visible="true" lat="37.332555" lon="126.810405"><tag k="cuisine" v="korean" /><tag k="name" v="수지동태탕" /><tag k="phone" v="+82 31 482 3307" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="선부광장로" /><tag k="addr:housenumber" v="77" /><tag k="addr:subdistrict" v="선부동" /><tag k="addr:door" v="104;105;106;107" /><tag k="addr:housename" v="늘봄스위트빌" /></node><node id="-200065" action="modify" visible="true" lat="37.307118" lon="126.815106"><tag k="cuisine" v="korean" /><tag k="name" v="시골통돼지생삼겹살" /><tag k="phone" v="+82 31 439 3392" /><tag k="opening_hours" v="Mo-Su 12:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="초지로" /><tag k="addr:housenumber" v="94" /><tag k="addr:subdistrict" v="초지동" /><tag k="addr:door" v="206" /><tag k="addr:housename" v="한솔프라자" /></node><node id="-200066" action="modify" visible="true" lat="37.303506" lon="126.846742"><tag k="cuisine" v="korean" /><tag k="name" v="신라샤브칼국수" /><tag k="phone" v="+82 31 418 6014" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="용신로" /><tag k="addr:housenumber" v="219" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200067" action="modify" visible="true" lat="37.297985" lon="126.863412"><tag k="cuisine" v="korean" /><tag k="name" v="신석기숯불이야기" /><tag k="phone" v="+82 31 437 3366" /><tag k="opening_hours" v="Mo-Su 10:30-22:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="샘골로" /><tag k="addr:housenumber" v="160" /><tag k="addr:subdistrict" v="본오동" /><tag k="addr:door" v="101" /></node><node id="-200068" action="modify" visible="true" lat="37.30837" lon="126.85235"><tag k="cuisine" v="korean" /><tag k="name" v="신촌설렁탕" /><tag k="phone" v="+82 31 406 2561" /><tag k="opening_hours" v="24/7" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕1로" /><tag k="addr:housenumber" v="386" /><tag k="addr:subdistrict" v="이동" /><tag k="addr:door" v="110" /></node><node id="-200069" action="modify" visible="true" lat="37.319088" lon="126.829743"><tag k="cuisine" v="chinese" /><tag k="name" v="아리원중화요리" /><tag k="phone" v="+82 31 485 3100" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="251" /><tag k="addr:subdistrict" v="고잔동" /><tag k="level" v="3" /></node><node id="-200070" action="modify" visible="true" lat="37.311205" lon="126.830776"><tag k="cuisine" v="japanese" /><tag k="name" v="아미가일식" /><tag k="phone" v="+82 31 483 2331" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="168" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="501" /></node><node id="-200071" action="modify" visible="true" lat="37.30684" lon="126.816021"><tag k="cuisine" v="korean" /><tag k="name" v="아바이마을명태고추조림,생선구이" /><tag k="phone" v="+82 31 411 0056" /><tag k="opening_hours" v="Mo-Su 11:00-22:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="초지2로" /><tag k="addr:housenumber" v="67-7" /><tag k="addr:subdistrict" v="초지동" /><tag k="level" v="1" /><tag k="addr:door" v="118;119" /><tag k="addr:housename" v="한양타워" /></node><node id="-200072" action="modify" visible="true" lat="37.328922" lon="126.845212"><tag k="cuisine" v="korean" /><tag k="name" v="안동국밥(월피점)" /><tag k="phone" v="+82 31 439 2324" /><tag k="opening_hours" v="24/7" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술광장로" /><tag k="addr:housenumber" v="11" /><tag k="addr:subdistrict" v="월피동" /></node><node id="-200073" action="modify" visible="true" lat="37.363861" lon="126.881961"><tag k="cuisine" v="korean" /><tag k="name" v="약수터손두부" /><tag k="phone" v="+82 31 482 7952" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="수암3길" /><tag k="addr:housenumber" v="28" /><tag k="addr:subdistrict" v="수암동" /><tag k="level" v="1" /></node><node id="-200074" action="modify" visible="true" lat="37.349277" lon="126.821265"><tag k="cuisine" v="korean" /><tag k="name" v="어가아구찜전문" /><tag k="phone" v="+82 31 411 6866" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="쑥개길" /><tag k="addr:housenumber" v="13" /><tag k="addr:subdistrict" v="화정동" /></node><node id="-200075" action="modify" visible="true" lat="37.294177" lon="126.843965"><tag k="cuisine" v="korean" /><tag k="name" v="어담추어매운탕" /><tag k="phone" v="+82 31 408 7789" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="67-1" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200076" action="modify" visible="true" lat="37.314648" lon="126.831163"><tag k="cuisine" v="japanese" /><tag k="name" v="어화일식" /><tag k="phone" v="+82 31 402 2271" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="206" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="210" /></node><node id="-200077" action="modify" visible="true" lat="37.358361" lon="126.822045"><tag k="cuisine" v="korean" /><tag k="name" v="여울쌈밥" /><tag k="phone" v="+82 31 316 3838" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="꽃우물1길" /><tag k="addr:housenumber" v="16-5" /><tag k="addr:subdistrict" v="화정동" /></node><node id="-200078" action="modify" visible="true" lat="37.269952" lon="126.571043"><tag k="cuisine" v="korean" /><tag k="name" v="여정농원바지락칼국수" /><tag k="phone" v="+82 32 880 9674" /><tag k="opening_hours" v="Mo-Sa 19:00-21:00; Su off" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대선로" /><tag k="addr:housenumber" v="13" /><tag k="addr:subdistrict" v="대부북동" /></node><node id="-200079" action="modify" visible="true" lat="37.302315" lon="126.852486"><tag k="cuisine" v="korean" /><tag k="name" v="연안생태찌개" /><tag k="phone" v="+82 31 406 1104" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="서암로3길" /><tag k="addr:housenumber" v="23" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200080" action="modify" visible="true" lat="37.303727" lon="126.843663"><tag k="cuisine" v="korean" /><tag k="name" v="영덕해물탕" /><tag k="phone" v="+82 31 415 7776" /><tag k="opening_hours" v="Mo-Su 10:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="항가울로" /><tag k="addr:housenumber" v="262" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200081" action="modify" visible="true" lat="37.311205" lon="126.830776"><tag k="cuisine" v="fish" /><tag k="name" v="오대양참치" /><tag k="phone" v="+82 31 401 3977" /><tag k="opening_hours" v="Mo-Su 11:30-01:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="168" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="117" /></node><node id="-200082" action="modify" visible="true" lat="37.335947" lon="126.850207"><tag k="cuisine" v="korean" /><tag k="name" v="오양순추어탕" /><tag k="phone" v="+82 31 401 1778" /><tag k="opening_hours" v="Mo-Su 07:30-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="안산천동로" /><tag k="addr:housenumber" v="256" /><tag k="addr:subdistrict" v="월피동" /><tag k="level" v="1" /></node><node id="-200083" action="modify" visible="true" lat="37.347559" lon="126.870679"><tag k="cuisine" v="korean" /><tag k="name" v="옹골찬설악추어탕" /><tag k="phone" v="+82 31 405 9933" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="수인로" /><tag k="addr:housenumber" v="1836" /><tag k="addr:subdistrict" v="장상동" /></node><node id="-200084" action="modify" visible="true" lat="37.29395" lon="126.843356"><tag k="cuisine" v="korean" /><tag k="name" v="용대리황태촌" /><tag k="phone" v="+82 31 407 2196" /><tag k="opening_hours" v="Mo-Su 10:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="9" /><tag k="addr:subdistrict" v="사동" /><tag k="level" v="1" /></node><node id="-200085" action="modify" visible="true" lat="37.335921" lon="126.807689"><tag k="cuisine" v="korean" /><tag k="name" v="용추골미궁순대" /><tag k="phone" v="+82 31 486 0205" /><tag k="opening_hours" v="24/7" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="선부광장1로" /><tag k="addr:housenumber" v="22" /><tag k="addr:subdistrict" v="선부동" /><tag k="addr:door" v="108" /></node><node id="-200086" action="modify" visible="true" lat="37.329228" lon="126.844963"><tag k="cuisine" v="korean" /><tag k="name" v="우가네사또왕족발" /><tag k="phone" v="+82 31 419 7866" /><tag k="opening_hours" v="Mo-Su 13:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술광장1로" /><tag k="addr:housenumber" v="22" /><tag k="addr:subdistrict" v="월피동" /><tag k="addr:door" v="108" /></node><node id="-200087" action="modify" visible="true" lat="37.314422" lon="126.824632"><tag k="cuisine" v="korean" /><tag k="name" v="우리복집" /><tag k="phone" v="+82 31 403 8211" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="다리간2길" /><tag k="addr:housenumber" v="52" /><tag k="addr:subdistrict" v="고잔동" /></node><node id="-200088" action="modify" visible="true" lat="37.294006" lon="126.844495"><tag k="cuisine" v="korean" /><tag k="name" v="우리옥 (목포뻘낙지)" /><tag k="phone" v="+82 31 437 0021" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="19" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200089" action="modify" visible="true" lat="37.312396" lon="126.837711"><tag k="cuisine" v="korean" /><tag k="name" v="웅가네추어탕" /><tag k="phone" v="+82 31 475 1225" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="이삭2길" /><tag k="addr:housenumber" v="59" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="102" /></node><node id="-200090" action="modify" visible="true" lat="37.3325" lon="126.79383"><tag k="cuisine" v="korean" /><tag k="name" v="원조게장정식" /><tag k="phone" v="+82 31 494 7330" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="부부로3길" /><tag k="addr:housenumber" v="23" /><tag k="addr:subdistrict" v="원곡동" /></node><node id="-200091" action="modify" visible="true" lat="37.301286" lon="126.865854"><tag k="cuisine" v="korean" /><tag k="name" v="원할머니보쌈 상록수점" /><tag k="phone" v="+82 31 409 4323" /><tag k="opening_hours" v="Mo-Su 11:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="용신로" /><tag k="addr:housenumber" v="394" /><tag k="addr:subdistrict" v="본오동" /></node><node id="-200092" action="modify" visible="true" lat="37.318593" lon="126.836468"><tag k="cuisine" v="korean" /><tag k="name" v="원할머니보쌈 중앙역점" /><tag k="phone" v="+82 31 403 6782" /><tag k="opening_hours" v="Mo-Su 11:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술대학로" /><tag k="addr:housenumber" v="17" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="211" /></node><node id="-200093" action="modify" visible="true" lat="37.311786" lon="126.846635"><tag k="cuisine" v="korean" /><tag k="name" v="월남쌈" /><tag k="phone" v="+82 31 406 2712" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="송호1길" /><tag k="addr:housenumber" v="11" /><tag k="addr:subdistrict" v="이동" /></node><node id="-200094" action="modify" visible="true" lat="37.308341" lon="126.858599"><tag k="cuisine" v="korean" /><tag k="name" v="육덕봉" /><tag k="phone" v="+82 31 409 8954" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="충장로6길" /><tag k="addr:housenumber" v="22-2" /><tag k="addr:subdistrict" v="이동" /><tag k="level" v="1" /></node><node id="-200095" action="modify" visible="true" lat="37.283451" lon="126.569162"><tag k="cuisine" v="korean" /><tag k="name" v="윤숙이네손칼국수" /><tag k="phone" v="+82 32 882 1947" /><tag k="opening_hours" v="Mo-Su 10:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대부황금로" /><tag k="addr:housenumber" v="1425" /><tag k="addr:subdistrict" v="대부북동" /></node><node id="-200096" action="modify" visible="true" lat="37.282458" lon="126.846989"><tag k="cuisine" v="korean" /><tag k="name" v="이천영양돌솥밥" /><tag k="phone" v="+82 31 408 2008" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="항가울로" /><tag k="addr:housenumber" v="7" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200097" action="modify" visible="true" lat="37.312863" lon="126.79702"><tag k="cuisine" v="korean" /><tag k="name" v="자매네찌개전문점" /><tag k="phone" v="+82 31 406 5252" /><tag k="opening_hours" v="Mo-Su 10:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="동산로" /><tag k="addr:housenumber" v="60" /><tag k="addr:subdistrict" v="원시동" /><tag k="level" v="2" /><tag k="addr:door" v="220" /><tag k="addr:housename" v="반월종합상가" /></node><node id="-200098" action="modify" visible="true" lat="37.332555" lon="126.810405"><tag k="cuisine" v="korean" /><tag k="name" v="장군부대찌개" /><tag k="phone" v="+82 31 480 3392" /><tag k="opening_hours" v="24/7" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="선부광장로" /><tag k="addr:housenumber" v="77" /><tag k="addr:subdistrict" v="선부동" /><tag k="addr:door" v="108" /></node><node id="-200099" action="modify" visible="true" lat="37.311094" lon="126.828464"><tag k="cuisine" v="japanese" /><tag k="name" v="정통일식 다래" /><tag k="phone" v="+82 31 403 4399" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕2로" /><tag k="addr:housenumber" v="163-15" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="301" /></node><node id="-200100" action="modify" visible="true" lat="37.326615" lon="126.845329"><tag k="cuisine" v="korean" /><tag k="name" v="제주오겹살깡통구이" /><tag k="phone" v="+82 31 402 9594" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술광장로" /><tag k="addr:housenumber" v="63" /><tag k="addr:subdistrict" v="성포동" /><tag k="addr:door" v="107" /></node><node id="-200101" action="modify" visible="true" lat="37.314343" lon="126.838496"><tag k="cuisine" v="korean" /><tag k="name" v="좋구먼한정식" /><tag k="phone" v="+82 31 410 5577" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕4로" /><tag k="addr:housenumber" v="234" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="207" /></node><node id="-200102" action="modify" visible="true" lat="37.314369" lon="126.837966"><tag k="cuisine" v="international" /><tag k="name" v="주)제이엘컨벤션" /><tag k="phone" v="+82 31 439 0600" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕4로" /><tag k="addr:housenumber" v="230" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="501;502;503" /><tag k="addr:housename" v="중앙제일시장" /></node><node id="-200103" action="modify" visible="true" lat="37.317788" lon="126.84088"><tag k="cuisine" v="japanese" /><tag k="name" v="지중해참치" /><tag k="phone" v="+82 31 482 3788" /><tag k="opening_hours" v="Mo-Su 15:00-03:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="고잔1길" /><tag k="addr:housenumber" v="66" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="101" /></node><node id="-200104" action="modify" visible="true" lat="37.319176" lon="126.828242"><tag k="cuisine" v="korean" /><tag k="name" v="진성관" /><tag k="phone" v="+82 31 484 8704" /><tag k="opening_hours" v="Mo-Su 11:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="고잔로" /><tag k="addr:housenumber" v="18" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="201" /></node><node id="-200105" action="modify" visible="true" lat="37.334785" lon="126.85777"><tag k="cuisine" v="korean" /><tag k="name" v="眞장어탕·구이" /><tag k="phone" v="+82 31 483 5482" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="시낭북로3길" /><tag k="addr:housenumber" v="1" /><tag k="addr:subdistrict" v="부곡동" /></node><node id="-200106" action="modify" visible="true" lat="37.238735" lon="126.61382"><tag k="cuisine" v="korean" /><tag k="name" v="진짜원조소나무집" /><tag k="phone" v="+82 32 886 2400" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대부황금로" /><tag k="addr:housenumber" v="732" /><tag k="addr:subdistrict" v="대부북동" /></node><node id="-200107" action="modify" visible="true" lat="37.301922" lon="126.862322"><tag k="cuisine" v="korean" /><tag k="name" v="채상궁무한리필" /><tag k="phone" v="+82 31 437 8592" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="용신로" /><tag k="addr:housenumber" v="363" /><tag k="addr:subdistrict" v="본오동" /></node><node id="-200108" action="modify" visible="true" lat="37.319088" lon="126.829743"><tag k="cuisine" v="korean" /><tag k="name" v="천하일미" /><tag k="phone" v="+82 31 485 3200" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕대로" /><tag k="addr:housenumber" v="251" /><tag k="addr:subdistrict" v="고잔동" /></node><node id="-200109" action="modify" visible="true" lat="37.303148" lon="126.811383"><tag k="cuisine" v="chinese" /><tag k="name" v="청궁" /><tag k="phone" v="+82 31 411 2588" /><tag k="opening_hours" v="Mo-Su 09:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="원포공원1로" /><tag k="addr:housenumber" v="60" /><tag k="addr:subdistrict" v="초지동" /><tag k="addr:door" v="101" /></node><node id="-200110" action="modify" visible="true" lat="37.337089" lon="126.855734"><tag k="cuisine" v="korean" /><tag k="name" v="청정칼국수" /><tag k="phone" v="+82 31 485 0505" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="녹지로" /><tag k="addr:housenumber" v="40" /><tag k="addr:subdistrict" v="월피동" /></node><node id="-200111" action="modify" visible="true" lat="37.301673" lon="126.813518"><tag k="cuisine" v="korean" /><tag k="name" v="청정한돈" /><tag k="phone" v="+82 31 413 9253" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="원포공원2로" /><tag k="addr:housenumber" v="35" /><tag k="addr:subdistrict" v="월피동" /><tag k="addr:door" v="202" /></node><node id="-200112" action="modify" visible="true" lat="37.318565" lon="126.835543"><tag k="cuisine" v="korean" /><tag k="name" v="코돈부르" /><tag k="phone" v="+82 31 485 3330" /><tag k="opening_hours" v="Mo-Su 11:00-22:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="고잔1길" /><tag k="addr:housenumber" v="17" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="204-1" /></node><node id="-200113" action="modify" visible="true" lat="37.341033" lon="126.821601"><tag k="cuisine" v="korean" /><tag k="name" v="코리안왕돈까스" /><tag k="phone" v="+82 31 403 3228" /><tag k="opening_hours" v="Mo-Su 10:30-21:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="와동공원로" /><tag k="addr:housenumber" v="106" /><tag k="addr:subdistrict" v="와동" /></node><node id="-200114" action="modify" visible="true" lat="37.317871" lon="126.835601"><tag k="cuisine" v="international" /><tag k="name" v="쿠우쿠우" /><tag k="phone" v="+82 31 405 6274" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="고잔2길" /><tag k="addr:housenumber" v="41" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="207" /></node><node id="-200115" action="modify" visible="true" lat="37.294094" lon="126.842634"><tag k="cuisine" v="korean" /><tag k="name" v="통돼지볶음찌개" /><tag k="phone" v="+82 31 408 2292" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="댕이길" /><tag k="addr:housenumber" v="79-1" /><tag k="addr:subdistrict" v="사동" /></node><node id="-200116" action="modify" visible="true" lat="37.336201" lon="126.80841"><tag k="cuisine" v="korean" /><tag k="name" v="통돼지잡는집" /><tag k="phone" v="+82 31 402 5683" /><tag k="opening_hours" v="Mo-Su 10:30-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="선부광장1로" /><tag k="addr:housenumber" v="30" /><tag k="addr:subdistrict" v="선부동" /><tag k="addr:door" v="112" /></node><node id="-200117" action="modify" visible="true" lat="37.314287" lon="126.797242"><tag k="cuisine" v="korean" /><tag k="name" v="통일칼국수" /><tag k="phone" v="+82 31 495 5904" /><tag k="opening_hours" v="Mo-Sa 12:00-16:00; Su off" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="동산로" /><tag k="addr:housenumber" v="63" /><tag k="addr:subdistrict" v="원시동" /><tag k="addr:door" v="502" /></node><node id="-200118" action="modify" visible="true" lat="37.336951" lon="126.804436"><tag k="cuisine" v="korean" /><tag k="name" v="한라산도야지" /><tag k="phone" v="+82 31 486 7572" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="지곡로" /><tag k="addr:housenumber" v="23" /><tag k="addr:subdistrict" v="선부동" /></node><node id="-200119" action="modify" visible="true" lat="37.311699" lon="126.848598"><tag k="cuisine" v="korean" /><tag k="name" v="한양복국시" /><tag k="phone" v="+82 31 502 0221" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="송호1길" /><tag k="addr:housenumber" v="93" /><tag k="addr:subdistrict" v="이동" /></node><node id="-200120" action="modify" visible="true" lat="37.310147" lon="126.869289"><tag k="cuisine" v="korean" /><tag k="name" v="한우촌숯불갈비" /><tag k="phone" v="+82 31 501 7326" /><tag k="opening_hours" v="Mo-Su 11:00-24:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="일동로" /><tag k="addr:housenumber" v="23" /><tag k="addr:subdistrict" v="일동" /></node><node id="-200121" action="modify" visible="true" lat="37.332944" lon="126.811352"><tag k="cuisine" v="korean" /><tag k="name" v="해미청" /><tag k="phone" v="+82 31 402 1700" /><tag k="opening_hours" v="Mo-Su 11:00-23:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="선부광장로" /><tag k="addr:housenumber" v="67" /><tag k="addr:subdistrict" v="선부동" /></node><node id="-200122" action="modify" visible="true" lat="37.293707" lon="126.872239"><tag k="cuisine" v="korean" /><tag k="name" v="해미청" /><tag k="phone" v="+82 31 438 7789" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="각골로" /><tag k="addr:housenumber" v="47" /><tag k="addr:subdistrict" v="본오동" /></node><node id="-200123" action="modify" visible="true" lat="37.326615" lon="126.845329"><tag k="cuisine" v="korean" /><tag k="name" v="현죽" /><tag k="phone" v="+82 31 413 8218" /><tag k="opening_hours" v="Mo-Su 10:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="예술광장로" /><tag k="addr:housenumber" v="63" /><tag k="addr:subdistrict" v="성포동" /><tag k="addr:door" v="110" /></node><node id="-200124" action="modify" visible="true" lat="37.315062" lon="126.824721"><tag k="cuisine" v="international" /><tag k="name" v="홍록기파티하우스" /><tag k="phone" v="+82 31 487 6868" /><tag k="opening_hours" v="24/7" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕4로" /><tag k="addr:housenumber" v="112" /><tag k="addr:subdistrict" v="고잔동" /></node><node id="-200125" action="modify" visible="true" lat="37.312122" lon="126.845905"><tag k="cuisine" v="korean" /><tag k="name" v="홍익궁중전통육개장(안산이동점본관)" /><tag k="phone" v="+82 31 409 6669" /><tag k="opening_hours" v="Mo-Su 08:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="송호3길" /><tag k="addr:housenumber" v="3" /><tag k="addr:subdistrict" v="이동" /><tag k="level" v="1" /></node><node id="-200126" action="modify" visible="true" lat="37.306812" lon="126.815073"><tag k="cuisine" v="korean" /><tag k="name" v="홍천감자탕" /><tag k="phone" v="+82 31 410 8116" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="초지로" /><tag k="addr:housenumber" v="90" /><tag k="addr:subdistrict" v="초지동" /></node><node id="-200127" action="modify" visible="true" lat="37.308282" lon="126.827771"><tag k="cuisine" v="korean" /><tag k="name" v="홍천덤바우록계탕" /><tag k="phone" v="+82 31 475 3988" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕1로" /><tag k="addr:housenumber" v="163" /><tag k="addr:subdistrict" v="고잔동" /><tag k="addr:door" v="101" /></node><node id="-200128" action="modify" visible="true" lat="37.308643" lon="126.828244"><tag k="cuisine" v="chinese" /><tag k="name" v="홍푸" /><tag k="phone" v="+82 31 403 3885" /><tag k="opening_hours" v="Mo-Su 11:00-21:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="광덕2로" /><tag k="addr:housenumber" v="164-12" /><tag k="addr:subdistrict" v="고잔동" /><tag k="level" v="2" /></node><node id="-200129" action="modify" visible="true" lat="37.358612" lon="126.821627"><tag k="cuisine" v="korean" /><tag k="name" v="화정동 메밀꽃필무렵" /><tag k="phone" v="+82 31 403 0621" /><tag k="opening_hours" v="Mo-Su 10:00-21:30" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="꽃우물1길" /><tag k="addr:housenumber" v="20" /><tag k="addr:subdistrict" v="화정동" /></node><node id="-200130" action="modify" visible="true" lat="37.349027" lon="126.822327"><tag k="cuisine" v="korean" /><tag k="name" v="화정동낙지마을" /><tag k="phone" v="+82 31 487 5857" /><tag k="opening_hours" v="Mo-Su 10:00-22:00" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="쑥개길" /><tag k="addr:housenumber" v="23" /><tag k="addr:subdistrict" v="화정동" /></node><node id="-200131" action="modify" visible="true" lat="37.306425" lon="126.815525"><tag k="cuisine" v="korean" /><tag k="name" v="소가네" /><tag k="phone" v="+82 31 483 9295" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="초지2로" /><tag k="addr:housenumber" v="59" /><tag k="addr:subdistrict" v="초지동" /><tag k="level" v="2" /></node><node id="-200132" action="modify" visible="true" lat="37.307706" lon="126.816605"><tag k="cuisine" v="korean" /><tag k="name" v="엉클짱왕해물찜" /><tag k="phone" v="+82 31 402 8420" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="초지동로" /><tag k="addr:housenumber" v="45" /><tag k="addr:subdistrict" v="초지동" /></node><node id="-200133" action="modify" visible="true" lat="37.349421" lon="126.820746"><tag k="cuisine" v="korean" /><tag k="name" v="콩밭" /><tag k="phone" v="+82 31 475 3434" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="쑥개길" /><tag k="addr:housenumber" v="7" /><tag k="addr:subdistrict" v="화정동" /></node><node id="-200134" action="modify" visible="true" lat="37.332555" lon="126.810405"><tag k="cuisine" v="korean" /><tag k="name" v="조선갈비(안산선부점)" /><tag k="phone" v="+82 31 483 2020" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="선부광장로" /><tag k="addr:housenumber" v="77" /><tag k="addr:subdistrict" v="선부동" /><tag k="addr:door" v="201" /></node><node id="-200135" action="modify" visible="true" lat="37.283948" lon="126.569486"><tag k="cuisine" v="korean" /><tag k="name" v="전통우리밀칼국수전문" /><tag k="phone" v="+82 32 886 2993" /><tag k="source:date" v="2019-07-05" /><tag k="addr:street" v="대부황금로" /><tag k="addr:housenumber" v="1435" /><tag k="addr:subdistrict" v="대부북동" /><tag k="level" v="1" /></node></osm>
+<osm version="0.6" generator="JOSM">
+	<node id="-200001" action="modify" visible="true" lat="37.272031" lon="126.57049">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="33호 할머니칼국수"/>
+		<tag k="phone" v="+82 32 886 9908"/>
+		<tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대부황금로"/>
+		<tag k="addr:housenumber" v="1297"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200002" action="modify" visible="true" lat="37.308121" lon="126.828741">
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="AW웨딩컨벤션"/>
+		<tag k="phone" v="+82 31 501 5900"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕1로"/>
+		<tag k="addr:housenumber" v="171"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="level" v="3;4;5"/>
+		<tag k="addr:housename" v="AW웨딩컨벤션"/>
+	</node>
+	<node id="-200003" action="modify" visible="true" lat="37.309066" lon="126.816275">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="가반"/>
+		<tag k="phone" v="+82 31 483 7389"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕2로"/>
+		<tag k="addr:housenumber" v="58-16"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+	</node>
+	<node id="-200004" action="modify" visible="true" lat="37.302402" lon="126.849903">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="갈비락"/>
+		<tag k="phone" v="+82 31 408 9595"/>
+		<tag k="opening_hours" v="Mo-Su 11:30-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="서암로3길"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200005" action="modify" visible="true" lat="37.328952" lon="126.847514">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="개성손만두요리전문점"/>
+		<tag k="phone" v="+82 31 475 8999"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술광장1로"/>
+		<tag k="addr:housenumber" v="52"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+		<tag k="addr:door" v="108"/>
+	</node>
+	<node id="-200006" action="modify" visible="true" lat="37.315114" lon="126.823547">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="고잔숯불갈비"/>
+		<tag k="phone" v="+82 31 403 9991"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:30 "/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕4로"/>
+		<tag k="addr:housenumber" v="102"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="121"/>
+	</node>
+	<node id="-200007" action="modify" visible="true" lat="37.280175" lon="126.851211">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="고향순대감자탕"/>
+		<tag k="phone" v="+82 31 406 0166"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="선진4길"/>
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200008" action="modify" visible="true" lat="37.328922" lon="126.845212">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="곱팽이더덕두루치기"/>
+		<tag k="phone" v="+82 31 487 5224"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술광장로"/>
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+	</node>
+	<node id="-200009" action="modify" visible="true" lat="37.313533" lon="126.832609">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="광양참숯불구이"/>
+		<tag k="phone" v="+82 31 419 9233"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕동로"/>
+		<tag k="addr:housenumber" v="101"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="206"/>
+	</node>
+	<node id="-200010" action="modify" visible="true" lat="37.347806" lon="126.819655">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="교동중화반점"/>
+		<tag k="phone" v="+82 31 487 5002"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-21:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="화정천동로8길"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:subdistrict" v="와동"/>
+	</node>
+	<node id="-200011" action="modify" visible="true" lat="37.293762" lon="126.843661">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="구곡산장"/>
+		<tag k="phone" v="+82 31 419 5292"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200012" action="modify" visible="true" lat="37.314648" lon="126.831163">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="굴다리영양탕"/>
+		<tag k="phone" v="+82 31 402 9344"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="206"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="214"/>
+	</node>
+	<node id="-200013" action="modify" visible="true" lat="37.301619" lon="126.851044">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="궁중삼계탕"/>
+		<tag k="phone" v="+82 31 502 9090"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="석호공원로"/>
+		<tag k="addr:housenumber" v="69"/>
+		<tag k="addr:subdistrict" v="사동"/>
+		<tag k="addr:door" v="101"/>
+	</node>
+	<node id="-200014" action="modify" visible="true" lat="37.349195" lon="126.820521">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="금강산가든"/>
+		<tag k="phone" v="+82 31 482 9595"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00 "/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="쑥개길"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+	</node>
+	<node id="-200015" action="modify" visible="true" lat="37.320336" lon="126.833102">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="김가네낙지전문점"/>
+		<tag k="phone" v="+82 31 402 0552"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00 "/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="당곡로"/>
+		<tag k="addr:housenumber" v="33"/>
+		<tag k="addr:door" v="125;126"/>
+		<tag k="addr:housename" v="프라움시티"/>
+	</node>
+	<node id="-200016" action="modify" visible="true" lat="37.333945" lon="126.848688">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="김흥관힘센낙지 (빨간낙지마당)"/>
+		<tag k="phone" v="+82 31 410 3660"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-22:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="안산천동로2길"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+	</node>
+	<node id="-200017" action="modify" visible="true" lat="37.317836" lon="126.836074">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="낙원타코 안산중앙점"/>
+		<tag k="phone" v="+82 31 401 0725"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="고잔2길"/>
+		<tag k="addr:housenumber" v="45"/>
+	</node>
+	<node id="-200018" action="modify" visible="true" lat="37.318676" lon="126.837573">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="니뽕내뽕(안산중앙점)"/>
+		<tag k="phone" v="+82 31 475 4555"/>
+		<tag k="opening_hours" v="Mo-Su 11:30-15:30, 16:30-21:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="고잔로"/>
+		<tag k="addr:housenumber" v="102"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="201"/>
+	</node>
+	<node id="-200019" action="modify" visible="true" lat="37.329229" lon="126.846103">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="단야 중화요리"/>
+		<tag k="phone" v="+82 31 414 0064"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술광장로"/>
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="level" v="1"/>
+		<tag k="addr:door" v="105;106;107"/>
+		<tag k="addr:housename" v="성포타운"/>
+	</node>
+	<node id="-200020" action="modify" visible="true" lat="37.35009" lon="126.822414">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="단원"/>
+		<tag k="phone" v="+82 31 486 9233"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00 SH o"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="너비울길"/>
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+	</node>
+	<node id="-200021" action="modify" visible="true" lat="37.319088" lon="126.829743">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="단원한정식"/>
+		<tag k="phone" v="+82 31 401 3500"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="251"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+	</node>
+	<node id="-200022" action="modify" visible="true" lat="37.268621" lon="126.569247">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="대부맛집 청미"/>
+		<tag k="phone" v="+82 32 887 1108"/>
+		<tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대선로"/>
+		<tag k="addr:housenumber" v="36"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+	</node>
+	<node id="-200023" action="modify" visible="true" lat="37.294177" lon="126.844269">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="대부흑염소"/>
+		<tag k="phone" v="+82 31 438 1021"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="65"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200024" action="modify" visible="true" lat="37.313146" lon="126.846384">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="대포항별미집"/>
+		<tag k="phone" v="+82 31 409 2791"/>
+		<tag k="opening_hours" v="Mo-Sa 12:00-22:00; Su off"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="송호3길"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:subdistrict" v="이동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200025" action="modify" visible="true" lat="37.294732" lon="126.862685">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="대호식당"/>
+		<tag k="phone" v="+82 31 408 6460"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="샘골로"/>
+		<tag k="addr:housenumber" v="123"/>
+		<tag k="addr:subdistrict" v="본오동"/>
+		<tag k="addr:door" v="104-105"/>
+	</node>
+	<node id="-200026" action="modify" visible="true" lat="37.293978" lon="126.843988">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="댕이골낙지마을"/>
+		<tag k="phone" v="+82 31 407 7631"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-01:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200027" action="modify" visible="true" lat="37.308566" lon="126.85121">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="도둑고기 안산한대역점"/>
+		<tag k="phone" v="+82 31 417 3892"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕1로"/>
+		<tag k="addr:housenumber" v="379"/>
+		<tag k="addr:subdistrict" v="이동"/>
+	</node>
+	<node id="-200028" action="modify" visible="true" lat="37.331589" lon="126.792964">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="독일미"/>
+		<tag k="phone" v="+82 31 493 8666"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-01:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="부부로2길"/>
+		<tag k="addr:housenumber" v="22-1"/>
+		<tag k="addr:subdistrict" v="원곡동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200029" action="modify" visible="true" lat="37.31076" lon="126.827912">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="동방명주"/>
+		<tag k="phone" v="+82 31 411 8595"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕2로"/>
+		<tag k="addr:housenumber" v="155-12"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+	</node>
+	<node id="-200030" action="modify" visible="true" lat="37.287699" lon="126.575159">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="동원횟집"/>
+		<tag k="phone" v="+82 31 881 8811"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대부황금로"/>
+		<tag k="addr:housenumber" v="1497"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+		<tag k="addr:door" v="209"/>
+	</node>
+	<node id="-200031" action="modify" visible="true" lat="37.313784" lon="126.831605">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="동천게장"/>
+		<tag k="phone" v="+82 31 413 0660"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕3로"/>
+		<tag k="addr:housenumber" v="167-16"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="109"/>
+	</node>
+	<node id="-200032" action="modify" visible="true" lat="37.313428" lon="126.848076">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="뜨락"/>
+		<tag k="phone" v="+82 31 418 2082"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="송호1길"/>
+		<tag k="addr:housenumber" v="69"/>
+		<tag k="addr:subdistrict" v="이동"/>
+	</node>
+	<node id="-200033" action="modify" visible="true" lat="37.309455" lon="126.828941">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="마루야끼"/>
+		<tag k="phone" v="+82 31 480 3010"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="145"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="205"/>
+	</node>
+	<node id="-200034" action="modify" visible="true" lat="37.344115" lon="126.821605">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="마포네숯불갈비"/>
+		<tag k="phone" v="+82 31 405 9282"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-03:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="와동공원로"/>
+		<tag k="addr:housenumber" v="142"/>
+		<tag k="addr:subdistrict" v="와동"/>
+	</node>
+	<node id="-200035" action="modify" visible="true" lat="37.287791" lon="126.845828">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="마포숯불화로이야기"/>
+		<tag k="phone" v="+82 31 416 3070"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-22:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="항가울로"/>
+		<tag k="addr:housenumber" v="70"/>
+		<tag k="addr:subdistrict" v="사동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200036" action="modify" visible="true" lat="37.326834" lon="126.752776">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="만해추어탕"/>
+		<tag k="phone" v="+82 31 492 7070"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-21:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="황새바위길"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:subdistrict" v="신길동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200037" action="modify" visible="true" lat="37.306258" lon="126.849658">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="맛수원왕갈비"/>
+		<tag k="phone" v="+82 31 417 6635"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-22:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="상록구중보1길"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:subdistrict" v="이동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200038" action="modify" visible="true" lat="37.351665" lon="126.82144">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="먹쇠장어"/>
+		<tag k="phone" v="+82 31 485 5289"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="꽃우물길"/>
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200039" action="modify" visible="true" lat="37.306235" lon="126.845688">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="명옥부대찌개"/>
+		<tag k="phone" v="+82 31 417 8686"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="천문4길"/>
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:subdistrict" v="사동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200040" action="modify" visible="true" lat="37.306373" lon="126.848293">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="명장한우"/>
+		<tag k="phone" v="+82 31 415 0068"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕1로"/>
+		<tag k="addr:housenumber" v="346"/>
+		<tag k="addr:subdistrict" v="이동"/>
+		<tag k="addr:door" v="301"/>
+	</node>
+	<node id="-200041" action="modify" visible="true" lat="37.335455" lon="126.843005">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="명태본가"/>
+		<tag k="phone" v="+82 31 405 1063"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕산1로"/>
+		<tag k="addr:housenumber" v="3-3"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+	</node>
+	<node id="-200042" action="modify" visible="true" lat="37.309031" lon="126.828908">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="몽차우"/>
+		<tag k="phone" v="+82 31 487 0085"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="141"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+	</node>
+	<node id="-200043" action="modify" visible="true" lat="37.29368" lon="126.84294">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="무교뻘낙지"/>
+		<tag k="phone" v="+82 31 419 5900"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200044" action="modify" visible="true" lat="37.318814" lon="126.827352">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="묵은지찌개마을"/>
+		<tag k="phone" v="+82 31 401 5555"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="원고잔로"/>
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="101"/>
+		<tag k="addr:housename" v="반월빌딩"/>
+	</node>
+	<node id="-200045" action="modify" visible="true" lat="37.276788" lon="126.560552">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="바다회집(북동)"/>
+		<tag k="phone" v="+82 32 886 3164"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="구봉길"/>
+		<tag k="addr:housenumber" v="102-22"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+	</node>
+	<node id="-200046" action="modify" visible="true" lat="37.275504" lon="126.569106">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="백합칼국수"/>
+		<tag k="phone" v="+82 32 886 1002"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대부황금로"/>
+		<tag k="addr:housenumber" v="1337"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+	</node>
+	<node id="-200047" action="modify" visible="true" lat="37.293761" lon="126.843379">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="별장보쌈칼국수"/>
+		<tag k="phone" v="+82 31 419 5900"/>
+		<tag k="opening_hours" v="Mo-Fr 11:30-15:00, 17:0-21:00; Sa 11:30-16:00; Su off 11:30 ~ 21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200048" action="modify" visible="true" lat="37.318814" lon="126.827352">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="복요리전문점복청(안산중앙점)"/>
+		<tag k="phone" v="+82 31 410 3588"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="원고잔로"/>
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+	</node>
+	<node id="-200049" action="modify" visible="true" lat="37.314287" lon="126.797242">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="복전문점복청"/>
+		<tag k="phone" v="+82 31 491 0086"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="동산로"/>
+		<tag k="addr:housenumber" v="63"/>
+		<tag k="addr:subdistrict" v="원시동"/>
+		<tag k="level" v="-2"/>
+		<tag k="addr:door" v="201"/>
+	</node>
+	<node id="-200050" action="modify" visible="true" lat="37.335198" lon="126.849543">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="북경대반점"/>
+		<tag k="phone" v="+82 31 401 1283"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="안산천동로4길"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+	</node>
+	<node id="-200051" action="modify" visible="true" lat="37.311622" lon="126.831914">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="사조회참치"/>
+		<tag k="phone" v="+82 31 439 1315"/>
+		<tag k="opening_hours" v="Mo-Su 11:30-02:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕2로"/>
+		<tag k="addr:housenumber" v="193-19"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="176"/>
+	</node>
+	<node id="-200052" action="modify" visible="true" lat="37.293763" lon="126.844327">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="산골송어"/>
+		<tag k="phone" v="+82 31 419 3735"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200053" action="modify" visible="true" lat="37.302784" lon="126.915739">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="산촌쌈밥"/>
+		<tag k="phone" v="+82 31 416 7370"/>
+		<tag k="opening_hours" v="Mo-Su 09:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="서해로"/>
+		<tag k="addr:housenumber" v="2813"/>
+		<tag k="addr:subdistrict" v="사사동"/>
+	</node>
+	<node id="-200054" action="modify" visible="true" lat="37.290787" lon="126.829853">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="상록한정식"/>
+		<tag k="phone" v="+82 31 500 4455"/>
+		<tag k="opening_hours" v="Mo-Su 11:30-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="해안로"/>
+		<tag k="addr:housenumber" v="705"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200055" action="modify" visible="true" lat="37.31259" lon="126.84819">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="새벽순댓국"/>
+		<tag k="phone" v="+82 31 502 4575"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="송호로"/>
+		<tag k="addr:housenumber" v="12-1"/>
+		<tag k="addr:subdistrict" v="이동"/>
+	</node>
+	<node id="-200056" action="modify" visible="true" lat="37.260424" lon="126.570016">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="샤브랑버섯소고기샤브"/>
+		<tag k="phone" v="+82 32 886 6755"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대선로"/>
+		<tag k="addr:housenumber" v="131"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200057" action="modify" visible="true" lat="37.295869" lon="126.872157">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="서가네우렁쌈밥"/>
+		<tag k="phone" v="+82 31 406 4685"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="본이로1안길"/>
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:subdistrict" v="본오동"/>
+	</node>
+	<node id="-200058" action="modify" visible="true" lat="37.238071" lon="126.617351">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="서래가든"/>
+		<tag k="phone" v="+82 32 886 4842"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대부황금로"/>
+		<tag k="addr:housenumber" v="700"/>
+		<tag k="addr:subdistrict" v="대부동동"/>
+	</node>
+	<node id="-200059" action="modify" visible="true" lat="37.30779" lon="126.850016">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="서울깍두기"/>
+		<tag k="phone" v="+82 31 416 0506"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕1로"/>
+		<tag k="addr:housenumber" v="365"/>
+		<tag k="addr:subdistrict" v="이동"/>
+		<tag k="addr:door" v="105106"/>
+	</node>
+	<node id="-200060" action="modify" visible="true" lat="37.320007" lon="126.829831">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="소담한식부페"/>
+		<tag k="phone" v="+82 31 439 3829"/>
+		<tag k="opening_hours" v="Mo-Su 17:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="263"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="111"/>
+	</node>
+	<node id="-200061" action="modify" visible="true" lat="37.318593" lon="126.836468">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="솔밭낙지마당"/>
+		<tag k="phone" v="+82 31 484 4024"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술대학로"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="212"/>
+	</node>
+	<node id="-200062" action="modify" visible="true" lat="37.330842" lon="126.860407">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="송담추어탕"/>
+		<tag k="phone" v="+82 31 406 7988"/>
+		<tag k="opening_hours" v="Mo-Su 05:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="태마당로"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:subdistrict" v="부곡동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200063" action="modify" visible="true" lat="37.301004" lon="126.811772">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="송탄나여사부대찌개"/>
+		<tag k="phone" v="+82 31 403 2325"/>
+		<tag k="opening_hours" v="Mo-Su 09:30-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="원포공원2로"/>
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+	</node>
+	<node id="-200064" action="modify" visible="true" lat="37.332555" lon="126.810405">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="수지동태탕"/>
+		<tag k="phone" v="+82 31 482 3307"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="선부광장로"/>
+		<tag k="addr:housenumber" v="77"/>
+		<tag k="addr:subdistrict" v="선부동"/>
+		<tag k="addr:door" v="104;105;106;107"/>
+		<tag k="addr:housename" v="늘봄스위트빌"/>
+	</node>
+	<node id="-200065" action="modify" visible="true" lat="37.307118" lon="126.815106">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="시골통돼지생삼겹살"/>
+		<tag k="phone" v="+82 31 439 3392"/>
+		<tag k="opening_hours" v="Mo-Su 12:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="초지로"/>
+		<tag k="addr:housenumber" v="94"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+		<tag k="addr:door" v="206"/>
+		<tag k="addr:housename" v="한솔프라자"/>
+	</node>
+	<node id="-200066" action="modify" visible="true" lat="37.303506" lon="126.846742">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="신라샤브칼국수"/>
+		<tag k="phone" v="+82 31 418 6014"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="용신로"/>
+		<tag k="addr:housenumber" v="219"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200067" action="modify" visible="true" lat="37.297985" lon="126.863412">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="신석기숯불이야기"/>
+		<tag k="phone" v="+82 31 437 3366"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-22:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="샘골로"/>
+		<tag k="addr:housenumber" v="160"/>
+		<tag k="addr:subdistrict" v="본오동"/>
+		<tag k="addr:door" v="101"/>
+	</node>
+	<node id="-200068" action="modify" visible="true" lat="37.30837" lon="126.85235">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="신촌설렁탕"/>
+		<tag k="phone" v="+82 31 406 2561"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕1로"/>
+		<tag k="addr:housenumber" v="386"/>
+		<tag k="addr:subdistrict" v="이동"/>
+		<tag k="addr:door" v="110"/>
+	</node>
+	<node id="-200069" action="modify" visible="true" lat="37.319088" lon="126.829743">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="아리원중화요리"/>
+		<tag k="phone" v="+82 31 485 3100"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="251"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="level" v="3"/>
+	</node>
+	<node id="-200070" action="modify" visible="true" lat="37.311205" lon="126.830776">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="아미가일식"/>
+		<tag k="phone" v="+82 31 483 2331"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="168"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="501"/>
+	</node>
+	<node id="-200071" action="modify" visible="true" lat="37.30684" lon="126.816021">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="아바이마을명태고추조림,생선구이"/>
+		<tag k="phone" v="+82 31 411 0056"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="초지2로"/>
+		<tag k="addr:housenumber" v="67-7"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+		<tag k="level" v="1"/>
+		<tag k="addr:door" v="118;119"/>
+		<tag k="addr:housename" v="한양타워"/>
+	</node>
+	<node id="-200072" action="modify" visible="true" lat="37.328922" lon="126.845212">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="안동국밥(월피점)"/>
+		<tag k="phone" v="+82 31 439 2324"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술광장로"/>
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+	</node>
+	<node id="-200073" action="modify" visible="true" lat="37.363861" lon="126.881961">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="약수터손두부"/>
+		<tag k="phone" v="+82 31 482 7952"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="수암3길"/>
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:subdistrict" v="수암동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200074" action="modify" visible="true" lat="37.349277" lon="126.821265">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="어가아구찜전문"/>
+		<tag k="phone" v="+82 31 411 6866"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="쑥개길"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+	</node>
+	<node id="-200075" action="modify" visible="true" lat="37.294177" lon="126.843965">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="어담추어매운탕"/>
+		<tag k="phone" v="+82 31 408 7789"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="67-1"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200076" action="modify" visible="true" lat="37.314648" lon="126.831163">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="어화일식"/>
+		<tag k="phone" v="+82 31 402 2271"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="206"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="210"/>
+	</node>
+	<node id="-200077" action="modify" visible="true" lat="37.358361" lon="126.822045">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="여울쌈밥"/>
+		<tag k="phone" v="+82 31 316 3838"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="꽃우물1길"/>
+		<tag k="addr:housenumber" v="16-5"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+	</node>
+	<node id="-200078" action="modify" visible="true" lat="37.269952" lon="126.571043">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="여정농원바지락칼국수"/>
+		<tag k="phone" v="+82 32 880 9674"/>
+		<tag k="opening_hours" v="Mo-Sa 19:00-21:00; Su off"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대선로"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+	</node>
+	<node id="-200079" action="modify" visible="true" lat="37.302315" lon="126.852486">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="연안생태찌개"/>
+		<tag k="phone" v="+82 31 406 1104"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="서암로3길"/>
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200080" action="modify" visible="true" lat="37.303727" lon="126.843663">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="영덕해물탕"/>
+		<tag k="phone" v="+82 31 415 7776"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="항가울로"/>
+		<tag k="addr:housenumber" v="262"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200081" action="modify" visible="true" lat="37.311205" lon="126.830776">
+		<tag k="cuisine" v="fish"/>
+		<tag k="name" v="오대양참치"/>
+		<tag k="phone" v="+82 31 401 3977"/>
+		<tag k="opening_hours" v="Mo-Su 11:30-01:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="168"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="117"/>
+	</node>
+	<node id="-200082" action="modify" visible="true" lat="37.335947" lon="126.850207">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="오양순추어탕"/>
+		<tag k="phone" v="+82 31 401 1778"/>
+		<tag k="opening_hours" v="Mo-Su 07:30-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="안산천동로"/>
+		<tag k="addr:housenumber" v="256"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200083" action="modify" visible="true" lat="37.347559" lon="126.870679">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="옹골찬설악추어탕"/>
+		<tag k="phone" v="+82 31 405 9933"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="수인로"/>
+		<tag k="addr:housenumber" v="1836"/>
+		<tag k="addr:subdistrict" v="장상동"/>
+	</node>
+	<node id="-200084" action="modify" visible="true" lat="37.29395" lon="126.843356">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="용대리황태촌"/>
+		<tag k="phone" v="+82 31 407 2196"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:subdistrict" v="사동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200085" action="modify" visible="true" lat="37.335921" lon="126.807689">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="용추골미궁순대"/>
+		<tag k="phone" v="+82 31 486 0205"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="선부광장1로"/>
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:subdistrict" v="선부동"/>
+		<tag k="addr:door" v="108"/>
+	</node>
+	<node id="-200086" action="modify" visible="true" lat="37.329228" lon="126.844963">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="우가네사또왕족발"/>
+		<tag k="phone" v="+82 31 419 7866"/>
+		<tag k="opening_hours" v="Mo-Su 13:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술광장1로"/>
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+		<tag k="addr:door" v="108"/>
+	</node>
+	<node id="-200087" action="modify" visible="true" lat="37.314422" lon="126.824632">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="우리복집"/>
+		<tag k="phone" v="+82 31 403 8211"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="다리간2길"/>
+		<tag k="addr:housenumber" v="52"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+	</node>
+	<node id="-200088" action="modify" visible="true" lat="37.294006" lon="126.844495">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="우리옥 (목포뻘낙지)"/>
+		<tag k="phone" v="+82 31 437 0021"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200089" action="modify" visible="true" lat="37.312396" lon="126.837711">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="웅가네추어탕"/>
+		<tag k="phone" v="+82 31 475 1225"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="이삭2길"/>
+		<tag k="addr:housenumber" v="59"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="102"/>
+	</node>
+	<node id="-200090" action="modify" visible="true" lat="37.3325" lon="126.79383">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="원조게장정식"/>
+		<tag k="phone" v="+82 31 494 7330"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="부부로3길"/>
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:subdistrict" v="원곡동"/>
+	</node>
+	<node id="-200091" action="modify" visible="true" lat="37.301286" lon="126.865854">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="원할머니보쌈 상록수점"/>
+		<tag k="phone" v="+82 31 409 4323"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="용신로"/>
+		<tag k="addr:housenumber" v="394"/>
+		<tag k="addr:subdistrict" v="본오동"/>
+	</node>
+	<node id="-200092" action="modify" visible="true" lat="37.318593" lon="126.836468">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="원할머니보쌈 중앙역점"/>
+		<tag k="phone" v="+82 31 403 6782"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술대학로"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="211"/>
+	</node>
+	<node id="-200093" action="modify" visible="true" lat="37.311786" lon="126.846635">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="월남쌈"/>
+		<tag k="phone" v="+82 31 406 2712"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="송호1길"/>
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:subdistrict" v="이동"/>
+	</node>
+	<node id="-200094" action="modify" visible="true" lat="37.308341" lon="126.858599">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="육덕봉"/>
+		<tag k="phone" v="+82 31 409 8954"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="충장로6길"/>
+		<tag k="addr:housenumber" v="22-2"/>
+		<tag k="addr:subdistrict" v="이동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200095" action="modify" visible="true" lat="37.283451" lon="126.569162">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="윤숙이네손칼국수"/>
+		<tag k="phone" v="+82 32 882 1947"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대부황금로"/>
+		<tag k="addr:housenumber" v="1425"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+	</node>
+	<node id="-200096" action="modify" visible="true" lat="37.282458" lon="126.846989">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="이천영양돌솥밥"/>
+		<tag k="phone" v="+82 31 408 2008"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="항가울로"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200097" action="modify" visible="true" lat="37.312863" lon="126.79702">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="자매네찌개전문점"/>
+		<tag k="phone" v="+82 31 406 5252"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="동산로"/>
+		<tag k="addr:housenumber" v="60"/>
+		<tag k="addr:subdistrict" v="원시동"/>
+		<tag k="level" v="2"/>
+		<tag k="addr:door" v="220"/>
+		<tag k="addr:housename" v="반월종합상가"/>
+	</node>
+	<node id="-200098" action="modify" visible="true" lat="37.332555" lon="126.810405">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="장군부대찌개"/>
+		<tag k="phone" v="+82 31 480 3392"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="선부광장로"/>
+		<tag k="addr:housenumber" v="77"/>
+		<tag k="addr:subdistrict" v="선부동"/>
+		<tag k="addr:door" v="108"/>
+	</node>
+	<node id="-200099" action="modify" visible="true" lat="37.311094" lon="126.828464">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="정통일식 다래"/>
+		<tag k="phone" v="+82 31 403 4399"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕2로"/>
+		<tag k="addr:housenumber" v="163-15"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="301"/>
+	</node>
+	<node id="-200100" action="modify" visible="true" lat="37.326615" lon="126.845329">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="제주오겹살깡통구이"/>
+		<tag k="phone" v="+82 31 402 9594"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술광장로"/>
+		<tag k="addr:housenumber" v="63"/>
+		<tag k="addr:subdistrict" v="성포동"/>
+		<tag k="addr:door" v="107"/>
+	</node>
+	<node id="-200101" action="modify" visible="true" lat="37.314343" lon="126.838496">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="좋구먼한정식"/>
+		<tag k="phone" v="+82 31 410 5577"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕4로"/>
+		<tag k="addr:housenumber" v="234"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="207"/>
+	</node>
+	<node id="-200102" action="modify" visible="true" lat="37.314369" lon="126.837966">
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="주)제이엘컨벤션"/>
+		<tag k="phone" v="+82 31 439 0600"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕4로"/>
+		<tag k="addr:housenumber" v="230"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="501;502;503"/>
+		<tag k="addr:housename" v="중앙제일시장"/>
+	</node>
+	<node id="-200103" action="modify" visible="true" lat="37.317788" lon="126.84088">
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="지중해참치"/>
+		<tag k="phone" v="+82 31 482 3788"/>
+		<tag k="opening_hours" v="Mo-Su 15:00-03:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="고잔1길"/>
+		<tag k="addr:housenumber" v="66"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="101"/>
+	</node>
+	<node id="-200104" action="modify" visible="true" lat="37.319176" lon="126.828242">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="진성관"/>
+		<tag k="phone" v="+82 31 484 8704"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="고잔로"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="201"/>
+	</node>
+	<node id="-200105" action="modify" visible="true" lat="37.334785" lon="126.85777">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="眞장어탕·구이"/>
+		<tag k="phone" v="+82 31 483 5482"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="시낭북로3길"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:subdistrict" v="부곡동"/>
+	</node>
+	<node id="-200106" action="modify" visible="true" lat="37.238735" lon="126.61382">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="진짜원조소나무집"/>
+		<tag k="phone" v="+82 32 886 2400"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대부황금로"/>
+		<tag k="addr:housenumber" v="732"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+	</node>
+	<node id="-200107" action="modify" visible="true" lat="37.301922" lon="126.862322">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="채상궁무한리필"/>
+		<tag k="phone" v="+82 31 437 8592"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="용신로"/>
+		<tag k="addr:housenumber" v="363"/>
+		<tag k="addr:subdistrict" v="본오동"/>
+	</node>
+	<node id="-200108" action="modify" visible="true" lat="37.319088" lon="126.829743">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="천하일미"/>
+		<tag k="phone" v="+82 31 485 3200"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕대로"/>
+		<tag k="addr:housenumber" v="251"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+	</node>
+	<node id="-200109" action="modify" visible="true" lat="37.303148" lon="126.811383">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="청궁"/>
+		<tag k="phone" v="+82 31 411 2588"/>
+		<tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="원포공원1로"/>
+		<tag k="addr:housenumber" v="60"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+		<tag k="addr:door" v="101"/>
+	</node>
+	<node id="-200110" action="modify" visible="true" lat="37.337089" lon="126.855734">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="청정칼국수"/>
+		<tag k="phone" v="+82 31 485 0505"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="녹지로"/>
+		<tag k="addr:housenumber" v="40"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+	</node>
+	<node id="-200111" action="modify" visible="true" lat="37.301673" lon="126.813518">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="청정한돈"/>
+		<tag k="phone" v="+82 31 413 9253"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="원포공원2로"/>
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:subdistrict" v="월피동"/>
+		<tag k="addr:door" v="202"/>
+	</node>
+	<node id="-200112" action="modify" visible="true" lat="37.318565" lon="126.835543">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="코돈부르"/>
+		<tag k="phone" v="+82 31 485 3330"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="고잔1길"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="204-1"/>
+	</node>
+	<node id="-200113" action="modify" visible="true" lat="37.341033" lon="126.821601">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="코리안왕돈까스"/>
+		<tag k="phone" v="+82 31 403 3228"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-21:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="와동공원로"/>
+		<tag k="addr:housenumber" v="106"/>
+		<tag k="addr:subdistrict" v="와동"/>
+	</node>
+	<node id="-200114" action="modify" visible="true" lat="37.317871" lon="126.835601">
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="쿠우쿠우"/>
+		<tag k="phone" v="+82 31 405 6274"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="고잔2길"/>
+		<tag k="addr:housenumber" v="41"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="207"/>
+	</node>
+	<node id="-200115" action="modify" visible="true" lat="37.294094" lon="126.842634">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="통돼지볶음찌개"/>
+		<tag k="phone" v="+82 31 408 2292"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="댕이길"/>
+		<tag k="addr:housenumber" v="79-1"/>
+		<tag k="addr:subdistrict" v="사동"/>
+	</node>
+	<node id="-200116" action="modify" visible="true" lat="37.336201" lon="126.80841">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="통돼지잡는집"/>
+		<tag k="phone" v="+82 31 402 5683"/>
+		<tag k="opening_hours" v="Mo-Su 10:30-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="선부광장1로"/>
+		<tag k="addr:housenumber" v="30"/>
+		<tag k="addr:subdistrict" v="선부동"/>
+		<tag k="addr:door" v="112"/>
+	</node>
+	<node id="-200117" action="modify" visible="true" lat="37.314287" lon="126.797242">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="통일칼국수"/>
+		<tag k="phone" v="+82 31 495 5904"/>
+		<tag k="opening_hours" v="Mo-Sa 12:00-16:00; Su off"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="동산로"/>
+		<tag k="addr:housenumber" v="63"/>
+		<tag k="addr:subdistrict" v="원시동"/>
+		<tag k="addr:door" v="502"/>
+	</node>
+	<node id="-200118" action="modify" visible="true" lat="37.336951" lon="126.804436">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="한라산도야지"/>
+		<tag k="phone" v="+82 31 486 7572"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="지곡로"/>
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:subdistrict" v="선부동"/>
+	</node>
+	<node id="-200119" action="modify" visible="true" lat="37.311699" lon="126.848598">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="한양복국시"/>
+		<tag k="phone" v="+82 31 502 0221"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="송호1길"/>
+		<tag k="addr:housenumber" v="93"/>
+		<tag k="addr:subdistrict" v="이동"/>
+	</node>
+	<node id="-200120" action="modify" visible="true" lat="37.310147" lon="126.869289">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="한우촌숯불갈비"/>
+		<tag k="phone" v="+82 31 501 7326"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-24:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="일동로"/>
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:subdistrict" v="일동"/>
+	</node>
+	<node id="-200121" action="modify" visible="true" lat="37.332944" lon="126.811352">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="해미청"/>
+		<tag k="phone" v="+82 31 402 1700"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="선부광장로"/>
+		<tag k="addr:housenumber" v="67"/>
+		<tag k="addr:subdistrict" v="선부동"/>
+	</node>
+	<node id="-200122" action="modify" visible="true" lat="37.293707" lon="126.872239">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="해미청"/>
+		<tag k="phone" v="+82 31 438 7789"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="각골로"/>
+		<tag k="addr:housenumber" v="47"/>
+		<tag k="addr:subdistrict" v="본오동"/>
+	</node>
+	<node id="-200123" action="modify" visible="true" lat="37.326615" lon="126.845329">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="현죽"/>
+		<tag k="phone" v="+82 31 413 8218"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="예술광장로"/>
+		<tag k="addr:housenumber" v="63"/>
+		<tag k="addr:subdistrict" v="성포동"/>
+		<tag k="addr:door" v="110"/>
+	</node>
+	<node id="-200124" action="modify" visible="true" lat="37.315062" lon="126.824721">
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="홍록기파티하우스"/>
+		<tag k="phone" v="+82 31 487 6868"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕4로"/>
+		<tag k="addr:housenumber" v="112"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+	</node>
+	<node id="-200125" action="modify" visible="true" lat="37.312122" lon="126.845905">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="홍익궁중전통육개장(안산이동점본관)"/>
+		<tag k="phone" v="+82 31 409 6669"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="송호3길"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:subdistrict" v="이동"/>
+		<tag k="level" v="1"/>
+	</node>
+	<node id="-200126" action="modify" visible="true" lat="37.306812" lon="126.815073">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="홍천감자탕"/>
+		<tag k="phone" v="+82 31 410 8116"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="초지로"/>
+		<tag k="addr:housenumber" v="90"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+	</node>
+	<node id="-200127" action="modify" visible="true" lat="37.308282" lon="126.827771">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="홍천덤바우록계탕"/>
+		<tag k="phone" v="+82 31 475 3988"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕1로"/>
+		<tag k="addr:housenumber" v="163"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="addr:door" v="101"/>
+	</node>
+	<node id="-200128" action="modify" visible="true" lat="37.308643" lon="126.828244">
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="홍푸"/>
+		<tag k="phone" v="+82 31 403 3885"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="광덕2로"/>
+		<tag k="addr:housenumber" v="164-12"/>
+		<tag k="addr:subdistrict" v="고잔동"/>
+		<tag k="level" v="2"/>
+	</node>
+	<node id="-200129" action="modify" visible="true" lat="37.358612" lon="126.821627">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="화정동 메밀꽃필무렵"/>
+		<tag k="phone" v="+82 31 403 0621"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-21:30"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="꽃우물1길"/>
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+	</node>
+	<node id="-200130" action="modify" visible="true" lat="37.349027" lon="126.822327">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="화정동낙지마을"/>
+		<tag k="phone" v="+82 31 487 5857"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="쑥개길"/>
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+	</node>
+	<node id="-200131" action="modify" visible="true" lat="37.306425" lon="126.815525">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="소가네"/>
+		<tag k="phone" v="+82 31 483 9295"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="초지2로"/>
+		<tag k="addr:housenumber" v="59"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+		<tag k="level" v="2"/>
+	</node>
+	<node id="-200132" action="modify" visible="true" lat="37.307706" lon="126.816605">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="엉클짱왕해물찜"/>
+		<tag k="phone" v="+82 31 402 8420"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="초지동로"/>
+		<tag k="addr:housenumber" v="45"/>
+		<tag k="addr:subdistrict" v="초지동"/>
+	</node>
+	<node id="-200133" action="modify" visible="true" lat="37.349421" lon="126.820746">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="콩밭"/>
+		<tag k="phone" v="+82 31 475 3434"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="쑥개길"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:subdistrict" v="화정동"/>
+	</node>
+	<node id="-200134" action="modify" visible="true" lat="37.332555" lon="126.810405">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="조선갈비(안산선부점)"/>
+		<tag k="phone" v="+82 31 483 2020"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="선부광장로"/>
+		<tag k="addr:housenumber" v="77"/>
+		<tag k="addr:subdistrict" v="선부동"/>
+		<tag k="addr:door" v="201"/>
+	</node>
+	<node id="-200135" action="modify" visible="true" lat="37.283948" lon="126.569486">
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="전통우리밀칼국수전문"/>
+		<tag k="phone" v="+82 32 886 2993"/>
+		<tag k="source:date" v="2019-07-05"/>
+		<tag k="addr:street" v="대부황금로"/>
+		<tag k="addr:housenumber" v="1435"/>
+		<tag k="addr:subdistrict" v="대부북동"/>
+		<tag k="level" v="1"/>
+	</node>
+</osm>
