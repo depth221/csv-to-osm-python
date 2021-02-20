@@ -85,7 +85,7 @@ for j in range(2, len(keys_to_add)):
                              len(re.findall("\d", factor)) <= 1 and\
                              factor[0] == "(" and factor[-1] == ")" and\
                              factor[-3].upper() == factor[-3].lower() and\
-                             factor[-2] in ["읍", "면", "동"])\
+                             factor[-2] in ["읍", "면", "동", "가"])\
                         or len(factor) >= 5 and\
                              factor[-3].isdecimal() and\
                              factor[0] == "(" and factor[-1] == ")" and\
