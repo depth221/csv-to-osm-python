@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="JOSM">
+	<node id="-200001" action="modify" visible="true" lat="35.20343592" lon="129.1012641">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="구기영 조방낙지"/>
+		<tag k="phone" v="+82 51 528 7055"/>
+		<tag k="opening_date" v="2003-05-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="명장로20번길"/>
+		<tag k="addr:housenumber" v="60"/>
+		<tag k="addr:subdistrict" v="명장동"/>
+	</node>
+	<node id="-200002" action="modify" visible="true" lat="35.22187376" lon="129.0817854">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="금문"/>
+		<tag k="phone" v="+82 51 555 4987"/>
+		<tag k="opening_date" v="2012-11-06"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="온천장로119번길"/>
+		<tag k="addr:housenumber" v="57"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200003" action="modify" visible="true" lat="35.21058095" lon="129.0745404">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="희래등"/>
+		<tag k="phone" v="+82 51 555 8817"/>
+		<tag k="opening_date" v="2015-10-29"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="중앙대로1367번길"/>
+		<tag k="addr:housenumber" v="70-6"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200004" action="modify" visible="true" lat="35.22054374" lon="129.0833495">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="seafood; blowfish"/>
+		<tag k="name" v="금수복국"/>
+		<tag k="phone" v="+82 51 555 9912"/>
+		<tag k="opening_date" v="2007-06-13"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="온천장로107번길"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200005" action="modify" visible="true" lat="35.20210338" lon="129.0821268">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="seafood; blowfish"/>
+		<tag k="name" v="금수복국(동래점)"/>
+		<tag k="phone" v="+82 51 553 7700"/>
+		<tag k="opening_date" v="2007-06-13"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로"/>
+		<tag k="addr:housenumber" v="210"/>
+		<tag k="addr:subdistrict" v="수안동"/>
+	</node>
+	<node id="-200006" action="modify" visible="true" lat="35.20648814" lon="129.0796591">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="논두렁추어탕"/>
+		<tag k="phone" v="+82 51 553 5769"/>
+		<tag k="opening_date" v="2012-11-06"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="명륜로139번길"/>
+		<tag k="addr:housenumber" v="42-5"/>
+		<tag k="addr:subdistrict" v="명륜동"/>
+	</node>
+	<node id="-200007" action="modify" visible="true" lat="35.2050824" lon="129.0846484">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="대궐집"/>
+		<tag k="phone" v="+82 51 552 0127"/>
+		<tag k="opening_date" v="2002-05-30"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="동래로136번길"/>
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:subdistrict" v="복천동"/>
+	</node>
+	<node id="-200008" action="modify" visible="true" lat="35.20319909" lon="129.0653171">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="대하찹쌀아구찜"/>
+		<tag k="phone" v="+82 51 505 8862"/>
+		<tag k="opening_date" v="2007-06-13"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="사직북로28번길"/>
+		<tag k="addr:housenumber" v="145"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200009" action="modify" visible="true" lat="35.22125348" lon="129.0856217">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="더파티허브(THE PARTY HUB)"/>
+		<tag k="phone" v="+82 51 557 7711"/>
+		<tag k="opening_date" v="2011-04-25"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="중앙대로"/>
+		<tag k="addr:housenumber" v="1523"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200010" action="modify" visible="true" lat="35.22084165" lon="129.0792673">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="동래별장"/>
+		<tag k="phone" v="+82 51 552 0157"/>
+		<tag k="opening_date" v="2005-06-22"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="금강로123번길"/>
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200011" action="modify" visible="true" lat="35.20526177" lon="129.0847496">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="동래삼계탕"/>
+		<tag k="phone" v="+82 51 555 2464"/>
+		<tag k="opening_date" v="2003-05-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="동래로116번길"/>
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:subdistrict" v="복천동"/>
+	</node>
+	<node id="-200012" action="modify" visible="true" lat="35.20284397" lon="129.0829713">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="동래순두부"/>
+		<tag k="phone" v="+82 51 555 0820"/>
+		<tag k="opening_date" v="2016-10-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="명륜로103번길"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:subdistrict" v="명륜동"/>
+	</node>
+	<node id="-200013" action="modify" visible="true" lat="35.2022203" lon="129.0791304">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="동보성"/>
+		<tag k="phone" v="+82 51 552 8418"/>
+		<tag k="opening_date" v="2007-06-13"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="온천천로"/>
+		<tag k="addr:housenumber" v="193"/>
+		<tag k="addr:subdistrict" v="명륜동"/>
+	</node>
+	<node id="-200014" action="modify" visible="true" lat="35.20121778" lon="129.0712432">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="두꺼비바다장어구이"/>
+		<tag k="phone" v="+82 51 506 0052"/>
+		<tag k="opening_date" v="2016-10-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="여고북로"/>
+		<tag k="addr:housenumber" v="113"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+		<tag k="level" v="1; 2"/>
+	</node>
+	<node id="-200015" action="modify" visible="true" lat="35.2102669" lon="129.075393">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="마루한"/>
+		<tag k="phone" v="+82 51 553 3070"/>
+		<tag k="opening_date" v="2012-11-06"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="중앙대로1367번길"/>
+		<tag k="addr:housenumber" v="48-5"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200016" action="modify" visible="true" lat="35.20241659" lon="129.0843933">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="만점식당"/>
+		<tag k="phone" v="+82 51 558 2240"/>
+		<tag k="opening_date" v="2002-05-30"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="명륜로98번길"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:subdistrict" v="수안동"/>
+	</node>
+	<node id="-200017" action="modify" visible="true" lat="35.1968981" lon="129.0591951">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="맛나감자탕사직점"/>
+		<tag k="phone" v="+82 51 503 3630"/>
+		<tag k="opening_date" v="2013-11-01"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="사직북로13번길"/>
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:subdistrict" v="사직동"/>
+	</node>
+	<node id="-200018" action="modify" visible="true" lat="35.20088889" lon="129.0828684">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="명가"/>
+		<tag k="phone" v="+82 51 553 5989"/>
+		<tag k="opening_date" v="2003-05-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로218번길"/>
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:subdistrict" v="수안동"/>
+	</node>
+	<node id="-200019" action="modify" visible="true" lat="35.19662098" lon="129.0599602">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="명진생아구찜"/>
+		<tag k="phone" v="+82 51 504 4445"/>
+		<tag k="opening_date" v="2009-03-25"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="사직북로13번길"/>
+		<tag k="addr:housenumber" v="13-3"/>
+		<tag k="addr:subdistrict" v="사직동"/>
+	</node>
+	<node id="-200020" action="modify" visible="true" lat="35.21064292" lon="129.0837559">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="명품뽈찜"/>
+		<tag k="phone" v="+82 51 556 6006"/>
+		<tag k="opening_date" v="2013-11-01"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="문화로"/>
+		<tag k="addr:housenumber" v="9-8"/>
+		<tag k="addr:subdistrict" v="명륜동"/>
+	</node>
+	<node id="-200021" action="modify" visible="true" lat="35.200835" lon="129.086865">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="seafood"/>
+		<tag k="name" v="미조리식당"/>
+		<tag k="phone" v="+82 51 556 1771"/>
+		<tag k="opening_date" v="2002-05-30"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로256번길"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:subdistrict" v="수안동"/>
+	</node>
+	<node id="-200022" action="modify" visible="true" lat="35.19904535" lon="129.0983825">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="밀양삼대국밥"/>
+		<tag k="phone" v="+82 51 529 9825"/>
+		<tag k="opening_date" v="2009-03-25"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로359번길"/>
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:subdistrict" v="안락동"/>
+	</node>
+	<node id="-200023" action="modify" visible="true" lat="35.20548211" lon="129.0812822">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; noodle"/>
+		<tag k="name" v="바른국수"/>
+		<tag k="phone" v="+82 51 555 8248"/>
+		<tag k="opening_date" v="2016-10-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="명륜로129번길"/>
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:subdistrict" v="명륜동"/>
+	</node>
+	<node id="-200024" action="modify" visible="true" lat="35.2063781" lon="129.0656442">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="복순아구찜"/>
+		<tag k="phone" v="+82 51 503 5222"/>
+		<tag k="opening_date" v="2005-06-22"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="석사북로95번길"/>
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200025" action="modify" visible="true" lat="35.22175869" lon="129.0835634">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="name" v="봉식당"/>
+		<tag k="phone" v="+82 51 556 9911"/>
+		<tag k="opening_date" v="2010-06-10"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="온천장로119번길"/>
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200026" action="modify" visible="true" lat="35.22168147" lon="129.0841335">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="산성별관"/>
+		<tag k="phone" v="+82 51 556 7105"/>
+		<tag k="opening_date" v="2002-05-30"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="온천장로119번길"/>
+		<tag k="addr:housenumber" v="12-3"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200027" action="modify" visible="true" lat="35.19270724" lon="129.0995269">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="새미골해물아구찜"/>
+		<tag k="phone" v="+82 51 525 0555"/>
+		<tag k="opening_date" v="2007-06-13"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="안연로"/>
+		<tag k="addr:housenumber" v="58-1"/>
+		<tag k="addr:subdistrict" v="안락동"/>
+	</node>
+	<node id="-200028" action="modify" visible="true" lat="35.20610884" lon="129.0706157">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="송가네대구탕"/>
+		<tag k="phone" v="+82 51 504 3900"/>
+		<tag k="opening_date" v="2012-11-06"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="미남로132번길"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200029" action="modify" visible="true" lat="35.19983099" lon="129.0912552">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="seafood; blowfish"/>
+		<tag k="name" v="수궁복집"/>
+		<tag k="phone" v="+82 51 555 2151"/>
+		<tag k="opening_date" v="2011-04-25"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로"/>
+		<tag k="addr:housenumber" v="296"/>
+		<tag k="addr:subdistrict" v="낙민동"/>
+	</node>
+	<node id="-200030" action="modify" visible="true" lat="35.2127009" lon="129.0641563">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="name" v="수목원"/>
+		<tag k="phone" v="+82 51 558 3399"/>
+		<tag k="opening_date" v="2012-11-06"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="금정마을로"/>
+		<tag k="addr:housenumber" v="81"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200031" action="modify" visible="true" lat="35.19554187" lon="129.0586394">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="안양해물탕"/>
+		<tag k="phone" v="+82 51 505 0480"/>
+		<tag k="opening_date" v="2003-05-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="사직로"/>
+		<tag k="addr:housenumber" v="66"/>
+		<tag k="addr:subdistrict" v="사직동"/>
+	</node>
+	<node id="-200032" action="modify" visible="true" lat="35.22116261" lon="129.0826877">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="japanese"/>
+		<tag k="name" v="어가식당"/>
+		<tag k="phone" v="+82 51 554 0331"/>
+		<tag k="opening_date" v="2005-06-22"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="온천장로107번길"/>
+		<tag k="addr:housenumber" v="32"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200033" action="modify" visible="true" lat="35.19632029" lon="129.1026613">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="name" v="영남식육식당 안락점"/>
+		<tag k="phone" v="+82 51 528 7222"/>
+		<tag k="opening_date" v="2016-10-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로"/>
+		<tag k="addr:housenumber" v="406"/>
+		<tag k="addr:subdistrict" v="안락동"/>
+	</node>
+	<node id="-200034" action="modify" visible="true" lat="35.19620411" lon="129.0591861">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; seafood"/>
+		<tag k="name" v="오륙도낙지"/>
+		<tag k="phone" v="+82 51 506 1854"/>
+		<tag k="opening_date" v="2007-06-13"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="사직북로5번길"/>
+		<tag k="addr:housenumber" v="30"/>
+		<tag k="addr:subdistrict" v="사직동"/>
+	</node>
+	<node id="-200035" action="modify" visible="true" lat="35.20470984" lon="129.0819638">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="japanese; chicken"/>
+		<tag k="name" v="유가네 닭갈비 동래역점"/>
+		<tag k="phone" v="+82 51 552 5818"/>
+		<tag k="opening_date" v="2004-06-11"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="삼성대길"/>
+		<tag k="addr:housenumber" v="40"/>
+		<tag k="addr:subdistrict" v="명륜동"/>
+	</node>
+	<node id="-200036" action="modify" visible="true" lat="35.20299543" lon="129.0851807">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="정림"/>
+		<tag k="phone" v="+82 51 554 1994"/>
+		<tag k="opening_date" v="2012-11-06"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로237번길"/>
+		<tag k="addr:housenumber" v="31-3"/>
+		<tag k="addr:subdistrict" v="수안동"/>
+	</node>
+	<node id="-200037" action="modify" visible="true" lat="35.20549002" lon="129.0824134">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="name" v="조마루감자탕식당"/>
+		<tag k="phone" v="+82 51 552 3651"/>
+		<tag k="opening_date" v="2009-03-25"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="명륜로"/>
+		<tag k="addr:housenumber" v="130-1"/>
+		<tag k="addr:subdistrict" v="명륜동"/>
+	</node>
+	<node id="-200038" action="modify" visible="true" lat="35.20517824" lon="129.0769511">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="name" v="주식회사세연정"/>
+		<tag k="phone" v="+82 51 506 6666"/>
+		<tag k="opening_date" v="2003-05-31"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로"/>
+		<tag k="addr:housenumber" v="149"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200039" action="modify" visible="true" lat="35.20956304" lon="129.0764929">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="seafood"/>
+		<tag k="name" v="청사포횟집"/>
+		<tag k="phone" v="+82 51 557 1667"/>
+		<tag k="opening_date" v="2002-05-30"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="중앙대로1367번길"/>
+		<tag k="addr:housenumber" v="55"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+	<node id="-200040" action="modify" visible="true" lat="35.20109669" lon="129.0848259">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="seafood"/>
+		<tag k="name" v="청산도횟집"/>
+		<tag k="phone" v="+82 51 552 9528"/>
+		<tag k="opening_date" v="2012-11-06"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="명륜로"/>
+		<tag k="addr:housenumber" v="80-10"/>
+		<tag k="addr:subdistrict" v="수안동"/>
+	</node>
+	<node id="-200041" action="modify" visible="true" lat="35.19971393" lon="129.0992042">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="seafood"/>
+		<tag k="name" v="청송식당"/>
+		<tag k="phone" v="+82 51 531 1144"/>
+		<tag k="opening_date" v="2008-06-17"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="충렬대로359번길"/>
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:subdistrict" v="안락동"/>
+	</node>
+	<node id="-200042" action="modify" visible="true" lat="35.204483" lon="129.0669153">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="korean; meat"/>
+		<tag k="name" v="한마당"/>
+		<tag k="phone" v="+82 51 506 7888"/>
+		<tag k="opening_date" v="2010-06-10"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-02-03"/>
+		<tag k="addr:street" v="아시아드대로"/>
+		<tag k="addr:housenumber" v="229"/>
+		<tag k="addr:subdistrict" v="온천동"/>
+	</node>
+</osm>
