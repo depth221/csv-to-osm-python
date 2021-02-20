@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="JOSM">
+	<node id="-200001" action="modify" visible="true" lat="34.54096045" lon="126.6121998">
+		<tag k="name" v="해물밭에 노는 닭"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 5311"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="291"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200002" action="modify" visible="true" lat="34.57769936" lon="126.3079978">
+		<tag k="name" v="수정가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-18:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 0540"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="관광레저로"/>
+		<tag k="addr:housenumber" v="85-41"/>
+		<tag k="addr:subdistrict" v="문내면"/>
+	</node>
+	<node id="-200003" action="modify" visible="true" lat="34.51817531" lon="126.6093211">
+		<tag k="name" v="정든집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 530 1199"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="549-5"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200004" action="modify" visible="true" lat="34.52387787" lon="126.594817">
+		<tag k="name" v="명성가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 3856"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="546-7"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200005" action="modify" visible="true" lat="34.50140031" lon="126.6173521">
+		<tag k="name" v="송림가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 7330"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="구림큰길"/>
+		<tag k="addr:housenumber" v="32-5"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200006" action="modify" visible="true" lat="34.38467815" lon="126.5685584">
+		<tag k="name" v="달마가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 4961"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="yes"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="미황사길"/>
+		<tag k="addr:housenumber" v="88"/>
+		<tag k="addr:subdistrict" v="송지면"/>
+	</node>
+	<node id="-200007" action="modify" visible="true" lat="34.55135782" lon="126.6093581">
+		<tag k="name" v="고수골가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 3525"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="159-41"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200008" action="modify" visible="true" lat="34.55202271" lon="126.6044224">
+		<tag k="name" v="고향가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 5030"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="150"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200009" action="modify" visible="true" lat="34.54137318" lon="126.6120296">
+		<tag k="name" v="돌고래가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 537 7100"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="287"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200010" action="modify" visible="true" lat="34.54122095" lon="126.6121193">
+		<tag k="name" v="일미정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-24:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 2727"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="289"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200011" action="modify" visible="true" lat="34.54327655" lon="126.61056">
+		<tag k="name" v="진솔가든"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 4643"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="262"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200012" action="modify" visible="true" lat="34.55254371" lon="126.6042612">
+		<tag k="name" v="호산정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 8844"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="yes"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="140"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200013" action="modify" visible="true" lat="34.54080131" lon="126.6124748">
+		<tag k="name" v="장수통닭"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 4410"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="295"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200014" action="modify" visible="true" lat="34.57060541" lon="126.5992629">
+		<tag k="name" v="천일관"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 1001"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="yes"/>
+		<tag k="leisure" v="playground"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="읍내길"/>
+		<tag k="addr:housenumber" v="20-8"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200015" action="modify" visible="true" lat="34.29833249" lon="126.5286603">
+		<tag k="name" v="어부횟집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 4779"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="땅끝마을길"/>
+		<tag k="addr:housenumber" v="70"/>
+		<tag k="addr:subdistrict" v="송지면"/>
+	</node>
+	<node id="-200016" action="modify" visible="true" lat="34.37028914" lon="126.5206098">
+		<tag k="name" v="중앙식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 2146"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="산정1길"/>
+		<tag k="addr:housenumber" v="69-1"/>
+		<tag k="addr:subdistrict" v="송지면"/>
+	</node>
+	<node id="-200017" action="modify" visible="true" lat="34.45971518" lon="126.5540028">
+		<tag k="name" v="현산"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 7540"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="현산북평로"/>
+		<tag k="addr:housenumber" v="87"/>
+		<tag k="addr:subdistrict" v="현산면"/>
+	</node>
+	<node id="-200018" action="modify" visible="true" lat="34.5753994" lon="126.5951938">
+		<tag k="name" v="명송횟집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 1073"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="북부순환로"/>
+		<tag k="addr:housenumber" v="155"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200019" action="modify" visible="true" lat="34.57219373" lon="126.6002062">
+		<tag k="name" v="이심전심"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 5:00-23:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 537 2727"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="수성4길"/>
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200020" action="modify" visible="true" lat="34.57193586" lon="126.6005157">
+		<tag k="name" v="만장일치"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 0118"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="수성4길"/>
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200021" action="modify" visible="true" lat="34.57131199" lon="126.6003517">
+		<tag k="name" v="영일만"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 2:00-23:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 9588"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="읍내길"/>
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200022" action="modify" visible="true" lat="34.57468288" lon="126.5987369">
+		<tag k="name" v="선비골"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 15:00-24:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 2633"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="군청길"/>
+		<tag k="addr:housenumber" v="31-1"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200023" action="modify" visible="true" lat="34.56912495" lon="126.607755">
+		<tag k="name" v="하마식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 12:00-23:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 537 1963"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="교육청길"/>
+		<tag k="addr:housenumber" v="16-8"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200024" action="modify" visible="true" lat="34.56683996" lon="126.6081635">
+		<tag k="name" v="어부밥상"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 2115"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="교육청길"/>
+		<tag k="addr:housenumber" v="77"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200025" action="modify" visible="true" lat="34.5696114" lon="126.606145">
+		<tag k="name" v="은혜식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 8877"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="남부순환로"/>
+		<tag k="addr:housenumber" v="18-2"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200026" action="modify" visible="true" lat="34.57354835" lon="126.6012079">
+		<tag k="name" v="청솔복집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 0186"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="북부순환로"/>
+		<tag k="addr:housenumber" v="97"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200027" action="modify" visible="true" lat="34.56873127" lon="126.6064321">
+		<tag k="name" v="유락횟집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 1449"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="남부순환로"/>
+		<tag k="addr:housenumber" v="25"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200028" action="modify" visible="true" lat="34.57308751" lon="126.6026869">
+		<tag k="name" v="이학식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 12:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 0203"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="북부순환로"/>
+		<tag k="addr:housenumber" v="83"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200029" action="modify" visible="true" lat="34.29932484" lon="126.52722">
+		<tag k="name" v="바다동산"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 3004"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="땅끝마을길"/>
+		<tag k="addr:housenumber" v="52"/>
+		<tag k="addr:subdistrict" v="송지면"/>
+	</node>
+	<node id="-200030" action="modify" visible="true" lat="34.29750816" lon="126.528327">
+		<tag k="name" v="맴섬횟집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 3561"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="땅끝마을길"/>
+		<tag k="addr:housenumber" v="60-18"/>
+		<tag k="addr:subdistrict" v="송지면"/>
+	</node>
+	<node id="-200031" action="modify" visible="true" lat="34.66719643" lon="126.3281646">
+		<tag k="name" v="산호촌닭오리"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="청용길"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:subdistrict" v="화원면"/>
+	</node>
+	<node id="-200032" action="modify" visible="true" lat="34.50528155" lon="126.6114298">
+		<tag k="name" v="태양정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 4751"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="yes"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="매정길"/>
+		<tag k="addr:housenumber" v="53"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200033" action="modify" visible="true" lat="34.49523371" lon="126.6172905">
+		<tag k="name" v="태웅"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 5848"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="174-2"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200034" action="modify" visible="true" lat="34.49562941" lon="126.6172078">
+		<tag k="name" v="논두렁쌈밥집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 0346"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="170-2"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200035" action="modify" visible="true" lat="34.49676305" lon="126.6170149">
+		<tag k="name" v="물레방아"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 3708"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="158-3"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200036" action="modify" visible="true" lat="34.49647464" lon="126.6170196">
+		<tag k="name" v="별미쌈밥"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 2688"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="158-6"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200037" action="modify" visible="true" lat="34.49699776" lon="126.6170437">
+		<tag k="name" v="한오백년"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 07:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 5633"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="158"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200038" action="modify" visible="true" lat="34.49692553" lon="126.617034">
+		<tag k="name" v="보리향기"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 3376"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="158-1"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200039" action="modify" visible="true" lat="34.50927197" lon="126.6103727">
+		<tag k="name" v="달동네보리밥"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 3667"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="yes"/>
+		<tag k="leisure" v="playground"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="고산로"/>
+		<tag k="addr:housenumber" v="656"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200040" action="modify" visible="true" lat="34.29864522" lon="126.5276772">
+		<tag k="name" v="전라도한정식"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 3814"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="땅끝마을길"/>
+		<tag k="addr:housenumber" v="58"/>
+		<tag k="addr:subdistrict" v="송지면"/>
+	</node>
+	<node id="-200041" action="modify" visible="true" lat="34.58076597" lon="126.5814147">
+		<tag k="name" v="진일관"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 5500"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="명량로"/>
+		<tag k="addr:housenumber" v="3009"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200042" action="modify" visible="true" lat="34.57403697" lon="126.5935167">
+		<tag k="name" v="한성정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 00:00-14:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 1060"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="서림길"/>
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200043" action="modify" visible="true" lat="34.57401123" lon="126.591283">
+		<tag k="name" v="땅끝기와집"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 2322"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="법원길"/>
+		<tag k="addr:housenumber" v="33"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200044" action="modify" visible="true" lat="34.57114315" lon="126.599777">
+		<tag k="name" v="거빈식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 6655"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="읍내길"/>
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200045" action="modify" visible="true" lat="34.57769936" lon="126.3079978">
+		<tag k="name" v="현대식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 1344"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="yes"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="관광레저로"/>
+		<tag k="addr:housenumber" v="85-41"/>
+		<tag k="addr:subdistrict" v="문내면"/>
+	</node>
+	<node id="-200046" action="modify" visible="true" lat="34.56541005" lon="126.5966366">
+		<tag k="name" v="장성한우촌"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 9393"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="남부순환로"/>
+		<tag k="addr:housenumber" v="140"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200047" action="modify" visible="true" lat="34.57570608" lon="126.5975645">
+		<tag k="name" v="성내식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 4774"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="명문길"/>
+		<tag k="addr:housenumber" v="19-1"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200048" action="modify" visible="true" lat="34.40553316" lon="126.6280004">
+		<tag k="name" v="진미"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 0818"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="볼무당길"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:subdistrict" v="북평면"/>
+	</node>
+	<node id="-200049" action="modify" visible="true" lat="34.40920771" lon="126.6244817">
+		<tag k="name" v="새오복식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 3024"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="현산북평로"/>
+		<tag k="addr:housenumber" v="1129-1"/>
+		<tag k="addr:subdistrict" v="북평면"/>
+	</node>
+	<node id="-200050" action="modify" visible="true" lat="34.57527137" lon="126.6493928">
+		<tag k="name" v="송학정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 532 9245"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="송운길"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:subdistrict" v="옥천면"/>
+	</node>
+	<node id="-200051" action="modify" visible="true" lat="34.41641893" lon="126.5887943">
+		<tag k="name" v="월송한우촌"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 9:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="leisure" v="playground"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="시등리길"/>
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:subdistrict" v="현산면"/>
+	</node>
+	<node id="-200052" action="modify" visible="true" lat="34.41261847" lon="126.5836479">
+		<tag k="name" v="매화식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 7:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 9595"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="yes"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="달마로"/>
+		<tag k="addr:housenumber" v="876"/>
+		<tag k="addr:subdistrict" v="현산면"/>
+	</node>
+	<node id="-200053" action="modify" visible="true" lat="34.66379475" lon="126.3265965">
+		<tag k="name" v="미가"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 6022"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="신덕호길"/>
+		<tag k="addr:housenumber" v="25"/>
+		<tag k="addr:subdistrict" v="화원면"/>
+	</node>
+	<node id="-200054" action="modify" visible="true" lat="34.57886265" lon="126.5914301">
+		<tag k="name" v="수남숯불구이"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 17:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 537 9192"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="구교3길"/>
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200055" action="modify" visible="true" lat="34.57503765" lon="126.5966603">
+		<tag k="name" v="고기생각"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 537 1661"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="북부순환로"/>
+		<tag k="addr:housenumber" v="141-1"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200056" action="modify" visible="true" lat="34.5734466" lon="126.6033456">
+		<tag k="name" v="신화한우장터"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 535 4561"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="북부순환로"/>
+		<tag k="addr:housenumber" v="78"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200057" action="modify" visible="true" lat="34.57265581" lon="126.5980516">
+		<tag k="name" v="농장의아침"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 537 6160"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="군청길"/>
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200058" action="modify" visible="true" lat="34.57062659" lon="126.6074248">
+		<tag k="name" v="한우일번지"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 4481"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="해남로"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200059" action="modify" visible="true" lat="34.5665743" lon="126.5951896">
+		<tag k="name" v="산화"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 4561"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="중앙2로"/>
+		<tag k="addr:housenumber" v="135-1"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200060" action="modify" visible="true" lat="34.56859729" lon="126.6010183">
+		<tag k="name" v="수미정육식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 4382"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="행운길"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200061" action="modify" visible="true" lat="34.56575716" lon="126.605697">
+		<tag k="name" v="오대감한우직판장식육식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 2700"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="영빈로"/>
+		<tag k="addr:housenumber" v="49"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200062" action="modify" visible="true" lat="34.56118151" lon="126.5794042">
+		<tag k="name" v="해초한우정"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 3554"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="납부순환로"/>
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200063" action="modify" visible="true" lat="34.57131686" lon="126.6007767">
+		<tag k="name" v="한우마당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 11:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 533 7667"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="천변2길"/>
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200064" action="modify" visible="true" lat="34.5660496" lon="126.6052563">
+		<tag k="name" v="고기나라"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 536 2223"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="남부순환로"/>
+		<tag k="addr:housenumber" v="59"/>
+		<tag k="addr:subdistrict" v="해남읍"/>
+	</node>
+	<node id="-200065" action="modify" visible="true" lat="34.49677671" lon="126.6182232">
+		<tag k="name" v="호남식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 5500"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="143"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+	<node id="-200066" action="modify" visible="true" lat="34.49748221" lon="126.6200299">
+		<tag k="name" v="해남식당"/>
+		<tag k="cuisine" v="korean"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="phone" v="+82 61 534 5584"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="dog" v="no"/>
+		<tag k="takeaway" v="no"/>
+		<tag k="addr:street" v="대흥사길"/>
+		<tag k="addr:housenumber" v="98-2"/>
+		<tag k="addr:subdistrict" v="삼산면"/>
+	</node>
+</osm>
