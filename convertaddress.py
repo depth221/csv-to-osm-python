@@ -127,6 +127,8 @@ for j in range(2, len(keys_to_add)):
                     elif factor[-1] == "층": # level
                         if factor[0:2] == "지하":
                             fr_csv[i][-2] = "-" + factor[2:-1] # basement
+                        elif factor[0] == "B":
+                            fr_csv[i][-2] = "-" + factor[1:-1] # basement
                         elif factor[:-1].isdecimal():
                             fr_csv[i][-2] = factor[:-1]
                         else:
