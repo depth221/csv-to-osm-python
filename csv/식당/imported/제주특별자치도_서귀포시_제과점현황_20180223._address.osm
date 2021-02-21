@@ -1,0 +1,1035 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-227294' action='modify' visible='true' lat='33.2750705' lon='126.6612576'>
+    <tag k='addr:housenumber' v='129' />
+    <tag k='addr:street' v='태위로' />
+    <tag k='addr:subdistrict' v='남원읍' />
+    <tag k='name' v='오뚜기제과점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227295' action='modify' visible='true' lat='33.2487665' lon='126.567381'>
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:street' v='중정로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='동문당' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227296' action='modify' visible='true' lat='33.2491685' lon='126.5635416'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='중앙로48번길' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='정옥빵집' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227297' action='modify' visible='true' lat='33.2600441' lon='126.561786'>
+    <tag k='addr:housenumber' v='29-1' />
+    <tag k='addr:street' v='중앙로150번길' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='동명찐빵' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227298' action='modify' visible='true' lat='33.2460024' lon='126.5810125'>
+    <tag k='addr:housenumber' v='242' />
+    <tag k='addr:street' v='칠십리로' />
+    <tag k='addr:subdistrict' v='토평동' />
+    <tag k='name' v='서귀포칼호텔제과점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227299' action='modify' visible='true' lat='33.2455761' lon='126.4055533'>
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:street' v='중문관광로72번길' />
+    <tag k='addr:subdistrict' v='색달동' />
+    <tag k='name' v='하얏트리젠시제주과자점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227300' action='modify' visible='true' lat='33.2224539' lon='126.2543751'>
+    <tag k='addr:housenumber' v='117-1' />
+    <tag k='addr:street' v='신영로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='온누리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227301' action='modify' visible='true' lat='33.2213484' lon='126.2546813'>
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='빙그레제과점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227302' action='modify' visible='true' lat='33.2221335' lon='126.2541541'>
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:street' v='하모상가로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='신세계제과' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227303' action='modify' visible='true' lat='33.2475582' lon='126.4081161'>
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:street' v='중문관광로72번길' />
+    <tag k='addr:subdistrict' v='색달동' />
+    <tag k='name' v='패스트리부티크' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227304' action='modify' visible='true' lat='33.3262102' lon='126.8325057'>
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:street' v='표선중앙로' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='name' v='한아름' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227305' action='modify' visible='true' lat='33.2511482' lon='126.5109453'>
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:street' v='김정문화로' />
+    <tag k='addr:subdistrict' v='서호동' />
+    <tag k='name' v='뉴궁전제과' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227306' action='modify' visible='true' lat='33.2515893' lon='126.424481'>
+    <tag k='addr:housenumber' v='186' />
+    <tag k='addr:street' v='천제연로' />
+    <tag k='addr:subdistrict' v='중문동' />
+    <tag k='name' v='파리바게뜨 중문점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227307' action='modify' visible='true' lat='33.2489282' lon='126.5681134'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='동홍로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='level' v='1; 2' />
+    <tag k='name' v='파리바게뜨' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227308' action='modify' visible='true' lat='33.448007' lon='126.9152566'>
+    <tag k='addr:housenumber' v='48-1' />
+    <tag k='addr:street' v='고성오조로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='보룡제과' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227309' action='modify' visible='true' lat='33.3262981' lon='126.8329309'>
+    <tag k='addr:housenumber' v='251' />
+    <tag k='addr:street' v='표선동서로' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='name' v='빵굽는집' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227310' action='modify' visible='true' lat='33.2515834' lon='126.5610812'>
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:street' v='중앙로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='한라베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227311' action='modify' visible='true' lat='33.3793187' lon='126.8758328'>
+    <tag k='addr:housenumber' v='18-7' />
+    <tag k='addr:street' v='신산중앙로18번길' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='쑥이네진빵' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227312' action='modify' visible='true' lat='33.4500206' lon='126.9150766'>
+    <tag k='addr:housenumber' v='70-2' />
+    <tag k='addr:street' v='고성오조로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='케나라' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227313' action='modify' visible='true' lat='33.447961' lon='126.9149463'>
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:street' v='고성오조로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='제일성심당' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227314' action='modify' visible='true' lat='33.263813' lon='126.6174354'>
+    <tag k='addr:housenumber' v='173-1' />
+    <tag k='addr:street' v='효돈로' />
+    <tag k='addr:subdistrict' v='하효동' />
+    <tag k='name' v='남양당' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227315' action='modify' visible='true' lat='33.3244501' lon='126.8331639'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='표선중앙로90번길' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='name' v='갓구운베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227316' action='modify' visible='true' lat='33.3190481' lon='126.7087521'>
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:street' v='남조로' />
+    <tag k='addr:subdistrict' v='남원읍' />
+    <tag k='name' v='하나로빵집' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227317' action='modify' visible='true' lat='33.3056347' lon='126.7921182'>
+    <tag k='addr:housenumber' v='6347-17' />
+    <tag k='addr:street' v='일주동로' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='name' v='델리팜' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227318' action='modify' visible='true' lat='33.2663197' lon='126.5671727'>
+    <tag k='name' v='빵하우스' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227319' action='modify' visible='true' lat='33.325318' lon='126.8320654'>
+    <tag k='addr:housenumber' v='237-2' />
+    <tag k='addr:street' v='표선동서로' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='name' v='하나로빵이벤트' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227320' action='modify' visible='true' lat='33.2552151' lon='126.5741555'>
+    <tag k='addr:housenumber' v='8554' />
+    <tag k='addr:street' v='일주동로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='플러스제과점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227321' action='modify' visible='true' lat='33.26028268127' lon='126.56018042027'>
+    <tag k='addr:housenumber' v='180' />
+    <tag k='addr:street' v='중앙로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='몽블랑제서귀포점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227322' action='modify' visible='true' lat='33.2640429' lon='126.5603253'>
+    <tag k='addr:housenumber' v='8019' />
+    <tag k='addr:street' v='중산간동로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='칠십리베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227323' action='modify' visible='true' lat='33.2507993' lon='126.430737'>
+    <tag k='addr:housenumber' v='242' />
+    <tag k='addr:street' v='천제연로' />
+    <tag k='addr:subdistrict' v='중문동' />
+    <tag k='name' v='중문하나로베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227324' action='modify' visible='true' lat='33.2484335' lon='126.5092187'>
+    <tag k='addr:housenumber' v='9209' />
+    <tag k='addr:street' v='일주동로' />
+    <tag k='addr:subdistrict' v='법환동' />
+    <tag k='name' v='(주)신세계푸드이-베이커리서귀포점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227325' action='modify' visible='true' lat='33.2609942' lon='126.6172426'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='하신상로' />
+    <tag k='addr:subdistrict' v='하효동' />
+    <tag k='name' v='효돈농협하나로베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227326' action='modify' visible='true' lat='33.2195093' lon='126.2525008'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='최남단해안로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='중앙베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227327' action='modify' visible='true' lat='33.2483036' lon='126.5640665'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='중정로73번길' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='맛짱먹거리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227328' action='modify' visible='true' lat='33.252717' lon='126.5604842'>
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:street' v='중앙로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='파리바게뜨 서귀포1호 광장점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227329' action='modify' visible='true' lat='33.2413649' lon='126.4245153'>
+    <tag k='addr:housenumber' v='224' />
+    <tag k='addr:street' v='중문관광로' />
+    <tag k='addr:subdistrict' v='중문동' />
+    <tag k='name' v='제주국제컨벤선센터 베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227330' action='modify' visible='true' lat='33.2475384' lon='126.5625338'>
+    <tag k='addr:housenumber' v='56-1' />
+    <tag k='addr:street' v='중정로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='뚜레쥬르서귀포점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227331' action='modify' visible='true' lat='33.2465809' lon='126.333321'>
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:street' v='화순로' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='name' v='풍차베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227332' action='modify' visible='true' lat='33.2511667' lon='126.5726439'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='동홍중앙로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='플러스마트2호점베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227333' action='modify' visible='true' lat='33.2223125' lon='126.2547019'>
+    <tag k='addr:housenumber' v='326' />
+    <tag k='addr:street' v='상모로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='파리바게뜨대정점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227334' action='modify' visible='true' lat='33.2576277' lon='126.5718713'>
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:street' v='동홍중앙로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='나드리빵집' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227335' action='modify' visible='true' lat='33.2785051' lon='126.7176468'>
+    <tag k='addr:housenumber' v='662' />
+    <tag k='addr:street' v='태위로' />
+    <tag k='addr:subdistrict' v='남원읍' />
+    <tag k='name' v='옥이네 빵집' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227336' action='modify' visible='true' lat='33.4143696' lon='126.8999778'>
+    <tag k='addr:housenumber' v='4282' />
+    <tag k='addr:street' v='일주동로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='성산일출봉농업협동조합' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227337' action='modify' visible='true' lat='33.3258943' lon='126.8336204'>
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='표선중앙로' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='name' v='파리바게뜨제주표선점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227338' action='modify' visible='true' lat='33.43104827284' lon='126.92802360986'>
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:street' v='섭지코지로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='휘닉스제과' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227339' action='modify' visible='true' lat='33.43102812691' lon='126.92772320245'>
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:street' v='섭지코지로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='민트베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227340' action='modify' visible='true' lat='33.4310460344' lon='126.92789754603'>
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:street' v='섭지코지로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='섭지베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227341' action='modify' visible='true' lat='33.246956' lon='126.5634715'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='명동로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='플러스제과점3호점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227342' action='modify' visible='true' lat='33.2444327' lon='126.4161942'>
+    <tag k='addr:housenumber' v='154-17' />
+    <tag k='addr:street' v='중문관광로' />
+    <tag k='addr:subdistrict' v='색달동' />
+    <tag k='name' v='르방블랑제베이커리앤카페' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227343' action='modify' visible='true' lat='33.2866384' lon='126.2229014'>
+    <tag k='addr:housenumber' v='434' />
+    <tag k='addr:street' v='칠전로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='황금륭스마일버거' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227345' action='modify' visible='true' lat='33.2602344604' lon='126.55987062513'>
+    <tag k='addr:housenumber' v='180' />
+    <tag k='addr:street' v='중앙로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='몽블랑제서귀포점(행사매대)' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227346' action='modify' visible='true' lat='33.2529828' lon='126.5110086'>
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='신서귀로' />
+    <tag k='addr:subdistrict' v='법환동' />
+    <tag k='name' v='르방베이커리앤커피' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227347' action='modify' visible='true' lat='33.2516464' lon='126.562634'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='동문로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='돌코롬' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227348' action='modify' visible='true' lat='33.2571748' lon='126.5276268'>
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:street' v='호근서호로' />
+    <tag k='addr:subdistrict' v='호근동' />
+    <tag k='name' v='플러스베이커리썬마트' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227349' action='modify' visible='true' lat='33.2570577' lon='126.5278162'>
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:street' v='호근서호로' />
+    <tag k='addr:subdistrict' v='호근동' />
+    <tag k='name' v='르방' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227350' action='modify' visible='true' lat='33.2788483' lon='126.7185714'>
+    <tag k='addr:housenumber' v='672-1' />
+    <tag k='addr:street' v='태위로' />
+    <tag k='addr:subdistrict' v='남원읍' />
+    <tag k='name' v='파리바게뜨제주남원점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227351' action='modify' visible='true' lat='33.2527346' lon='126.4246704'>
+    <tag k='addr:housenumber' v='185' />
+    <tag k='addr:street' v='천제연로' />
+    <tag k='addr:subdistrict' v='중문동' />
+    <tag k='name' v='뚜레쥬르 중문점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227352' action='modify' visible='true' lat='33.2535823' lon='126.5058884'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='신서로32번길' />
+    <tag k='addr:subdistrict' v='강정동' />
+    <tag k='name' v='채점석베이커리 신시가지점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227353' action='modify' visible='true' lat='33.2500049' lon='126.5090601'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='신서귀로' />
+    <tag k='addr:subdistrict' v='법환동' />
+    <tag k='name' v='파리바게뜨서귀포월드컵점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227354' action='modify' visible='true' lat='33.4268965' lon='126.8647243'>
+    <tag k='addr:housenumber' v='1231' />
+    <tag k='addr:street' v='서성일로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='제일성심담2호점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227355' action='modify' visible='true' lat='33.4500727' lon='126.9116643'>
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='고성중앙로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='제일성심담3호점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227356' action='modify' visible='true' lat='33.2752458' lon='126.6617079'>
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:street' v='태위로' />
+    <tag k='addr:subdistrict' v='남원읍' />
+    <tag k='name' v='빵돌이와 빵순이' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227357' action='modify' visible='true' lat='33.3234478' lon='126.8447796'>
+    <tag k='addr:housenumber' v='537' />
+    <tag k='addr:street' v='민속해안로' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='name' v='마고' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227358' action='modify' visible='true' lat='33.4625433' lon='126.9331617'>
+    <tag k='addr:housenumber' v='30-3' />
+    <tag k='addr:street' v='성산중앙로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='name' v='제주일출쑥빵보리빵' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227359' action='modify' visible='true' lat='33.2570546' lon='126.5760605'>
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:street' v='동홍남로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='꼬망' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227360' action='modify' visible='true' lat='33.2572879' lon='126.5572703'>
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:street' v='홍중로' />
+    <tag k='addr:subdistrict' v='서홍동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='듀브레드' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227361' action='modify' visible='true' lat='33.25544' lon='126.5761554'>
+    <tag k='addr:housenumber' v='36-11' />
+    <tag k='addr:street' v='동홍중앙로66번길' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='뷔쏭' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227362' action='modify' visible='true' lat='33.2385593' lon='126.5144987'>
+    <tag k='addr:housenumber' v='938' />
+    <tag k='addr:street' v='이어도로' />
+    <tag k='addr:subdistrict' v='법환동' />
+    <tag k='name' v='해담베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227363' action='modify' visible='true' lat='33.4619088' lon='126.9345529'>
+    <tag k='addr:housenumber' v='270-1' />
+    <tag k='addr:street' v='일출로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='level' v='2' />
+    <tag k='name' v='파리바게뜨성산일출봉점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227364' action='modify' visible='true' lat='33.2505248' lon='126.6209111'>
+    <tag k='addr:housenumber' v='151-8' />
+    <tag k='addr:street' v='쇠소깍로' />
+    <tag k='addr:subdistrict' v='하효동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='또또시' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227365' action='modify' visible='true' lat='33.2544217' lon='126.4199736'>
+    <tag k='addr:housenumber' v='131-8' />
+    <tag k='addr:street' v='천제연로' />
+    <tag k='addr:subdistrict' v='중문동' />
+    <tag k='name' v='해성베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227366' action='modify' visible='true' lat='33.291513' lon='126.284129'>
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='에듀시티로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='level' v='1' />
+    <tag k='name' v='파리바게트제주영어도시점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227367' action='modify' visible='true' lat='33.2798179' lon='126.2737676'>
+    <tag k='addr:housenumber' v='27-10' />
+    <tag k='addr:street' v='영어도시로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='빵가게' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227368' action='modify' visible='true' lat='33.2541205' lon='126.560076'>
+    <tag k='addr:door' v='101' />
+    <tag k='addr:housenumber' v='10-6' />
+    <tag k='addr:street' v='서호남로32번길' />
+    <tag k='addr:subdistrict' v='서호동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='더심플' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227369' action='modify' visible='true' lat='33.2505278' lon='126.5633605'>
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='중정로91번길' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='name' v='플란다슈' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227370' action='modify' visible='true' lat='33.2551275' lon='126.5758772'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='동홍중앙로52번길' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='블랑제리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227371' action='modify' visible='true' lat='33.3806039' lon='126.8753735'>
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:street' v='독자봉로51번길' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='level' v='1' />
+    <tag k='name' v='스터닝베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227372' action='modify' visible='true' lat='33.2485349' lon='126.4103936'>
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='중문관광로72번길' />
+    <tag k='addr:subdistrict' v='색달동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='델리카한스' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227373' action='modify' visible='true' lat='33.4380663' lon='126.9212263'>
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='섭지코지로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='level' v='1' />
+    <tag k='name' v='동공똘베이킹' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227374' action='modify' visible='true' lat='33.2488443' lon='126.5208077'>
+    <tag k='addr:door' v='102' />
+    <tag k='addr:housename' v='LH2단지' />
+    <tag k='addr:housenumber' v='92-16' />
+    <tag k='addr:street' v='서호남로' />
+    <tag k='addr:subdistrict' v='서호동' />
+    <tag k='addr:unit' v='상가' />
+    <tag k='name' v='다솜베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227375' action='modify' visible='true' lat='33.2402708' lon='126.2507128'>
+    <tag k='addr:housenumber' v='2641' />
+    <tag k='addr:street' v='일주서로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='name' v='뚜레쥬르제주모슬포점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227376' action='modify' visible='true' lat='33.2489574' lon='126.5073438'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='월드컵로' />
+    <tag k='addr:subdistrict' v='강정동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='시스터필드' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227377' action='modify' visible='true' lat='33.25410928506' lon='126.56000089815'>
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:street' v='대청로' />
+    <tag k='addr:subdistrict' v='강정동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='봉주르마담' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227378' action='modify' visible='true' lat='33.2784254' lon='126.7000067'>
+    <tag k='addr:door' v='상가101' />
+    <tag k='addr:housename' v='남원LH아파트' />
+    <tag k='addr:housenumber' v='342' />
+    <tag k='addr:street' v='남원체육관로' />
+    <tag k='addr:subdistrict' v='남원읍' />
+    <tag k='name' v='로뎀베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227379' action='modify' visible='true' lat='33.24753' lon='126.5624288'>
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:street' v='중정로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='금미대만대왕카스테라' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227380' action='modify' visible='true' lat='33.2496646' lon='126.3357732'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='화순중앙로' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='level' v='1' />
+    <tag k='name' v='파리바게뜨제주화순점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227381' action='modify' visible='true' lat='33.2565479' lon='126.6215097'>
+    <tag k='addr:housenumber' v='217-3' />
+    <tag k='addr:street' v='효돈순환로' />
+    <tag k='addr:subdistrict' v='하효동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='디저트팩토리제주쇠소깍점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227382' action='modify' visible='true' lat='33.2318981' lon='126.2977226'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='서호남로32번길' />
+    <tag k='addr:subdistrict' v='서호동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='채점석베이커리 혁신도시점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227383' action='modify' visible='true' lat='33.47288582877' lon='126.93454476893'>
+    <tag k='addr:housenumber' v='130-21' />
+    <tag k='addr:street' v='성산등용로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='level' v='1' />
+    <tag k='name' v='제일성심당 성산항점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227384' action='modify' visible='true' lat='33.47288359141' lon='126.93422558605'>
+    <tag k='addr:housenumber' v='130-21' />
+    <tag k='addr:street' v='성산등용로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='level' v='1' />
+    <tag k='name' v='브릭공장' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227385' action='modify' visible='true' lat='33.2307269' lon='126.2920597'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='사계북로' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='name' v='안덕농협사계지점베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227386' action='modify' visible='true' lat='33.2421595' lon='126.6100897'>
+    <tag k='addr:housenumber' v='179' />
+    <tag k='addr:street' v='보목포로' />
+    <tag k='addr:subdistrict' v='하효동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='게우지코지인갤러리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227387' action='modify' visible='true' lat='33.3036005' lon='126.39036'>
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:street' v='산록남로762번길' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='level' v='-1; 1' />
+    <tag k='name' v='핀크스베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227388' action='modify' visible='true' lat='33.25413059345' lon='126.56016518345'>
+    <tag k='addr:door' v='101; 102' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='대청로' />
+    <tag k='addr:subdistrict' v='강정동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='파리바게뜨서귀포시강정지구' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227389' action='modify' visible='true' lat='33.2516189' lon='126.5628308'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='동문로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='로타리과자점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227390' action='modify' visible='true' lat='33.448917' lon='126.9175588'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='동류암로' />
+    <tag k='addr:subdistrict' v='성산읍' />
+    <tag k='addr:unit' v='C' />
+    <tag k='level' v='1' />
+    <tag k='name' v='미스터브레들리(Mr.Breadley)' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227391' action='modify' visible='true' lat='33.3251759' lon='126.8325861'>
+    <tag k='addr:housenumber' v='240' />
+    <tag k='addr:street' v='표선동서로' />
+    <tag k='addr:subdistrict' v='표선면' />
+    <tag k='level' v='1' />
+    <tag k='name' v='옵써빵집' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227392' action='modify' visible='true' lat='33.301546' lon='126.317122'>
+    <tag k='addr:housename' v='제주신화빌라스 일본테라스' />
+    <tag k='addr:housenumber' v='139' />
+    <tag k='addr:street' v='신화역사로304번길' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='level' v='1' />
+    <tag k='name' v='파리바게뜨신화월드점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227393' action='modify' visible='true' lat='33.245396' lon='126.5668909'>
+    <tag k='addr:housenumber' v='436' />
+    <tag k='addr:street' v='태평로' />
+    <tag k='addr:subdistrict' v='서귀동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='라이즈앤다인제과' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227394' action='modify' visible='true' lat='33.2381265' lon='126.5135941'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='법환로38번길' />
+    <tag k='addr:subdistrict' v='법환동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='가파도청보리빵' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227395' action='modify' visible='true' lat='33.2862186' lon='126.4442655'>
+    <tag k='addr:housenumber' v='453-95' />
+    <tag k='addr:street' v='1100로' />
+    <tag k='addr:subdistrict' v='회수동' />
+    <tag k='name' v='위호텔델리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227396' action='modify' visible='true' lat='33.2622164' lon='126.6206179'>
+    <tag k='addr:housenumber' v='8106' />
+    <tag k='addr:street' v='일주동로' />
+    <tag k='addr:subdistrict' v='하효동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='달달콤콤' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227397' action='modify' visible='true' lat='33.253352' lon='126.5671399'>
+    <tag k='addr:housenumber' v='49-7' />
+    <tag k='addr:street' v='동홍로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='(주)쿱스토어제주동홍점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227398' action='modify' visible='true' lat='33.2557864' lon='126.5727888'>
+    <tag k='addr:housenumber' v='58-16' />
+    <tag k='addr:street' v='동홍중앙로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='level' v='1' />
+    <tag k='name' v='세피베이글' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227399' action='modify' visible='true' lat='33.2528509' lon='126.5762661'>
+    <tag k='addr:housenumber' v='554' />
+    <tag k='addr:street' v='태평로' />
+    <tag k='addr:subdistrict' v='동홍동' />
+    <tag k='name' v='다올베이커리' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227400' action='modify' visible='true' lat='33.286509' lon='126.281098'>
+    <tag k='addr:door' v='106; 107; 108' />
+    <tag k='addr:housename' v='한신더휴상가' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:street' v='에듀시티로' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='level' v='1' />
+    <tag k='name' v='뚜레쥬르제주영어도시점' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227401' action='modify' visible='true' lat='33.3052583' lon='126.3149549'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='신화역사로304번길' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='랜딩델리(Landing Deli)' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227402' action='modify' visible='true' lat='33.30506327407' lon='126.31526603625'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='신화역사로304번길' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='level' v='1' />
+    <tag k='name' v='본본델리(Bon Bon Deli)' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227403' action='modify' visible='true' lat='33.30515518289' lon='126.31511851475'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='신화역사로304번길' />
+    <tag k='addr:subdistrict' v='안덕면' />
+    <tag k='addr:unit' v='호텔' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='아델린' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+  <node id='-227404' action='modify' visible='true' lat='33.2238304' lon='126.2555824'>
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='상모로290번길' />
+    <tag k='addr:subdistrict' v='대정읍' />
+    <tag k='level' v='1' />
+    <tag k='name' v='달콤해' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2018-02-23' />
+  </node>
+</osm>
