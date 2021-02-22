@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="JOSM">
+	<node id="-200001" action="modify" visible="true" lat="35.871024" lon="128.558537">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200002" action="modify" visible="true" lat="35.869885" lon="128.551373">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200003" action="modify" visible="true" lat="35.871427" lon="128.577353">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200004" action="modify" visible="true" lat="35.884588" lon="128.555417">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200005" action="modify" visible="true" lat="35.859584" lon="128.546455">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200006" action="modify" visible="true" lat="35.861441" lon="128.556645">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200007" action="modify" visible="true" lat="35.869465" lon="128.579013">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200008" action="modify" visible="true" lat="35.859841" lon="128.563004">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200009" action="modify" visible="true" lat="35.869591" lon="128.559104">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200010" action="modify" visible="true" lat="35.884877" lon="128.556942">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200011" action="modify" visible="true" lat="35.856214" lon="128.552547">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200012" action="modify" visible="true" lat="35.871996" lon="128.56543">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200013" action="modify" visible="true" lat="35.878819" lon="128.550311">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200014" action="modify" visible="true" lat="35.879664" lon="128.571289">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200015" action="modify" visible="true" lat="35.871584" lon="128.555019">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200016" action="modify" visible="true" lat="35.862611" lon="128.550606">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200017" action="modify" visible="true" lat="35.872335" lon="128.571287">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200018" action="modify" visible="true" lat="35.876098" lon="128.571172">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200019" action="modify" visible="true" lat="35.871537" lon="128.538121">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+	<node id="-200020" action="modify" visible="true" lat="35.88233" lon="128.552308">
+		<tag k="operator" v="대구광역시 서구청"/>
+		<tag k="man_made" v="surveillance"/>
+		<tag k="surveillance" v="outdoor"/>
+		<tag k="surveillance:zone" v="traffic"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="phone" v="+82 53 663 3021"/>
+		<tag k="source" v="공공데이터포털"/>
+		<tag k="source:date" v="2020-10-16"/>
+	</node>
+</osm>
