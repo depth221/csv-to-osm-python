@@ -1,0 +1,5 @@
+위도,경도,name,addr:full,ref:isil,books,opening_hours,capacity,operator,phone,website,source,source:date,addr:district,addr:street,addr:housenumber,addr:subdistrict,addr:unit,level,addr:door
+34.979945,127.587502,광양시립중앙도서관,,KR-146024,,Mo-Fr 08:00-22:00; Sa 09:00-22:00; PH off; Fr[2] off,242,전라남도 광양시청,+82 61 797 2530,http://lib.gwangyang.go.kr,공공데이터포털,2021-02-19,,향교길,9-30,광양읍,,,
+34.937646,127.6903031,광양중마도서관,,KR-146050,,Mo-Sa 08:00-22:00; PH off; Fr[2] off,219,전라남도 광양시청,+82 61 797 2430,http://lib.gwangyang.go.kr,공공데이터포털,2021-02-19,,광장로,14,중동,,,
+34.97348185,127.5826092,광양희망도서관,,KR-146177,children,"Mo-Fr 10:00-19:00; Sa 09:00-17:00; PH off; Fr[1], Fr[3] off",143,전라남도 광양시청,+82 61 797 4700,http://lib.gwangyang.go.kr,공공데이터포털,2021-02-19,,인덕로,1022,광양읍,,,
+34.974088,127.607322,광양용강도서관,,KR-146049,,"Mo-Fr 09:00-22:00; Sa 09:00-17:00; PH off; Fr[1], Fr[3] off",140,전라남도 광양시청,+82 61 797 3867,http://lib.gwangyang.go.kr,공공데이터포털,2021-02-19,,기두5길,5,광양읍,,,

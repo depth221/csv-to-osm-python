@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-218593' action='modify' visible='true' lat='34.979945' lon='127.587502'>
+    <tag k='addr:housenumber' v='9-30' />
+    <tag k='addr:street' v='향교길' />
+    <tag k='addr:subdistrict' v='광양읍' />
+    <tag k='amenity' v='library' />
+    <tag k='capacity' v='242' />
+    <tag k='name' v='광양시립중앙도서관' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa 09:00-22:00; PH off; Fr[2] off' />
+    <tag k='operator' v='전라남도 광양시청' />
+    <tag k='phone' v='+82 61 797 2530' />
+    <tag k='ref:isil' v='KR-146024' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2021-02-19' />
+    <tag k='website' v='http://lib.gwangyang.go.kr' />
+  </node>
+  <node id='-218594' action='modify' visible='true' lat='34.937646' lon='127.6903031'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='광장로' />
+    <tag k='addr:subdistrict' v='중동' />
+    <tag k='amenity' v='library' />
+    <tag k='capacity' v='219' />
+    <tag k='name' v='광양중마도서관' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-22:00; PH off; Fr[2] off' />
+    <tag k='operator' v='전라남도 광양시청' />
+    <tag k='phone' v='+82 61 797 2430' />
+    <tag k='ref:isil' v='KR-146050' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2021-02-19' />
+    <tag k='website' v='http://lib.gwangyang.go.kr' />
+  </node>
+  <node id='-218595' action='modify' visible='true' lat='34.97348185' lon='127.5826092'>
+    <tag k='addr:housenumber' v='1022' />
+    <tag k='addr:street' v='인덕로' />
+    <tag k='addr:subdistrict' v='광양읍' />
+    <tag k='amenity' v='library' />
+    <tag k='books' v='children' />
+    <tag k='capacity' v='143' />
+    <tag k='name' v='광양희망도서관' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 09:00-17:00; PH off; Fr[1], Fr[3] off' />
+    <tag k='operator' v='전라남도 광양시청' />
+    <tag k='phone' v='+82 61 797 4700' />
+    <tag k='ref:isil' v='KR-146177' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2021-02-19' />
+    <tag k='website' v='http://lib.gwangyang.go.kr' />
+  </node>
+  <node id='-218596' action='modify' visible='true' lat='34.974088' lon='127.607322'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='기두5길' />
+    <tag k='addr:subdistrict' v='광양읍' />
+    <tag k='amenity' v='library' />
+    <tag k='capacity' v='140' />
+    <tag k='name' v='광양용강도서관' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa 09:00-17:00; PH off; Fr[1], Fr[3] off' />
+    <tag k='operator' v='전라남도 광양시청' />
+    <tag k='phone' v='+82 61 797 3867' />
+    <tag k='ref:isil' v='KR-146049' />
+    <tag k='source' v='공공데이터포털' />
+    <tag k='source:date' v='2021-02-19' />
+    <tag k='website' v='http://lib.gwangyang.go.kr' />
+  </node>
+</osm>
