@@ -1,0 +1,7 @@
+위도,경도,amenity,name,opening_hours,capacity,ref:isil,addr:full,operator,phone,website,source,source:date,addr:district,addr:street,addr:housenumber,addr:subdistrict,addr:unit,level,addr:door
+34.9666776,127.4860721,library,순천시립삼산도서관,"Mo-Su 08:30-22:00; Mo[1], PH off",552,KR-146120,,순천시청 도서관운영과,+82 61 749 6691,https://library.suncheon.go.kr/,공공데이터포털,2021-02-15,,중앙로,232,,,,
+34.9579849,127.4860252,library,순천시립그림책도서관,"Mo-Su, PH 09:00-18:00; Mo[1] off ""단, 월요일이 공휴일인 경우 대신 그 다음날을 휴관""",175,KR-146014,,순천시청 도서관운영과,+82 61 749 8892,https://library.suncheon.go.kr/pblibrary/,공공데이터포털,2021-02-15,,도서관길,33,,,,
+34.94710586,127.5185747,library,순천시립도서관연향분관,"Mo-Su 08:30-22:00; Mo[1], PH off",556,KR-146034,,순천시청 도서관운영과,+82 61 749 8555,https://library.suncheon.go.kr/,공공데이터포털,2021-02-15,,연향번영길,54,,,,
+34.94715332,127.527648,library,순천기적의도서관,"Mo-Sa 08:30-22:00; Mo[1], Su, PH off",380,KR-146118,,순천시청 도서관운영과,+82 61 749 8890,https://library.suncheon.go.kr/miracle,공공데이터포털,2021-02-15,,기적의도서관길,60,해룡면,,,
+34.9640441,127.5245546,library,순천시립조례호수도서관,"Mo-Su 08:30-22:00; Mo[1], PH off",363,KR-146068,,순천시청 도서관운영과,+82 61 749 8891,https://library.suncheon.go.kr/,공공데이터포털,2021-02-15,,조례2길,31,,,,
+34.9366208,127.5481891,library,순천시립신대도서관,"Mo-Su 09:00-22:00; Mo[1], PH off",150,KR-146175,,순천시청 도서관운영과,+82 61 749 4374,https://library.suncheon.go.kr/,공공데이터포털,2021-02-15,,매안로,162,해룡면,,,
