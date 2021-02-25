@@ -1,0 +1,6 @@
+위도,경도,amenity,name,opening_hours,ref:isil,capacity,addr:full,oparator,phone,website,source,source:date
+35.207233,129.037782,library,부산광역시 북구디지털도서관,"Tu-Sa 09:00-18:00; Mo, PH off",KR-121023,96,부산광역시 북구 은행나무로 26 (만덕동),부산광역시 북구청,051-309-2091,https://www.bsbukgu.go.kr/mdlib,공공데이터포털,2021-02-16
+35.23219367,129.009343,library,부산광역시 화명도서관,"Tu-Sa 09:00-18:00; Mo, PH off",KR-126025,311,부산광역시 북구 화명대로12번길 59(화명동),부산광역시 북구청,051-309-6481,https://www.bsbukgu.go.kr/hmlib,공공데이터포털,2021-02-16
+35.26323389,129.0167168,library,금곡도서관,"Tu-Sa 09:00-18:00; Mo, PH off",KR-126152,97,부산광역시 북구 효열로203번길 34(금곡동),부산광역시 북구청,051-309-6181,https://www.bsbukgu.go.kr/bglib/,공공데이터포털,2021-02-16
+35.21714577,129.0402148,library,상학작은도서관,"Tu-Sa 09:00-18:00; Mo, PH off",KR-726246,36,부산광역시 북구 상학산복길 215,부산광역시 북구청,051-309-6177,https://www.bsbukgu.go.kr/shlib,공공데이터포털,2021-02-16
+35.23726524,129.0157741,library,솔밭작은도서관,"Tu-Sa 09:00-18:00; Mo, PH off",KR-726247,43,부산광역시 북구 금곡대로324번길 29,부산광역시 북구청,051-309-6178,https://www.bsbukgu.go.kr/sblib,공공데이터포털,2021-02-16
