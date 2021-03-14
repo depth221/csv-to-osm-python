@@ -46,6 +46,8 @@ for j in range(2, len(keys_to_add)):
                 address_splitted = fr_csv[i][j].replace("(", " (").split()
                 fr_csv[i].extend([None] * 7)
                 for factor in address_splitted:
+                    print(factor)
+                    
                     if factor[0] == "(": # erase ()
                         factor = factor[1:]
                     if factor[-1] == ")":
