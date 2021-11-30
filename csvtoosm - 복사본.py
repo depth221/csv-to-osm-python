@@ -2,8 +2,8 @@
 import sys
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
-csv_file_path = "강원도_원주시_버스정류장현황_20201125_address.csv"
-osm_file_path = "강원도_원주시_버스정류장현황_20201125_address.csv" + "osm"
+csv_file_path = "경상북도 영주시_버스정류장 현황_20200814.csv"
+osm_file_path = csv_file_path + "osm"
 
 
 csv_incoding = "utf-8" # set the incoding of csv file to read
