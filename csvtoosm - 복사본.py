@@ -2,8 +2,8 @@
 import sys
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
-csv_file_path = "강원도_강릉시_버스승강장정보_20211005.csv"
-osm_file_path = "강원도_강릉시_버스승강장정보_20211005.csv" + "osm"
+csv_file_path = "강원도_원주시_버스정류장현황_20201125_address.csv"
+osm_file_path = "강원도_원주시_버스정류장현황_20201125_address.csv" + "osm"
 
 
 csv_incoding = "utf-8" # set the incoding of csv file to read
@@ -32,11 +32,12 @@ for i in range(1, len(fr_csv)):
 
     if not fr_csv[i][0] or not fr_csv[i][1]:
         print("Error: All of lines must have coordinate")
+        fr.close()
         sys.exit()
     else:    
         node.attrib['lat'] = fr_csv[i][0]
         node.attrib['lon'] = fr_csv[i][1]
-
+    # print(i)
     for j in range(2, len(keys_to_add)): # add tags
         if fr_csv[i][j]:
             tag = SubElement(node, 'tag')
@@ -49,6 +50,7 @@ try:
     tree.write(osm_file_path, encoding = "utf-8", xml_declaration = True) # write
 except:
     print("Error: Please delete '" + osm_file_path + "'")
+    fr.close()
     sys.exit()
     
 print("Info: Writed to '" + osm_file_path + "'")
