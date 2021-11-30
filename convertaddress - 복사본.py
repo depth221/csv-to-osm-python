@@ -5,7 +5,7 @@ import time
 
 start = time.time()
 
-csv_file_path = "강원도_원주시_버스정류장현황_20201125.csv"
+csv_file_path = "경상남도_거창군_약국현황_10_15_2021.csv"
 
 csv_incoding = "utf-8" # set the incoding of csv file to read
 if len(sys.argv) == 3:
@@ -35,6 +35,7 @@ for j in range(2, len(keys_to_add)):
         print("Info: Found the tag '" + keys_to_add[j] + "'")
         
         for i in range(1, len(fr_csv)):
+            print(i)
             province = ""
             is_exception = False # cannot be automatically converted
             
