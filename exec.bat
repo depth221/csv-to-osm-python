@@ -1,0 +1,1 @@
+﻿python csvtoosm.py 강원도_강릉시_버스승강장정보_20211005.csv
