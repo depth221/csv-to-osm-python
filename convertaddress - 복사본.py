@@ -5,7 +5,7 @@ import time
 
 start = time.time()
 
-csv_file_path = "경기도 성남시_유흥단란주점현황_20210531.csv"
+csv_file_path = "복사본 경기도 동두천시_일반협동조합 현황_20210617.csv"
 
 csv_incoding = "utf-8" # set the incoding of csv file to read
 if len(sys.argv) == 3:

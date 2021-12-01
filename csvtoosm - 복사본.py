@@ -2,7 +2,7 @@
 import sys
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
-csv_file_path = "경기도 성남시_유흥단란주점현황_20210531_address.csv"
+csv_file_path = "복사본 경기도 동두천시_일반협동조합 현황_20210617_address.csv"
 osm_file_path = csv_file_path + "osm"
 
 
@@ -37,7 +37,7 @@ for i in range(1, len(fr_csv)):
     else:    
         node.attrib['lat'] = fr_csv[i][0]
         node.attrib['lon'] = fr_csv[i][1]
-    # print(i)
+    print(i)
     for j in range(2, len(keys_to_add)): # add tags
         if fr_csv[i][j]:
             tag = SubElement(node, 'tag')
