@@ -1,0 +1,3502 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-4595893609034971306' action='modify' visible='true' lat='37.44359006' lon='127.1421012'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='나성라이브' />
+  </node>
+  <node id='-4595893609034971307' action='modify' visible='true' lat='37.44092603' lon='127.1326389'>
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='야화노래빵' />
+  </node>
+  <node id='-4595893609034971308' action='modify' visible='true' lat='37.44110532' lon='127.1448982'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='시민로142번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='따르릉 노래짱' />
+  </node>
+  <node id='-4595893609034971309' action='modify' visible='true' lat='37.44105024' lon='127.1311458'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='수정로99번길' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='사계영상가요주점' />
+  </node>
+  <node id='-4595893609034971310' action='modify' visible='true' lat='37.44137285' lon='127.1470085'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='백번관광카바레나이트' />
+  </node>
+  <node id='-4595893609034971311' action='modify' visible='true' lat='37.44181816' lon='127.1475346'>
+    <tag k='addr:housenumber' v='6-11' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='클레오' />
+  </node>
+  <node id='-4595893609034971312' action='modify' visible='true' lat='37.44163422' lon='127.1470168'>
+    <tag k='addr:housenumber' v='6-3' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='축구장' />
+  </node>
+  <node id='-4595893609034971313' action='modify' visible='true' lat='37.44286547' lon='127.1391034'>
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='일번지 라이브' />
+  </node>
+  <node id='-4595893609034971314' action='modify' visible='true' lat='37.44007858' lon='127.1313491'>
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='도화 노래빠' />
+  </node>
+  <node id='-4595893609034971315' action='modify' visible='true' lat='37.44123419' lon='127.1353476'>
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아리랑스텐드빠' />
+  </node>
+  <node id='-4595893609034971316' action='modify' visible='true' lat='37.4405968' lon='127.1332078'>
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='월드컵쇼2000' />
+  </node>
+  <node id='-4595893609034971317' action='modify' visible='true' lat='37.44055051' lon='127.1330388'>
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='블루문' />
+  </node>
+  <node id='-4595893609034971318' action='modify' visible='true' lat='37.44136892' lon='127.1352895'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로136번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='이화' />
+  </node>
+  <node id='-4595893609034971319' action='modify' visible='true' lat='37.44153061' lon='127.1352199'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='수정로136번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='북경포장마차' />
+  </node>
+  <node id='-4595893609034971320' action='modify' visible='true' lat='37.44218941' lon='127.1353592'>
+    <tag k='addr:housenumber' v='137' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='국제포장마차' />
+  </node>
+  <node id='-4595893609034971321' action='modify' visible='true' lat='37.44096257' lon='127.1339381'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='수정로120번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='신가야스텐드바' />
+  </node>
+  <node id='-4595893609034971322' action='modify' visible='true' lat='37.44037518' lon='127.1324758'>
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='황진이' />
+  </node>
+  <node id='-4595893609034971323' action='modify' visible='true' lat='37.44307273' lon='127.1415873'>
+    <tag k='addr:housenumber' v='127' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='1' />
+    <tag k='name' v='섹소폰라이브카페' />
+  </node>
+  <node id='-4595893609034971324' action='modify' visible='true' lat='37.44263926' lon='127.1402135'>
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='가인노래빵' />
+  </node>
+  <node id='-4595893609034971325' action='modify' visible='true' lat='37.44153498' lon='127.1358188'>
+    <tag k='addr:housenumber' v='5-4' />
+    <tag k='addr:street' v='수정로136번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오시엔' />
+  </node>
+  <node id='-4595893609034971326' action='modify' visible='true' lat='37.44043966' lon='127.1326671'>
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='별천지스텐드바' />
+  </node>
+  <node id='-4595893609034971327' action='modify' visible='true' lat='37.44135421' lon='127.1357417'>
+    <tag k='addr:housenumber' v='71-1' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='청솔 노래주점' />
+  </node>
+  <node id='-4595893609034971328' action='modify' visible='true' lat='37.44307273' lon='127.1415873'>
+    <tag k='addr:housenumber' v='127' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='응답하라 1988' />
+  </node>
+  <node id='-4595893609034971329' action='modify' visible='true' lat='37.4395866' lon='127.1429718'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='시민로133번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='골든짱' />
+  </node>
+  <node id='-4595893609034971330' action='modify' visible='true' lat='37.44186335' lon='127.1376005'>
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='꽃님이노래빵' />
+  </node>
+  <node id='-4595893609034971331' action='modify' visible='true' lat='37.44260096' lon='127.1361908'>
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:street' v='탄리로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='배꼽' />
+  </node>
+  <node id='-4595893609034971332' action='modify' visible='true' lat='37.44268995' lon='127.1397496'>
+    <tag k='addr:housenumber' v='27-2' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='올인' />
+  </node>
+  <node id='-4595893609034971333' action='modify' visible='true' lat='37.44230851' lon='127.1430651'>
+    <tag k='addr:housenumber' v='159' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오렌지노래빵' />
+  </node>
+  <node id='-4595893609034971334' action='modify' visible='true' lat='37.44266226' lon='127.1396595'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='럭셔리' />
+  </node>
+  <node id='-4595893609034971335' action='modify' visible='true' lat='37.44258396' lon='127.1400446'>
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='샤샤노래빠' />
+  </node>
+  <node id='-4595893609034971336' action='modify' visible='true' lat='37.44334625' lon='127.1383068'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로165번길' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='퀸 노래빵' />
+  </node>
+  <node id='-4595893609034971337' action='modify' visible='true' lat='37.44181468' lon='127.1483031'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='산성대로283번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='여우노래빵' />
+  </node>
+  <node id='-4595893609034971338' action='modify' visible='true' lat='37.44067615' lon='127.1329695'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='제일로158번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='야시노래빵' />
+  </node>
+  <node id='-4595893609034971339' action='modify' visible='true' lat='37.43422494' lon='127.1293488'>
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='팡팡 술파는 노래빠' />
+  </node>
+  <node id='-4595893609034971340' action='modify' visible='true' lat='37.44271764' lon='127.1398397'>
+    <tag k='addr:housenumber' v='27-1' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='루루노래천국' />
+  </node>
+  <node id='-4595893609034971342' action='modify' visible='true' lat='37.44157019' lon='127.1481363'>
+    <tag k='addr:housenumber' v='281' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='아싸노래빵' />
+  </node>
+  <node id='-4595893609034971343' action='modify' visible='true' lat='37.44352118' lon='127.1412996'>
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='넘버원클럽' />
+  </node>
+  <node id='-4595893609034971344' action='modify' visible='true' lat='37.44018557' lon='127.144807'>
+    <tag k='addr:housenumber' v='249' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-2' />
+    <tag k='name' v='에로스' />
+  </node>
+  <node id='-4595893609034971345' action='modify' visible='true' lat='37.44294199' lon='127.1434421'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='시민로164번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='불꽃' />
+  </node>
+  <node id='-4595893609034971346' action='modify' visible='true' lat='37.44098652' lon='127.1459167'>
+    <tag k='addr:housenumber' v='8-14' />
+    <tag k='addr:street' v='산성대로255번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='타임노래빠' />
+  </node>
+  <node id='-4595893609034971347' action='modify' visible='true' lat='37.44353354' lon='127.143006'>
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='애플노래빵' />
+  </node>
+  <node id='-4595893609034971348' action='modify' visible='true' lat='37.44079825' lon='127.1448'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='산성대로249번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='키키' />
+  </node>
+  <node id='-4595893609034971349' action='modify' visible='true' lat='37.44145175' lon='127.1355259'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='수정로136번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='상하이 노래빵' />
+  </node>
+  <node id='-4595893609034971350' action='modify' visible='true' lat='37.44315202' lon='127.1413377'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='K2노래바' />
+  </node>
+  <node id='-4595893609034971351' action='modify' visible='true' lat='37.4415515' lon='127.1467917'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='주준코소주호프노래타운' />
+  </node>
+  <node id='-4595893609034971352' action='modify' visible='true' lat='37.43941969' lon='127.1287463'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로74번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오렌지노래빵' />
+  </node>
+  <node id='-4595893609034971353' action='modify' visible='true' lat='37.44131709' lon='127.1355952'>
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='야래향 노래빵' />
+  </node>
+  <node id='-4595893609034971354' action='modify' visible='true' lat='37.44134206' lon='127.1439915'>
+    <tag k='addr:housenumber' v='148' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='홍빠' />
+  </node>
+  <node id='-4595893609034971355' action='modify' visible='true' lat='37.44187751' lon='127.1432734'>
+    <tag k='addr:housenumber' v='155' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='부킹나이트라이브' />
+  </node>
+  <node id='-4595893609034971356' action='modify' visible='true' lat='37.44351686' lon='127.1382258'>
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:street' v='수정북로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='말리브' />
+  </node>
+  <node id='-4595893609034971357' action='modify' visible='true' lat='37.44353453' lon='127.1418984'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='산성' />
+  </node>
+  <node id='-4595893609034971358' action='modify' visible='true' lat='37.44353354' lon='127.143006'>
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='궁전스탠드빠' />
+  </node>
+  <node id='-4595893609034971359' action='modify' visible='true' lat='37.44137285' lon='127.1470085'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='엠비(MB)' />
+  </node>
+  <node id='-4595893609034971360' action='modify' visible='true' lat='37.44013791' lon='127.1283877'>
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='팝콘노래짱' />
+  </node>
+  <node id='-4595893609034971361' action='modify' visible='true' lat='37.44189187' lon='127.1477597'>
+    <tag k='addr:housenumber' v='6-15' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='더블유' />
+  </node>
+  <node id='-4595893609034971362' action='modify' visible='true' lat='37.44222627' lon='127.1354718'>
+    <tag k='addr:housenumber' v='137-1' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='야호 노래빵' />
+  </node>
+  <node id='-4595893609034971363' action='modify' visible='true' lat='37.44278967' lon='127.1361208'>
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='탄리로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='더존노래터' />
+  </node>
+  <node id='-4595893609034971364' action='modify' visible='true' lat='37.44135421' lon='127.1357417'>
+    <tag k='addr:housenumber' v='71-1' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='스케줄' />
+  </node>
+  <node id='-4595893609034971365' action='modify' visible='true' lat='37.4413047' lon='127.1339003'>
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='황제 7080' />
+  </node>
+  <node id='-4595893609034971366' action='modify' visible='true' lat='37.44264359' lon='127.1395693'>
+    <tag k='addr:housenumber' v='29-1' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='여궁' />
+  </node>
+  <node id='-4595893609034971367' action='modify' visible='true' lat='37.43999624' lon='127.1311806'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='가인노래빵' />
+  </node>
+  <node id='-4595893609034971368' action='modify' visible='true' lat='37.44173635' lon='127.1486882'>
+    <tag k='addr:housenumber' v='287' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='워싱턴' />
+  </node>
+  <node id='-4595893609034971369' action='modify' visible='true' lat='37.44206049' lon='127.1436556'>
+    <tag k='addr:housenumber' v='156' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='쎄봉 노래짱' />
+  </node>
+  <node id='-4595893609034971370' action='modify' visible='true' lat='37.44323524' lon='127.1416306'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='잉카노래바' />
+  </node>
+  <node id='-4595893609034971371' action='modify' visible='true' lat='37.44323524' lon='127.1416306'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쇼우7080노래바' />
+  </node>
+  <node id='-4595893609034971372' action='modify' visible='true' lat='37.44166289' lon='127.1484969'>
+    <tag k='addr:housenumber' v='285' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='오렌지노래빵' />
+  </node>
+  <node id='-4595893609034971373' action='modify' visible='true' lat='37.44294688' lon='127.1366727'>
+    <tag k='addr:housenumber' v='7-1' />
+    <tag k='addr:street' v='탄리로74번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='디올' />
+  </node>
+  <node id='-4595893609034971374' action='modify' visible='true' lat='37.43944506' lon='127.143335'>
+    <tag k='addr:housenumber' v='233' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='소나타노래빵' />
+  </node>
+  <node id='-4595893609034971375' action='modify' visible='true' lat='37.4434287' lon='127.1409729'>
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='딸기 노래빵' />
+  </node>
+  <node id='-4595893609034971376' action='modify' visible='true' lat='37.44187751' lon='127.1432734'>
+    <tag k='addr:housenumber' v='155' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아세안 노래바' />
+  </node>
+  <node id='-4595893609034971377' action='modify' visible='true' lat='37.44181468' lon='127.1483031'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='산성대로283번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='황진이' />
+  </node>
+  <node id='-4595893609034971378' action='modify' visible='true' lat='37.44311507' lon='127.142457'>
+    <tag k='addr:housenumber' v='136' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='보리' />
+  </node>
+  <node id='-4595893609034971379' action='modify' visible='true' lat='37.44249565' lon='127.1390511'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로170번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='에이스노래빵' />
+  </node>
+  <node id='-4595893609034971380' action='modify' visible='true' lat='37.4416895' lon='127.1471857'>
+    <tag k='addr:housenumber' v='6-5' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='별밤노래빠' />
+  </node>
+  <node id='-4595893609034971381' action='modify' visible='true' lat='37.44230851' lon='127.1430651'>
+    <tag k='addr:housenumber' v='159' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='진주 노래빵' />
+  </node>
+  <node id='-4595893609034971382' action='modify' visible='true' lat='37.4430212' lon='127.1431813'>
+    <tag k='addr:housenumber' v='168' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='핑크노래빵' />
+  </node>
+  <node id='-4595893609034971383' action='modify' visible='true' lat='37.44235729' lon='127.138612'>
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='썬샤인' />
+  </node>
+  <node id='-4595893609034971384' action='modify' visible='true' lat='37.44140925' lon='127.1358767'>
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='조아조아노래짱' />
+  </node>
+  <node id='-4595893609034971385' action='modify' visible='true' lat='37.44264791' lon='127.1389251'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='수정로170번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='우신스텐드바' />
+  </node>
+  <node id='-4595893609034971386' action='modify' visible='true' lat='37.44196941' lon='127.1373168'>
+    <tag k='addr:housenumber' v='6-1' />
+    <tag k='addr:street' v='수정로154번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='따봉 노래빵' />
+  </node>
+  <node id='-4595893609034971387' action='modify' visible='true' lat='37.44303583' lon='127.1365135'>
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:street' v='수정북로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='라이브친구' />
+  </node>
+  <node id='-4595893609034971388' action='modify' visible='true' lat='37.44358572' lon='127.1415023'>
+    <tag k='addr:housenumber' v='194' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='나는가수다라이브' />
+  </node>
+  <node id='-4595893609034971389' action='modify' visible='true' lat='37.44368729' lon='127.1418402'>
+    <tag k='addr:housenumber' v='198' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='썸 노래빠' />
+  </node>
+  <node id='-4595893609034971390' action='modify' visible='true' lat='37.44148166' lon='127.1458545'>
+    <tag k='addr:housenumber' v='18-1' />
+    <tag k='addr:street' v='시민로142번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='몽마르죠 노래빵' />
+  </node>
+  <node id='-4595893609034971391' action='modify' visible='true' lat='37.44247237' lon='127.1383281'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='수정로162번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='주노래빵' />
+  </node>
+  <node id='-4595893609034971392' action='modify' visible='true' lat='37.44079825' lon='127.1448'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='산성대로249번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='히히' />
+  </node>
+  <node id='-4595893609034971393' action='modify' visible='true' lat='37.44321123' lon='127.1408059'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='수정로188번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오로라노래빵' />
+  </node>
+  <node id='-4595893609034971394' action='modify' visible='true' lat='37.44323524' lon='127.1416306'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='뉴월드' />
+  </node>
+  <node id='-4595893609034971395' action='modify' visible='true' lat='37.44107817' lon='127.1461303'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='산성대로265번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='엠비시노래주점' />
+  </node>
+  <node id='-4595893609034971396' action='modify' visible='true' lat='37.44120264' lon='127.1446485'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='시민로142번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='큐빅노래바' />
+  </node>
+  <node id='-4595893609034971397' action='modify' visible='true' lat='37.44307787' lon='127.1398129'>
+    <tag k='addr:housenumber' v='178' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='환희노래빵' />
+  </node>
+  <node id='-4595893609034971398' action='modify' visible='true' lat='37.43944506' lon='127.143335'>
+    <tag k='addr:housenumber' v='233' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='은하수노래빠' />
+  </node>
+  <node id='-4595893609034971399' action='modify' visible='true' lat='37.44325316' lon='127.140376'>
+    <tag k='addr:housenumber' v='184' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='예스클럽' />
+  </node>
+  <node id='-4595893609034971400' action='modify' visible='true' lat='37.44346589' lon='127.1411307'>
+    <tag k='addr:housenumber' v='190-1' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쌍떼 노래빵' />
+  </node>
+  <node id='-4595893609034971401' action='modify' visible='true' lat='37.4431425' lon='127.1400269'>
+    <tag k='addr:housenumber' v='180' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='준노래빵' />
+  </node>
+  <node id='-4595893609034971402' action='modify' visible='true' lat='37.44037217' lon='127.1444432'>
+    <tag k='addr:housenumber' v='136' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='썬노래짱' />
+  </node>
+  <node id='-4595893609034971403' action='modify' visible='true' lat='37.44177313' lon='127.1487895'>
+    <tag k='addr:housenumber' v='287-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='윙크 노래빵' />
+  </node>
+  <node id='-4595893609034971404' action='modify' visible='true' lat='37.44100967' lon='127.1441309'>
+    <tag k='addr:housenumber' v='144' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='썸노래빵' />
+  </node>
+  <node id='-4595893609034971405' action='modify' visible='true' lat='37.44137285' lon='127.1470085'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='산성대로269번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='빙고 노래짱' />
+  </node>
+  <node id='-4595893609034971406' action='modify' visible='true' lat='37.44261924' lon='127.1511757'>
+    <tag k='addr:housenumber' v='311' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='로또노래바' />
+  </node>
+  <node id='-4595893609034971407' action='modify' visible='true' lat='37.4412758' lon='127.1435515'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='147' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='올인 노래방' />
+  </node>
+  <node id='-4595893609034971408' action='modify' visible='true' lat='37.46489884' lon='127.1406486'>
+    <tag k='addr:door' v='406' />
+    <tag k='addr:housenumber' v='9-10' />
+    <tag k='addr:street' v='위례광장로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='달 노래빠(BAR)' />
+  </node>
+  <node id='-4595893609034971409' action='modify' visible='true' lat='37.46489884' lon='127.1406486'>
+    <tag k='addr:door' v='401' />
+    <tag k='addr:housenumber' v='9-10' />
+    <tag k='addr:street' v='위례광장로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='품 노래빠(BAR)' />
+  </node>
+  <node id='-4595893609034971410' action='modify' visible='true' lat='37.46489884' lon='127.1406486'>
+    <tag k='addr:door' v='402' />
+    <tag k='addr:housenumber' v='9-10' />
+    <tag k='addr:street' v='위례광장로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='해 노래빠(BAR)' />
+  </node>
+  <node id='-4595893609034971411' action='modify' visible='true' lat='37.4411562' lon='127.1469544'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='269' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱노래천국' />
+  </node>
+  <node id='-4595893609034971412' action='modify' visible='true' lat='37.44035981' lon='127.1439801'>
+    <tag k='addr:housenumber' v='137' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='1' />
+    <tag k='name' v='팡팡노래빵' />
+  </node>
+  <node id='-4595893609034971413' action='modify' visible='true' lat='37.44036716' lon='127.144997'>
+    <tag k='addr:housenumber' v='251' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='코미디언 이정표 라이브클럽' />
+  </node>
+  <node id='-4595893609034971414' action='modify' visible='true' lat='37.44286547' lon='127.1391034'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='명품노래빵' />
+  </node>
+  <node id='-4595893609034971415' action='modify' visible='true' lat='37.44127577' lon='127.1472921'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='273' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='히든노래짱' />
+  </node>
+  <node id='-4595893609034971416' action='modify' visible='true' lat='37.44303925' lon='127.1382199'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='163' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='소리새 노래팡' />
+  </node>
+  <node id='-4595893609034971417' action='modify' visible='true' lat='37.4411562' lon='127.1469544'>
+    <tag k='addr:housenumber' v='269' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='엔젤노래빵' />
+  </node>
+  <node id='-4595893609034971418' action='modify' visible='true' lat='37.44307787' lon='127.1398129'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='178' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='비타민' />
+  </node>
+  <node id='-4595893609034971419' action='modify' visible='true' lat='37.44168081' lon='127.1335795'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='수정로119번길' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='스타노래빵' />
+  </node>
+  <node id='-4595893609034971420' action='modify' visible='true' lat='37.44371' lon='127.13909'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='수정로171번길' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='쿨노래빵' />
+  </node>
+  <node id='-4595893609034971421' action='modify' visible='true' lat='37.44094' lon='127.14371'>
+    <tag k='addr:housenumber' v='143' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='보스 (BOSS)' />
+  </node>
+  <node id='-4595893609034971422' action='modify' visible='true' lat='37.4412' lon='127.14399'>
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='가넷' />
+  </node>
+  <node id='-4595893609034971423' action='modify' visible='true' lat='37.4408' lon='127.14568'>
+    <tag k='addr:housenumber' v='259' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='메이드' />
+  </node>
+  <node id='-4595893609034971424' action='modify' visible='true' lat='37.44195' lon='127.1437'>
+    <tag k='addr:housenumber' v='154-1' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='심쿵노래짱' />
+  </node>
+  <node id='-4595893609034971425' action='modify' visible='true' lat='37.44189365' lon='127.1430133'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='시민로155번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='별빛노래주점' />
+  </node>
+  <node id='-4595893609034971426' action='modify' visible='true' lat='37.44048' lon='127.13113'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='탑7라이브7080' />
+  </node>
+  <node id='-4595893609034971427' action='modify' visible='true' lat='37.44116142' lon='127.1440923'>
+    <tag k='addr:housenumber' v='144-1' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='중년라이브' />
+  </node>
+  <node id='-4595893609034971428' action='modify' visible='true' lat='37.4430764' lon='127.1371346'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='탄리로74번길' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='향수' />
+  </node>
+  <node id='-4595893609034971429' action='modify' visible='true' lat='37.44238498' lon='127.1387021'>
+    <tag k='addr:housenumber' v='37-1' />
+    <tag k='addr:street' v='시민로175번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쎄시봉단란주점' />
+  </node>
+  <node id='-4595893609034971430' action='modify' visible='true' lat='37.44231611' lon='127.1391436'>
+    <tag k='addr:housenumber' v='103-2' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='호수포장마차' />
+  </node>
+  <node id='-4595893609034971431' action='modify' visible='true' lat='37.44040123' lon='127.1335716'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='수정남로52번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='장녹수' />
+  </node>
+  <node id='-4595893609034971432' action='modify' visible='true' lat='37.44074104' lon='127.1344492'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='수정남로60번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='옥라이브' />
+  </node>
+  <node id='-4595893609034971433' action='modify' visible='true' lat='37.44080505' lon='127.1444948'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='산성대로249번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='천지포차' />
+  </node>
+  <node id='-4595893609034971434' action='modify' visible='true' lat='37.44221289' lon='127.1336412'>
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='수정북로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='까꿍3050' />
+  </node>
+  <node id='-4595893609034971435' action='modify' visible='true' lat='37.4620839' lon='127.1678894'>
+    <tag k='addr:housenumber' v='583' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='양지동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='별노래팡팡' />
+  </node>
+  <node id='-4595893609034971436' action='modify' visible='true' lat='37.44336842' lon='127.1376398'>
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:street' v='수정북로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='파티노래빵' />
+  </node>
+  <node id='-4595893609034971437' action='modify' visible='true' lat='37.45141805' lon='127.1593611'>
+    <tag k='addr:housenumber' v='441' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='스타가요 노래빵' />
+  </node>
+  <node id='-4595893609034971438' action='modify' visible='true' lat='37.44449687' lon='127.1428933'>
+    <tag k='addr:housenumber' v='209' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='앵콜노래짱' />
+  </node>
+  <node id='-4595893609034971439' action='modify' visible='true' lat='37.44463616' lon='127.1298726'>
+    <tag k='addr:housenumber' v='205-1' />
+    <tag k='addr:street' v='제일로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='별밤' />
+  </node>
+  <node id='-4595893609034971440' action='modify' visible='true' lat='37.4410741' lon='127.1455653'>
+    <tag k='addr:housenumber' v='8-9' />
+    <tag k='addr:street' v='산성대로255번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='3050포차' />
+  </node>
+  <node id='-4595893609034971441' action='modify' visible='true' lat='37.44066657' lon='127.1341223'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='수정남로56번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='토마토주점' />
+  </node>
+  <node id='-4595893609034971442' action='modify' visible='true' lat='37.43947775' lon='127.1428713'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='시민로133번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='상록수' />
+  </node>
+  <node id='-4595893609034971443' action='modify' visible='true' lat='37.44259661' lon='127.1492774'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='산성대로295번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='다정포차' />
+  </node>
+  <node id='-4595893609034971444' action='modify' visible='true' lat='37.44210423' lon='127.1372701'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로154번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='팡팡 노래빵' />
+  </node>
+  <node id='-4595893609034971445' action='modify' visible='true' lat='37.44290994' lon='127.1365488'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='탄리로74번길' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='부활 라이브 7080' />
+  </node>
+  <node id='-4595893609034971446' action='modify' visible='true' lat='37.44154704' lon='127.1362368'>
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:street' v='탄리로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='케이비에스70&amp;80 (KBS70&amp;80)' />
+  </node>
+  <node id='-4595893609034971447' action='modify' visible='true' lat='37.43941969' lon='127.1287463'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로74번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오렌지' />
+  </node>
+  <node id='-4595893609034971448' action='modify' visible='true' lat='37.44103471' lon='127.131485'>
+    <tag k='addr:housenumber' v='165' />
+    <tag k='addr:street' v='제일로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아찌방' />
+  </node>
+  <node id='-4595893609034971449' action='modify' visible='true' lat='37.44305053' lon='127.1422543'>
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='명품 노래빵' />
+  </node>
+  <node id='-4595893609034971450' action='modify' visible='true' lat='37.44120264' lon='127.1446485'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='시민로142번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='비제이(B.J)' />
+  </node>
+  <node id='-4595893609034971451' action='modify' visible='true' lat='37.4430212' lon='127.1431813'>
+    <tag k='addr:housenumber' v='168' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='영심이네단란주점' />
+  </node>
+  <node id='-4595893609034971452' action='modify' visible='true' lat='37.4421971' lon='127.1351783'>
+    <tag k='addr:door' v='B01' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='수정로135번길' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='달마야놀자' />
+  </node>
+  <node id='-4595893609034971453' action='modify' visible='true' lat='37.44206049' lon='127.1436556'>
+    <tag k='addr:housenumber' v='156' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='호박라이브' />
+  </node>
+  <node id='-4595893609034971454' action='modify' visible='true' lat='37.44074615' lon='127.1450718'>
+    <tag k='addr:housenumber' v='5-1' />
+    <tag k='addr:street' v='산성대로255번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱단란주점' />
+  </node>
+  <node id='-4595893609034971455' action='modify' visible='true' lat='37.44210423' lon='127.1372701'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로154번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='오아시스라이브' />
+  </node>
+  <node id='-4595893609034971456' action='modify' visible='true' lat='37.44189365' lon='127.1430133'>
+    <tag k='addr:housenumber' v='14-1' />
+    <tag k='addr:street' v='시민로142번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='징검다리노래포차' />
+  </node>
+  <node id='-4595893609034971457' action='modify' visible='true' lat='37.4413163' lon='127.1454157'>
+    <tag k='addr:housenumber' v='271' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='라인노래바' />
+  </node>
+  <node id='-4595893609034971458' action='modify' visible='true' lat='37.44120214' lon='127.1470782'>
+    <tag k='addr:housenumber' v='176-1' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='7080야간대학' />
+  </node>
+  <node id='-4595893609034971459' action='modify' visible='true' lat='37.44083693' lon='127.1340074'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='수정로120번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱 단란주점' />
+  </node>
+  <node id='-4595893609034971460' action='modify' visible='true' lat='37.44132128' lon='127.146105'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='산성대로265번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='추억의 LIVE(라이브)' />
+  </node>
+  <node id='-4595893609034971461' action='modify' visible='true' lat='37.44299883' lon='127.1400964'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='수정로180번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='비트 단란주점' />
+  </node>
+  <node id='-4595893609034971462' action='modify' visible='true' lat='37.43941969' lon='127.1287463'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='수정로74번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아모르파티라이브7080' />
+  </node>
+  <node id='-4595893609034971463' action='modify' visible='true' lat='37.44352118' lon='127.1412996'>
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='세시봉7080' />
+  </node>
+  <node id='-4595893609034971464' action='modify' visible='true' lat='37.44019609' lon='127.1301725'>
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='노래하는 호박마차' />
+  </node>
+  <node id='-4595893609034971465' action='modify' visible='true' lat='37.44351648' lon='127.1394124'>
+    <tag k='addr:housenumber' v='175-1' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='태평동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='발리라이브' />
+  </node>
+  <node id='-4595893609034971466' action='modify' visible='true' lat='37.44021779' lon='127.1319013'>
+    <tag k='addr:housenumber' v='153' />
+    <tag k='addr:street' v='제일로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='청월노래빵' />
+  </node>
+  <node id='-4595893609034971467' action='modify' visible='true' lat='37.41409519' lon='127.1220579'>
+    <tag k='addr:housenumber' v='136-4' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='써니노래빵' />
+  </node>
+  <node id='-4595893609034971468' action='modify' visible='true' lat='37.43817162' lon='127.1404453'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='탄리로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='허브 노래빵' />
+  </node>
+  <node id='-4595893609034971469' action='modify' visible='true' lat='37.4385429' lon='127.1283722'>
+    <tag k='addr:housenumber' v='1218' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='몽몽 라이브' />
+  </node>
+  <node id='-4595893609034971470' action='modify' visible='true' lat='37.44065227' lon='127.1333992'>
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='춘자노래빵' />
+  </node>
+  <node id='-4595893609034971471' action='modify' visible='true' lat='37.44105036' lon='127.1336207'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='수정로120번길' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='연길노래주점' />
+  </node>
+  <node id='-4595893609034971472' action='modify' visible='true' lat='37.44073376' lon='127.132223'>
+    <tag k='addr:door' v='205' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='홍왕노래빠' />
+  </node>
+  <node id='-4595893609034971473' action='modify' visible='true' lat='37.43846781' lon='127.1415268'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='산성대로215번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='청춘7080라이브' />
+  </node>
+  <node id='-4595893609034971474' action='modify' visible='true' lat='37.4404961' lon='127.1317624'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='157' />
+    <tag k='addr:street' v='제일로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='제호노래빵' />
+  </node>
+  <node id='-4595893609034971475' action='modify' visible='true' lat='37.44037518' lon='127.1324758'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:street' v='수정남로' />
+    <tag k='addr:subdistrict' v='수진동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='목터져 노래빠' />
+  </node>
+  <node id='-4595893609034971476' action='modify' visible='true' lat='37.440545' lon='127.14466'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='산성대로249번길' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='뮤지션' />
+  </node>
+  <node id='-4595893609034971477' action='modify' visible='true' lat='37.44368729' lon='127.1418402'>
+    <tag k='addr:door' v='일부' />
+    <tag k='addr:housenumber' v='198' />
+    <tag k='addr:street' v='수정로' />
+    <tag k='addr:subdistrict' v='신흥동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='한잔해라이브' />
+  </node>
+  <node id='-4595893609034971478' action='modify' visible='true' lat='37.43966611' lon='127.1468306'>
+    <tag k='addr:housenumber' v='260-15' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아지트' />
+  </node>
+  <node id='-4595893609034971479' action='modify' visible='true' lat='37.43930802' lon='127.1449541'>
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:street' v='시민로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='낮과밤 스탠드바' />
+  </node>
+  <node id='-4595893609034971480' action='modify' visible='true' lat='37.43968524' lon='127.1459379'>
+    <tag k='addr:housenumber' v='254-7' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='해금강' />
+  </node>
+  <node id='-4595893609034971481' action='modify' visible='true' lat='37.43981067' lon='127.1465144'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='산성대로260번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='타임' />
+  </node>
+  <node id='-4595893609034971482' action='modify' visible='true' lat='37.43990987' lon='127.1464355'>
+    <tag k='addr:housenumber' v='3-1' />
+    <tag k='addr:street' v='산성대로260번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='산수정' />
+  </node>
+  <node id='-4595893609034971483' action='modify' visible='true' lat='37.43954932' lon='127.1465591'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='산성대로260번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='초코' />
+  </node>
+  <node id='-4595893609034971484' action='modify' visible='true' lat='37.43304546' lon='127.1322442'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='레몬노래밤' />
+  </node>
+  <node id='-4595893609034971485' action='modify' visible='true' lat='37.43344828' lon='127.1301539'>
+    <tag k='addr:housenumber' v='98-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='보물섬' />
+  </node>
+  <node id='-4595893609034971486' action='modify' visible='true' lat='37.43945048' lon='127.1463329'>
+    <tag k='addr:housenumber' v='256-13' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='행주치마' />
+  </node>
+  <node id='-4595893609034971487' action='modify' visible='true' lat='37.43330888' lon='127.1307366'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='마징가' />
+  </node>
+  <node id='-4595893609034971488' action='modify' visible='true' lat='37.43546339' lon='127.1582973'>
+    <tag k='addr:housenumber' v='332-1' />
+    <tag k='addr:street' v='희망로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='초이스 노래주점' />
+  </node>
+  <node id='-4595893609034971489' action='modify' visible='true' lat='37.44166528' lon='127.1522445'>
+    <tag k='addr:housenumber' v='229' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='또또스텐드바' />
+  </node>
+  <node id='-4595893609034971490' action='modify' visible='true' lat='37.43160624' lon='127.1284259'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='성남대로1139번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='루비' />
+  </node>
+  <node id='-4595893609034971491' action='modify' visible='true' lat='37.44088865' lon='127.1504474'>
+    <tag k='addr:housenumber' v='211' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='둥지스텐드바' />
+  </node>
+  <node id='-4595893609034971492' action='modify' visible='true' lat='37.43359968' lon='127.1321585'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='행복노래빵' />
+  </node>
+  <node id='-4595893609034971493' action='modify' visible='true' lat='37.43290806' lon='127.1305373'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='귀족클럽' />
+  </node>
+  <node id='-4595893609034971494' action='modify' visible='true' lat='37.43072824' lon='127.1297998'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='성남대로1130번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='룸노래 엘리스' />
+  </node>
+  <node id='-4595893609034971495' action='modify' visible='true' lat='37.43279181' lon='127.1309599'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='광명로16번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='샤론' />
+  </node>
+  <node id='-4595893609034971496' action='modify' visible='true' lat='37.43434402' lon='127.1358042'>
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아랑궁' />
+  </node>
+  <node id='-4595893609034971497' action='modify' visible='true' lat='37.43282535' lon='127.1301278'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='폭스' />
+  </node>
+  <node id='-4595893609034971498' action='modify' visible='true' lat='37.43272249' lon='127.1294398'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='링코노래타운 모란점' />
+  </node>
+  <node id='-4595893609034971499' action='modify' visible='true' lat='37.43323303' lon='127.132105'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='1' />
+    <tag k='name' v='똥광2 노래바' />
+  </node>
+  <node id='-4595893609034971500' action='modify' visible='true' lat='37.44113322' lon='127.1511306'>
+    <tag k='addr:housenumber' v='219-4' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='중동포장마차' />
+  </node>
+  <node id='-4595893609034971501' action='modify' visible='true' lat='37.43978858' lon='127.1473962'>
+    <tag k='addr:housenumber' v='179-6' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='백야' />
+  </node>
+  <node id='-4595893609034971502' action='modify' visible='true' lat='37.43350444' lon='127.1316752'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='파티' />
+  </node>
+  <node id='-4595893609034971503' action='modify' visible='true' lat='37.43985989' lon='127.1463427'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='산성대로260번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='풍차' />
+  </node>
+  <node id='-4595893609034971504' action='modify' visible='true' lat='37.43261867' lon='127.1293801'>
+    <tag k='addr:housenumber' v='1152' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='샵' />
+  </node>
+  <node id='-4595893609034971505' action='modify' visible='true' lat='37.44032783' lon='127.1472559'>
+    <tag k='addr:housenumber' v='270' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='블랙앤화이트' />
+  </node>
+  <node id='-4595893609034971506' action='modify' visible='true' lat='37.43536415' lon='127.1392928'>
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='노래타운' />
+  </node>
+  <node id='-4595893609034971507' action='modify' visible='true' lat='37.43240753' lon='127.1283277'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='성남대로1151번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='와이(Y) 노래빠' />
+  </node>
+  <node id='-4595893609034971508' action='modify' visible='true' lat='37.44009344' lon='127.1464125'>
+    <tag k='addr:housenumber' v='260-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='첼로' />
+  </node>
+  <node id='-4595893609034971509' action='modify' visible='true' lat='37.43263992' lon='127.1302873'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='가파치' />
+  </node>
+  <node id='-4595893609034971510' action='modify' visible='true' lat='37.43977004' lon='127.1461437'>
+    <tag k='addr:housenumber' v='256-7' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='한국관' />
+  </node>
+  <node id='-4595893609034971511' action='modify' visible='true' lat='37.43956704' lon='127.1470133'>
+    <tag k='addr:housenumber' v='175-5' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='1' />
+    <tag k='name' v='모래시계' />
+  </node>
+  <node id='-4595893609034971512' action='modify' visible='true' lat='37.43357932' lon='127.130783'>
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='야시노래빵' />
+  </node>
+  <node id='-4595893609034971513' action='modify' visible='true' lat='37.43919956' lon='127.1465466'>
+    <tag k='addr:housenumber' v='171' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='투모로우 노래빠' />
+  </node>
+  <node id='-4595893609034971514' action='modify' visible='true' lat='37.43258398' lon='127.129869'>
+    <tag k='addr:housenumber' v='5-1' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='피아노' />
+  </node>
+  <node id='-4595893609034971515' action='modify' visible='true' lat='37.43357682' lon='127.1314108'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='샴푸나이트' />
+  </node>
+  <node id='-4595893609034971516' action='modify' visible='true' lat='37.44011394' lon='127.1478247'>
+    <tag k='addr:housenumber' v='272-13' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='대망' />
+  </node>
+  <node id='-4595893609034971517' action='modify' visible='true' lat='37.43625553' lon='127.1409568'>
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='임금님' />
+  </node>
+  <node id='-4595893609034971518' action='modify' visible='true' lat='37.43357682' lon='127.1314108'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='별밤가요리믹스' />
+  </node>
+  <node id='-4595893609034971519' action='modify' visible='true' lat='37.43293866' lon='127.1306542'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='매니져' />
+  </node>
+  <node id='-4595893609034971520' action='modify' visible='true' lat='37.43271832' lon='127.1306048'>
+    <tag k='addr:housenumber' v='12-3' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아톰' />
+  </node>
+  <node id='-4595893609034971521' action='modify' visible='true' lat='37.43300783' lon='127.1308435'>
+    <tag k='addr:housenumber' v='14-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='무궁화' />
+  </node>
+  <node id='-4595893609034971522' action='modify' visible='true' lat='37.4330251' lon='127.1311097'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='광명로16번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='스카이' />
+  </node>
+  <node id='-4595893609034971523' action='modify' visible='true' lat='37.43322467' lon='127.1319216'>
+    <tag k='addr:housenumber' v='24-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='캐슬' />
+  </node>
+  <node id='-4595893609034971524' action='modify' visible='true' lat='37.43233345' lon='127.1297518'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='에브리' />
+  </node>
+  <node id='-4595893609034971525' action='modify' visible='true' lat='37.43164769' lon='127.1299098'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='성남대로1140번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쿨' />
+  </node>
+  <node id='-4595893609034971526' action='modify' visible='true' lat='37.43290818' lon='127.1316462'>
+    <tag k='addr:housenumber' v='21-1' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오렌지노래밤' />
+  </node>
+  <node id='-4595893609034971527' action='modify' visible='true' lat='37.43299278' lon='127.1318973'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='캔디' />
+  </node>
+  <node id='-4595893609034971528' action='modify' visible='true' lat='37.43329438' lon='127.1304923'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='수정' />
+  </node>
+  <node id='-4595893609034971529' action='modify' visible='true' lat='37.4328135' lon='127.1299263'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='황진이노래빵' />
+  </node>
+  <node id='-4595893609034971530' action='modify' visible='true' lat='37.43309419' lon='127.1312089'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='쉬리노래빵' />
+  </node>
+  <node id='-4595893609034971531' action='modify' visible='true' lat='37.43320652' lon='127.1301738'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오렌지빵' />
+  </node>
+  <node id='-4595893609034971532' action='modify' visible='true' lat='37.43991986' lon='127.1473922'>
+    <tag k='addr:housenumber' v='268-14' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='1' />
+    <tag k='name' v='여인천하' />
+  </node>
+  <node id='-4595893609034971533' action='modify' visible='true' lat='37.43304811' lon='127.1317306'>
+    <tag k='addr:housenumber' v='22-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='야생화' />
+  </node>
+  <node id='-4595893609034971534' action='modify' visible='true' lat='37.43309963' lon='127.1315848'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='심쿵노래짱' />
+  </node>
+  <node id='-4595893609034971535' action='modify' visible='true' lat='37.43520269' lon='127.1579257'>
+    <tag k='addr:housenumber' v='329' />
+    <tag k='addr:street' v='희망로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='미궁가요클럽' />
+  </node>
+  <node id='-4595893609034971536' action='modify' visible='true' lat='37.43339611' lon='127.1310556'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='써니' />
+  </node>
+  <node id='-4595893609034971537' action='modify' visible='true' lat='37.42999834' lon='127.1301132'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='둔촌대로101번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='스페인' />
+  </node>
+  <node id='-4595893609034971538' action='modify' visible='true' lat='37.43991119' lon='127.1467539'>
+    <tag k='addr:housenumber' v='262-10' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='진달래' />
+  </node>
+  <node id='-4595893609034971539' action='modify' visible='true' lat='37.43936502' lon='127.1464425'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='시민로118번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='승화' />
+  </node>
+  <node id='-4595893609034971540' action='modify' visible='true' lat='37.439659' lon='127.1471137'>
+    <tag k='addr:housenumber' v='177-5' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='하와이' />
+  </node>
+  <node id='-4595893609034971541' action='modify' visible='true' lat='37.439659' lon='127.1471137'>
+    <tag k='addr:housenumber' v='177-5' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='천화수' />
+  </node>
+  <node id='-4595893609034971542' action='modify' visible='true' lat='37.43544188' lon='127.1394697'>
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱' />
+  </node>
+  <node id='-4595893609034971543' action='modify' visible='true' lat='37.4358823' lon='127.1393908'>
+    <tag k='addr:housenumber' v='176-7' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='국빈관관광나이트' />
+  </node>
+  <node id='-4595893609034971544' action='modify' visible='true' lat='37.43941992' lon='127.1457619'>
+    <tag k='addr:housenumber' v='250-11' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='보물단지' />
+  </node>
+  <node id='-4595893609034971545' action='modify' visible='true' lat='37.43369148' lon='127.1344118'>
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오페라' />
+  </node>
+  <node id='-4595893609034971546' action='modify' visible='true' lat='37.43242061' lon='127.1284877'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='성남대로1151번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='팡팡노래빠' />
+  </node>
+  <node id='-4595893609034971547' action='modify' visible='true' lat='37.43178482' lon='127.1298318'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='둔촌대로101번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='핑클노래빵' />
+  </node>
+  <node id='-4595893609034971548' action='modify' visible='true' lat='37.4323505' lon='127.1298916'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='둔촌대로101번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='모래시계' />
+  </node>
+  <node id='-4595893609034971549' action='modify' visible='true' lat='37.43361628' lon='127.1341401'>
+    <tag k='addr:housenumber' v='44-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='베스트노래빠' />
+  </node>
+  <node id='-4595893609034971550' action='modify' visible='true' lat='37.4339605' lon='127.1356103'>
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='킹노래빠' />
+  </node>
+  <node id='-4595893609034971551' action='modify' visible='true' lat='37.43293021' lon='127.1315296'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='애플 노래밤' />
+  </node>
+  <node id='-4595893609034971552' action='modify' visible='true' lat='37.44332197' lon='127.1544022'>
+    <tag k='addr:housenumber' v='340' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='쿨노래바' />
+  </node>
+  <node id='-4595893609034971553' action='modify' visible='true' lat='37.44300791' lon='127.1538211'>
+    <tag k='addr:housenumber' v='336-2' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='아리아리노래빠' />
+  </node>
+  <node id='-4595893609034971554' action='modify' visible='true' lat='37.44336506' lon='127.1545898'>
+    <tag k='addr:housenumber' v='340-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='궁노래빵' />
+  </node>
+  <node id='-4595893609034971555' action='modify' visible='true' lat='37.44353045' lon='127.1548289'>
+    <tag k='addr:housenumber' v='344-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='허브노래짱' />
+  </node>
+  <node id='-4595893609034971556' action='modify' visible='true' lat='37.4400056' lon='127.1461894'>
+    <tag k='addr:housenumber' v='258-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='퀸노래바' />
+  </node>
+  <node id='-4595893609034971557' action='modify' visible='true' lat='37.43330072' lon='127.1298909'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='모란 스텐드바' />
+  </node>
+  <node id='-4595893609034971558' action='modify' visible='true' lat='37.44417318' lon='127.1563005'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='산성대로360번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='애플노래빵' />
+  </node>
+  <node id='-4595893609034971559' action='modify' visible='true' lat='37.44425776' lon='127.156394'>
+    <tag k='addr:housenumber' v='360' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='8' />
+    <tag k='name' v='탑노래빵' />
+  </node>
+  <node id='-4595893609034971560' action='modify' visible='true' lat='37.44414652' lon='127.1561608'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='산성대로360번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='앤젤노래빵' />
+  </node>
+  <node id='-4595893609034971561' action='modify' visible='true' lat='37.44417318' lon='127.1563005'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='산성대로360번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='로즈노래짱' />
+  </node>
+  <node id='-4595893609034971562' action='modify' visible='true' lat='37.44141613' lon='127.1500791'>
+    <tag k='addr:housenumber' v='298' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱노래천국' />
+  </node>
+  <node id='-4595893609034971563' action='modify' visible='true' lat='37.44288551' lon='127.1535789'>
+    <tag k='addr:housenumber' v='332' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='우리노래바' />
+  </node>
+  <node id='-4595893609034971564' action='modify' visible='true' lat='37.44071292' lon='127.1482667'>
+    <tag k='addr:housenumber' v='280' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='키스키스노래빵' />
+  </node>
+  <node id='-4595893609034971565' action='modify' visible='true' lat='37.43551153' lon='127.1393135'>
+    <tag k='addr:housenumber' v='176-8' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='캔디' />
+  </node>
+  <node id='-4595893609034971566' action='modify' visible='true' lat='37.44023997' lon='127.1468973'>
+    <tag k='addr:housenumber' v='266' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='헬로라이브' />
+  </node>
+  <node id='-4595893609034971567' action='modify' visible='true' lat='37.44127352' lon='127.1501319'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='산성대로296번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='콜노래빠' />
+  </node>
+  <node id='-4595893609034971568' action='modify' visible='true' lat='37.44366447' lon='127.1552094'>
+    <tag k='addr:housenumber' v='348-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='365 노래빵' />
+  </node>
+  <node id='-4595893609034971569' action='modify' visible='true' lat='37.44359961' lon='127.1549937'>
+    <tag k='addr:housenumber' v='346' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='명품노래짱' />
+  </node>
+  <node id='-4595893609034971570' action='modify' visible='true' lat='37.44412328' lon='127.1560845'>
+    <tag k='addr:housenumber' v='358-3' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='써니노래짱' />
+  </node>
+  <node id='-4595893609034971571' action='modify' visible='true' lat='37.43289909' lon='127.131236'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='광명로16번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='팝콘미디어' />
+  </node>
+  <node id='-4595893609034971572' action='modify' visible='true' lat='37.44288551' lon='127.1535789'>
+    <tag k='addr:housenumber' v='332' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='신밧드노래빠' />
+  </node>
+  <node id='-4595893609034971573' action='modify' visible='true' lat='37.43940755' lon='127.1451276'>
+    <tag k='addr:housenumber' v='248' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱짱노래짱' />
+  </node>
+  <node id='-4595893609034971574' action='modify' visible='true' lat='37.44122443' lon='127.1499075'>
+    <tag k='addr:housenumber' v='4-1' />
+    <tag k='addr:street' v='산성대로296번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='팡팡노래빵' />
+  </node>
+  <node id='-4595893609034971575' action='modify' visible='true' lat='37.44363312' lon='127.1551387'>
+    <tag k='addr:housenumber' v='348' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='톡톡노래짱' />
+  </node>
+  <node id='-4595893609034971576' action='modify' visible='true' lat='37.44402485' lon='127.1559799'>
+    <tag k='addr:housenumber' v='356' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='힐링노래빵' />
+  </node>
+  <node id='-4595893609034971577' action='modify' visible='true' lat='37.44110241' lon='127.14914'>
+    <tag k='addr:housenumber' v='288-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='땡큐노래빵' />
+  </node>
+  <node id='-4595893609034971578' action='modify' visible='true' lat='37.43978571' lon='127.1457096'>
+    <tag k='addr:housenumber' v='254' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='라이브음악여행' />
+  </node>
+  <node id='-4595893609034971579' action='modify' visible='true' lat='37.44111027' lon='127.1495488'>
+    <tag k='addr:housenumber' v='292' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='가즈아노래짱' />
+  </node>
+  <node id='-4595893609034971580' action='modify' visible='true' lat='37.4409603' lon='127.1487974'>
+    <tag k='addr:housenumber' v='284' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='놀자노래빵' />
+  </node>
+  <node id='-4595893609034971581' action='modify' visible='true' lat='37.44240385' lon='127.1525876'>
+    <tag k='addr:housenumber' v='322' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='터널노래바' />
+  </node>
+  <node id='-4595893609034971582' action='modify' visible='true' lat='37.44110241' lon='127.14914'>
+    <tag k='addr:housenumber' v='288-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='진노래바' />
+  </node>
+  <node id='-4595893609034971583' action='modify' visible='true' lat='37.43962233' lon='127.145443'>
+    <tag k='addr:housenumber' v='250-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='불청노래짱' />
+  </node>
+  <node id='-4595893609034971584' action='modify' visible='true' lat='37.44221694' lon='127.1521277'>
+    <tag k='addr:housenumber' v='318' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='큐노래짱' />
+  </node>
+  <node id='-4595893609034971585' action='modify' visible='true' lat='37.4397254' lon='127.1455887'>
+    <tag k='addr:housenumber' v='252-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='킹카노래짱' />
+  </node>
+  <node id='-4595893609034971586' action='modify' visible='true' lat='37.44117319' lon='127.1502382'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='산성대로296번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='썸노래짱' />
+  </node>
+  <node id='-4595893609034971587' action='modify' visible='true' lat='37.44175847' lon='127.1511007'>
+    <tag k='addr:housenumber' v='308' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='J 노래짱' />
+  </node>
+  <node id='-4595893609034971588' action='modify' visible='true' lat='37.44058579' lon='127.1479016'>
+    <tag k='addr:housenumber' v='276' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='핫플노래짱' />
+  </node>
+  <node id='-4595893609034971589' action='modify' visible='true' lat='37.43950211' lon='127.1453167'>
+    <tag k='addr:housenumber' v='248-2' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='호박노래빵' />
+  </node>
+  <node id='-4595893609034971590' action='modify' visible='true' lat='37.44085603' lon='127.148456'>
+    <tag k='addr:housenumber' v='282' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='웰컴노래짱' />
+  </node>
+  <node id='-4595893609034971591' action='modify' visible='true' lat='37.44114956' lon='127.1492634'>
+    <tag k='addr:housenumber' v='290' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='케이투노래짱' />
+  </node>
+  <node id='-4595893609034971592' action='modify' visible='true' lat='37.4337814' lon='127.1347297'>
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='삼순이노래빵' />
+  </node>
+  <node id='-4595893609034971593' action='modify' visible='true' lat='37.44495971' lon='127.1601823'>
+    <tag k='addr:housenumber' v='307' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쎈스 노래주점' />
+  </node>
+  <node id='-4595893609034971594' action='modify' visible='true' lat='37.433411' lon='127.1329689'>
+    <tag k='addr:housenumber' v='34-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='딕훼밀리라이브(7080)칠공팔공' />
+  </node>
+  <node id='-4595893609034971595' action='modify' visible='true' lat='37.44034399' lon='127.159988'>
+    <tag k='addr:housenumber' v='392-2' />
+    <tag k='addr:street' v='희망로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='노래하는 포장마차' />
+  </node>
+  <node id='-4595893609034971596' action='modify' visible='true' lat='37.43936004' lon='127.1587479'>
+    <tag k='addr:housenumber' v='375' />
+    <tag k='addr:street' v='희망로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='센트로주점' />
+  </node>
+  <node id='-4595893609034971597' action='modify' visible='true' lat='37.43476347' lon='127.1381178'>
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='향원' />
+  </node>
+  <node id='-4595893609034971598' action='modify' visible='true' lat='37.43315334' lon='127.1329437'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='제일로73번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='애플 노래밤' />
+  </node>
+  <node id='-4595893609034971599' action='modify' visible='true' lat='37.44293651' lon='127.1550907'>
+    <tag k='addr:housenumber' v='259-4' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='노래하는 두리포차' />
+  </node>
+  <node id='-4595893609034971600' action='modify' visible='true' lat='37.43339583' lon='127.1328386'>
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='엄지노래빵' />
+  </node>
+  <node id='-4595893609034971601' action='modify' visible='true' lat='37.43160957' lon='127.1314674'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='성남대로1140번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='기분조은 라이브' />
+  </node>
+  <node id='-4595893609034971602' action='modify' visible='true' lat='37.42964646' lon='127.1307145'>
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:street' v='둔촌대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='7080 해피데이 단란주점' />
+  </node>
+  <node id='-4595893609034971603' action='modify' visible='true' lat='37.44085281' lon='127.1502197'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='산성대로296번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='술단지가요주점' />
+  </node>
+  <node id='-4595893609034971604' action='modify' visible='true' lat='37.43242061' lon='127.1284877'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='성남대로1151번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='삼공사공' />
+  </node>
+  <node id='-4595893609034971605' action='modify' visible='true' lat='37.43165' lon='127.1328562'>
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='제일로35번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='정거장' />
+  </node>
+  <node id='-4595893609034971606' action='modify' visible='true' lat='37.43317873' lon='127.1300465'>
+    <tag k='addr:housenumber' v='7-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='색소폰라이브' />
+  </node>
+  <node id='-4595893609034971607' action='modify' visible='true' lat='37.44561547' lon='127.1641195'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='광명로342번길' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='무쏘노래주점' />
+  </node>
+  <node id='-4595893609034971608' action='modify' visible='true' lat='37.4300812' lon='127.1365353'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='제일로35번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='모란노래주점' />
+  </node>
+  <node id='-4595893609034971609' action='modify' visible='true' lat='37.43394022' lon='127.1338764'>
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='바나나단란주점' />
+  </node>
+  <node id='-4595893609034971610' action='modify' visible='true' lat='37.4456301' lon='127.1637085'>
+    <tag k='addr:housenumber' v='340-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='선수입짱' />
+  </node>
+  <node id='-4595893609034971611' action='modify' visible='true' lat='37.44055617' lon='127.1496754'>
+    <tag k='addr:housenumber' v='205-2' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='썬7080' />
+  </node>
+  <node id='-4595893609034971612' action='modify' visible='true' lat='37.44278003' lon='127.1547958'>
+    <tag k='addr:housenumber' v='255-4' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='샤방샤방' />
+  </node>
+  <node id='-4595893609034971613' action='modify' visible='true' lat='37.43076173' lon='127.135836'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='제일로43번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짝사랑 노래클럽' />
+  </node>
+  <node id='-4595893609034971614' action='modify' visible='true' lat='37.44244795' lon='127.1679742'>
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:street' v='금상로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='두꺼비 노래포차' />
+  </node>
+  <node id='-4595893609034971615' action='modify' visible='true' lat='37.4452594' lon='127.1591004'>
+    <tag k='addr:housenumber' v='59-16' />
+    <tag k='addr:street' v='자혜로8번길' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='한강 노래하는 포차 단란주점' />
+  </node>
+  <node id='-4595893609034971616' action='modify' visible='true' lat='37.44148366' lon='127.1639468'>
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='금상로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='불꽃' />
+  </node>
+  <node id='-4595893609034971617' action='modify' visible='true' lat='37.44047672' lon='127.1476526'>
+    <tag k='addr:housenumber' v='274' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='빙고' />
+  </node>
+  <node id='-4595893609034971618' action='modify' visible='true' lat='37.43236129' lon='127.1317868'>
+    <tag k='addr:housenumber' v='52-2' />
+    <tag k='addr:street' v='제일로35번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='친구야 놀자 노래짱' />
+  </node>
+  <node id='-4595893609034971619' action='modify' visible='true' lat='37.45254168' lon='127.1606827'>
+    <tag k='addr:housenumber' v='458-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쿨노래주점' />
+  </node>
+  <node id='-4595893609034971620' action='modify' visible='true' lat='37.43261013' lon='127.1282838'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='성남대로1151번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='가야포차' />
+  </node>
+  <node id='-4595893609034971621' action='modify' visible='true' lat='37.44660552' lon='127.1644288'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='광명로347번길' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='금게' />
+  </node>
+  <node id='-4595893609034971622' action='modify' visible='true' lat='37.44592262' lon='127.157904'>
+    <tag k='addr:housenumber' v='382' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱 노래천국' />
+  </node>
+  <node id='-4595893609034971623' action='modify' visible='true' lat='37.44865876' lon='127.1590232'>
+    <tag k='addr:housenumber' v='414' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='갤러리' />
+  </node>
+  <node id='-4595893609034971624' action='modify' visible='true' lat='37.43446835' lon='127.158406'>
+    <tag k='addr:housenumber' v='319' />
+    <tag k='addr:street' v='희망로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='스카이단란주점' />
+  </node>
+  <node id='-4595893609034971625' action='modify' visible='true' lat='37.44249327' lon='127.154086'>
+    <tag k='addr:housenumber' v='247' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='카네기노래포장마차' />
+  </node>
+  <node id='-4595893609034971626' action='modify' visible='true' lat='37.44345902' lon='127.1553578'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='산성대로350번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='제일노래하는포.차' />
+  </node>
+  <node id='-4595893609034971627' action='modify' visible='true' lat='37.43026927' lon='127.1361141'>
+    <tag k='addr:housenumber' v='5-2' />
+    <tag k='addr:street' v='제일로35번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='호박노래주점' />
+  </node>
+  <node id='-4595893609034971628' action='modify' visible='true' lat='37.44086164' lon='127.1495119'>
+    <tag k='addr:housenumber' v='292-9' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='금일봉' />
+  </node>
+  <node id='-4595893609034971629' action='modify' visible='true' lat='37.43120472' lon='127.130264'>
+    <tag k='addr:housenumber' v='16-3' />
+    <tag k='addr:street' v='둔촌대로101번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아리수노래빵' />
+  </node>
+  <node id='-4595893609034971630' action='modify' visible='true' lat='37.43240753' lon='127.1283277'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='성남대로1151번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='놈(NOM)' />
+  </node>
+  <node id='-4595893609034971631' action='modify' visible='true' lat='37.45430593' lon='127.1614961'>
+    <tag k='addr:housenumber' v='480' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='은행동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='명품 노래빵' />
+  </node>
+  <node id='-4595893609034971632' action='modify' visible='true' lat='37.45885355' lon='127.1653786'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='산성대로540번길' />
+    <tag k='addr:subdistrict' v='은행동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='줄리아나' />
+  </node>
+  <node id='-4595893609034971633' action='modify' visible='true' lat='37.44562399' lon='127.1623246'>
+    <tag k='addr:housenumber' v='329' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='금광동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='주몽노래하는포장마차' />
+  </node>
+  <node id='-4595893609034971634' action='modify' visible='true' lat='37.43300783' lon='127.1308435'>
+    <tag k='addr:housenumber' v='14-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='무궁화 단란주점' />
+  </node>
+  <node id='-4595893609034971635' action='modify' visible='true' lat='37.43350444' lon='127.1316752'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='불놀이야 라이브' />
+  </node>
+  <node id='-4595893609034971636' action='modify' visible='true' lat='37.44082155' lon='127.1632614'>
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:street' v='금상로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='썬 7080' />
+  </node>
+  <node id='-4595893609034971637' action='modify' visible='true' lat='37.46078952' lon='127.167258'>
+    <tag k='addr:housenumber' v='570' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='은행동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='열두대문' />
+  </node>
+  <node id='-4595893609034971638' action='modify' visible='true' lat='37.46159079' lon='127.1683371'>
+    <tag k='addr:housenumber' v='584' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='은행동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='제일노래주점' />
+  </node>
+  <node id='-4595893609034971639' action='modify' visible='true' lat='37.44038994' lon='127.149387'>
+    <tag k='addr:housenumber' v='199' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='3040 라이브놀이터' />
+  </node>
+  <node id='-4595893609034971640' action='modify' visible='true' lat='37.44117319' lon='127.1502382'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='산성대로296번길' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='목연 단란주점' />
+  </node>
+  <node id='-4595893609034971641' action='modify' visible='true' lat='37.43629425' lon='127.1584739'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='희망로344번길' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='엉클주점' />
+  </node>
+  <node id='-4595893609034971642' action='modify' visible='true' lat='37.43323999' lon='127.12931'>
+    <tag k='addr:housenumber' v='1158' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='리캡라이브3040' />
+  </node>
+  <node id='-4595893609034971643' action='modify' visible='true' lat='37.43536415' lon='127.1392928'>
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='와우가' />
+  </node>
+  <node id='-4595893609034971644' action='modify' visible='true' lat='37.44214814' lon='127.1527985'>
+    <tag k='addr:housenumber' v='318' />
+    <tag k='addr:street' v='공원로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='허즈' />
+  </node>
+  <node id='-4595893609034971645' action='modify' visible='true' lat='37.43211598' lon='127.1297992'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='둔촌대로101번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='10' />
+    <tag k='name' v='더팬라이브7080' />
+  </node>
+  <node id='-4595893609034971646' action='modify' visible='true' lat='37.43480565' lon='127.1393367'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='광명로94번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='연예인' />
+  </node>
+  <node id='-4595893609034971647' action='modify' visible='true' lat='37.4432119' lon='127.155746'>
+    <tag k='addr:housenumber' v='263' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='후끈후끈노래빵' />
+  </node>
+  <node id='-4595893609034971648' action='modify' visible='true' lat='37.42997744' lon='127.1298658'>
+    <tag k='addr:housenumber' v='1124' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='5' />
+    <tag k='name' v='민들레라이브' />
+  </node>
+  <node id='-4595893609034971649' action='modify' visible='true' lat='37.43434078' lon='127.1375924'>
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='야시단란주점' />
+  </node>
+  <node id='-4595893609034971650' action='modify' visible='true' lat='37.4350661' lon='127.1399731'>
+    <tag k='addr:door' v='B12' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='광명로100번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='동아노래광장' />
+  </node>
+  <node id='-4595893609034971651' action='modify' visible='true' lat='37.43308179' lon='127.1313398'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='허브노래천국' />
+  </node>
+  <node id='-4595893609034971652' action='modify' visible='true' lat='37.43286527' lon='127.1302851'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='3050라이브' />
+  </node>
+  <node id='-4595893609034971653' action='modify' visible='true' lat='37.44148395' lon='127.1502422'>
+    <tag k='addr:housenumber' v='300' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='7080노래포차' />
+  </node>
+  <node id='-4595893609034971654' action='modify' visible='true' lat='37.43263992' lon='127.1302873'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='소원' />
+  </node>
+  <node id='-4595893609034971655' action='modify' visible='true' lat='37.43233345' lon='127.1297518'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='성남대로1148번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='에브리클럽' />
+  </node>
+  <node id='-4595893609034971656' action='modify' visible='true' lat='37.4350661' lon='127.1399731'>
+    <tag k='addr:door' v='B08' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='광명로100번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='동아포차호프' />
+  </node>
+  <node id='-4595893609034971657' action='modify' visible='true' lat='37.43322594' lon='127.1302911'>
+    <tag k='addr:housenumber' v='9-1' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='큐(Q)라이브' />
+  </node>
+  <node id='-4595893609034971658' action='modify' visible='true' lat='37.43055377' lon='127.128422'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='둔촌대로83번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='은하수노래주점' />
+  </node>
+  <node id='-4595893609034971659' action='modify' visible='true' lat='37.43290806' lon='127.1305373'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='뽕7080라이브' />
+  </node>
+  <node id='-4595893609034971660' action='modify' visible='true' lat='37.43294839' lon='127.1282648'>
+    <tag k='addr:housenumber' v='4-1' />
+    <tag k='addr:street' v='성남대로1155번길' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='수은노래주점' />
+  </node>
+  <node id='-4595893609034971661' action='modify' visible='true' lat='37.43544732' lon='127.1402785'>
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='수 노래빵' />
+  </node>
+  <node id='-4595893609034971662' action='modify' visible='true' lat='37.43546456' lon='127.1583041'>
+    <tag k='addr:housenumber' v='332-1' />
+    <tag k='addr:street' v='희망로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='이벤트노래빵' />
+  </node>
+  <node id='-4595893609034971663' action='modify' visible='true' lat='37.43935187' lon='127.1469508'>
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='불꽃단란주점' />
+  </node>
+  <node id='-4595893609034971664' action='modify' visible='true' lat='37.43272249' lon='127.1294398'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='시크릿 라이브' />
+  </node>
+  <node id='-4595893609034971665' action='modify' visible='true' lat='37.44366447' lon='127.1552094'>
+    <tag k='addr:housenumber' v='348-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='인사동 7080라이브' />
+  </node>
+  <node id='-4595893609034971666' action='modify' visible='true' lat='37.43238669' lon='127.1286905'>
+    <tag k='addr:housenumber' v='1149' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='토담골' />
+  </node>
+  <node id='-4595893609034971667' action='modify' visible='true' lat='37.43282535' lon='127.1301278'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='썬라이브' />
+  </node>
+  <node id='-4595893609034971668' action='modify' visible='true' lat='37.43606326' lon='127.1583893'>
+    <tag k='addr:housenumber' v='340' />
+    <tag k='addr:street' v='희망로' />
+    <tag k='addr:subdistrict' v='상대원동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='썸노래단란주점' />
+  </node>
+  <node id='-4595893609034971669' action='modify' visible='true' lat='37.43418422' lon='127.1367857'>
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:street' v='광명로' />
+    <tag k='addr:subdistrict' v='성남동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='샵노래빵' />
+  </node>
+  <node id='-4595893609034971670' action='modify' visible='true' lat='37.44398864' lon='127.155833'>
+    <tag k='addr:housenumber' v='354-1' />
+    <tag k='addr:street' v='산성대로' />
+    <tag k='addr:subdistrict' v='중앙동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='레몬노래빵' />
+  </node>
+  <node id='-4595893609034971671' action='modify' visible='true' lat='37.38584427' lon='127.1250638'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='황새울로360번길' />
+    <tag k='addr:subdistrict' v='서현동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쥬얼리노래타운' />
+  </node>
+  <node id='-4595893609034971672' action='modify' visible='true' lat='37.41154901' lon='127.1298651'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='성남대로916번길' />
+    <tag k='addr:subdistrict' v='야탑동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='꿀' />
+  </node>
+  <node id='-4595893609034971673' action='modify' visible='true' lat='37.38606846' lon='127.1243691'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='서현로210번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='샤갈' />
+  </node>
+  <node id='-4595893609034971674' action='modify' visible='true' lat='37.3846843' lon='127.1223944'>
+    <tag k='addr:door' v='301' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='분당로53번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='올인' />
+  </node>
+  <node id='-4595893609034971675' action='modify' visible='true' lat='37.38435729' lon='127.1219826'>
+    <tag k='addr:door' v='지하101-105' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='분당로53번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='킹카' />
+  </node>
+  <node id='-4595893609034971676' action='modify' visible='true' lat='37.4105234' lon='127.126354'>
+    <tag k='addr:door' v='B01' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='야탑로65번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='씨씨 노래광장' />
+  </node>
+  <node id='-4595893609034971677' action='modify' visible='true' lat='37.41161499' lon='127.1267728'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='야탑로69번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='부씽' />
+  </node>
+  <node id='-4595893609034971678' action='modify' visible='true' lat='37.37831586' lon='127.1154959'>
+    <tag k='addr:door' v='123' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='황새울로258번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='타워노래빠' />
+  </node>
+  <node id='-4595893609034971679' action='modify' visible='true' lat='37.41315995' lon='127.1292866'>
+    <tag k='addr:door' v='지하110' />
+    <tag k='addr:housenumber' v='934' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='평양' />
+  </node>
+  <node id='-4595893609034971680' action='modify' visible='true' lat='37.33896541' lon='127.1100861'>
+    <tag k='addr:door' v='702' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='구미로9번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='화나비' />
+  </node>
+  <node id='-4595893609034971681' action='modify' visible='true' lat='37.38653651' lon='127.124999'>
+    <tag k='addr:door' v='116' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='황새울로360번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='딱좋아' />
+  </node>
+  <node id='-4595893609034971682' action='modify' visible='true' lat='37.38606846' lon='127.1243691'>
+    <tag k='addr:door' v='112-116' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='서현로210번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='황금' />
+  </node>
+  <node id='-4595893609034971683' action='modify' visible='true' lat='37.38568369' lon='127.1248296'>
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='황새울로360번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='호바원' />
+  </node>
+  <node id='-4595893609034971684' action='modify' visible='true' lat='37.35038794' lon='127.1113432'>
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:street' v='돌마로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='비너스' />
+  </node>
+  <node id='-4595893609034971685' action='modify' visible='true' lat='37.41160874' lon='127.1273107'>
+    <tag k='addr:housenumber' v='24-6' />
+    <tag k='addr:street' v='야탑로69번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='바나나' />
+  </node>
+  <node id='-4595893609034971686' action='modify' visible='true' lat='37.33838577' lon='127.1100916'>
+    <tag k='addr:door' v='401' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='구미로9번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오케이(OK)노래빠' />
+  </node>
+  <node id='-4595893609034971687' action='modify' visible='true' lat='37.38640307' lon='127.124822'>
+    <tag k='addr:door' v='301' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='서현로210번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='주리' />
+  </node>
+  <node id='-4595893609034971688' action='modify' visible='true' lat='37.38623554' lon='127.1245943'>
+    <tag k='addr:door' v='5' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='서현로210번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='준코뮤직타운 서현점' />
+  </node>
+  <node id='-4595893609034971689' action='modify' visible='true' lat='37.36736729' lon='127.1073129'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='정자일로198번길' />
+    <tag k='addr:subdistrict' v='정자동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='션샤인' />
+  </node>
+  <node id='-4595893609034971690' action='modify' visible='true' lat='37.35118508' lon='127.1095096'>
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='준코뮤직타운 미금점' />
+  </node>
+  <node id='-4595893609034971691' action='modify' visible='true' lat='37.36507665' lon='127.1067698'>
+    <tag k='addr:housenumber' v='11-7' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='볼륨' />
+  </node>
+  <node id='-4595893609034971692' action='modify' visible='true' lat='37.4116383' lon='127.1276321'>
+    <tag k='addr:housenumber' v='24-8' />
+    <tag k='addr:street' v='야탑로69번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='준코뮤직타운 야탑점' />
+  </node>
+  <node id='-4595893609034971693' action='modify' visible='true' lat='37.41057054' lon='127.1299994'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='성남대로916번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='허니허니' />
+  </node>
+  <node id='-4595893609034971694' action='modify' visible='true' lat='37.33838628' lon='127.1094473'>
+    <tag k='addr:door' v='동아그린프라자205호206' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='연예인노래팡팡' />
+  </node>
+  <node id='-4595893609034971695' action='modify' visible='true' lat='37.4116383' lon='127.1276321'>
+    <tag k='addr:housenumber' v='24-8' />
+    <tag k='addr:street' v='야탑로69번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='루쉬' />
+  </node>
+  <node id='-4595893609034971696' action='modify' visible='true' lat='37.339308' lon='127.1093922'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쭉쭉빵빵' />
+  </node>
+  <node id='-4595893609034971697' action='modify' visible='true' lat='37.36701027' lon='127.1067476'>
+    <tag k='addr:housenumber' v='12-6' />
+    <tag k='addr:street' v='성남대로343번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='도토리' />
+  </node>
+  <node id='-4595893609034971698' action='modify' visible='true' lat='37.38640307' lon='127.124822'>
+    <tag k='addr:door' v='303' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='서현로210번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='샤방샤방' />
+  </node>
+  <node id='-4595893609034971699' action='modify' visible='true' lat='37.36526839' lon='127.1067677'>
+    <tag k='addr:housenumber' v='9-6' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='간지' />
+  </node>
+  <node id='-4595893609034971700' action='modify' visible='true' lat='37.41284504' lon='127.1298603'>
+    <tag k='addr:door' v='B102' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='성남대로926번길' />
+    <tag k='addr:subdistrict' v='야탑동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='OK노래짱' />
+  </node>
+  <node id='-4595893609034971701' action='modify' visible='true' lat='37.41116749' lon='127.1268222'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='야탑로75번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='돈워리노래팡' />
+  </node>
+  <node id='-4595893609034971702' action='modify' visible='true' lat='37.41284504' lon='127.1298603'>
+    <tag k='addr:door' v='지하1층101' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='성남대로926번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='블랙' />
+  </node>
+  <node id='-4595893609034971703' action='modify' visible='true' lat='37.41310944' lon='127.1297453'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='성남대로926번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='탱탱' />
+  </node>
+  <node id='-4595893609034971704' action='modify' visible='true' lat='37.41204269' lon='127.12729'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='성남대로925번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='퐁퐁나이트' />
+  </node>
+  <node id='-4595893609034971705' action='modify' visible='true' lat='37.36488788' lon='127.1067748'>
+    <tag k='addr:housenumber' v='9-10' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='벤츠' />
+  </node>
+  <node id='-4595893609034971706' action='modify' visible='true' lat='37.36738307' lon='127.1062946'>
+    <tag k='addr:door' v='01' />
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:street' v='정자일로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='보스(BOSS)' />
+  </node>
+  <node id='-4595893609034971707' action='modify' visible='true' lat='37.41257491' lon='127.1292937'>
+    <tag k='addr:door' v='B101' />
+    <tag k='addr:housenumber' v='926' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쎄븐(70.80)라이브' />
+  </node>
+  <node id='-4595893609034971708' action='modify' visible='true' lat='37.41315995' lon='127.1292866'>
+    <tag k='addr:door' v='112' />
+    <tag k='addr:housenumber' v='934' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='벤처' />
+  </node>
+  <node id='-4595893609034971709' action='modify' visible='true' lat='37.37917304' lon='127.1157395'>
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='황새울로258번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='카라(Kara)' />
+  </node>
+  <node id='-4595893609034971710' action='modify' visible='true' lat='37.33887514' lon='127.109393'>
+    <tag k='addr:door' v='101' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='앤노래바' />
+  </node>
+  <node id='-4595893609034971711' action='modify' visible='true' lat='37.41207321' lon='127.1263908'>
+    <tag k='addr:door' v='204' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='성남대로925번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쟁반노래바' />
+  </node>
+  <node id='-4595893609034971712' action='modify' visible='true' lat='37.36431451' lon='127.1073231'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='정자일로156번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='첼시' />
+  </node>
+  <node id='-4595893609034971713' action='modify' visible='true' lat='37.33838628' lon='127.1094473'>
+    <tag k='addr:door' v='201' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='캔디노래빠' />
+  </node>
+  <node id='-4595893609034971714' action='modify' visible='true' lat='37.36528619' lon='127.1063078'>
+    <tag k='addr:door' v='310' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='엑스존노래빠' />
+  </node>
+  <node id='-4595893609034971715' action='modify' visible='true' lat='37.41207321' lon='127.1263908'>
+    <tag k='addr:door' v='202' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='성남대로925번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='짱노래바' />
+  </node>
+  <node id='-4595893609034971716' action='modify' visible='true' lat='37.36718504' lon='127.1070789'>
+    <tag k='addr:housenumber' v='10-6' />
+    <tag k='addr:street' v='성남대로343번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='에스앤에스' />
+  </node>
+  <node id='-4595893609034971717' action='modify' visible='true' lat='37.35038794' lon='127.1113432'>
+    <tag k='addr:door' v='4' />
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:street' v='돌마로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='헤라' />
+  </node>
+  <node id='-4595893609034971718' action='modify' visible='true' lat='37.36546162' lon='127.1072042'>
+    <tag k='addr:door' v='정자스타빌딩B01호,B03' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='요준코소주호프노래타운' />
+  </node>
+  <node id='-4595893609034971719' action='modify' visible='true' lat='37.38640307' lon='127.124822'>
+    <tag k='addr:door' v='102,104,105' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='서현로210번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='분당서현링코뮤직타운' />
+  </node>
+  <node id='-4595893609034971720' action='modify' visible='true' lat='37.35118508' lon='127.1095096'>
+    <tag k='addr:door' v='지하1층101' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='봉주르7080라이브' />
+  </node>
+  <node id='-4595893609034971721' action='modify' visible='true' lat='37.41160874' lon='127.1273107'>
+    <tag k='addr:housenumber' v='24-6' />
+    <tag k='addr:street' v='야탑로69번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='탑노래빠' />
+  </node>
+  <node id='-4595893609034971722' action='modify' visible='true' lat='37.38568369' lon='127.1248296'>
+    <tag k='addr:door' v='B04' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='황새울로360번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='놀러와' />
+  </node>
+  <node id='-4595893609034971723' action='modify' visible='true' lat='37.36431958' lon='127.1071003'>
+    <tag k='addr:housenumber' v='9-15' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='5' />
+    <tag k='name' v='블링블링노래빠' />
+  </node>
+  <node id='-4595893609034971724' action='modify' visible='true' lat='37.33887514' lon='127.109393'>
+    <tag k='addr:door' v='204' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='킹노래빠' />
+  </node>
+  <node id='-4595893609034971725' action='modify' visible='true' lat='37.36546162' lon='127.1072042'>
+    <tag k='addr:door' v='303' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='꼭지 노래빠' />
+  </node>
+  <node id='-4595893609034971726' action='modify' visible='true' lat='37.36526839' lon='127.1067677'>
+    <tag k='addr:door' v='401' />
+    <tag k='addr:housenumber' v='9-6' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='addr:subdistrict' v='정자동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='쟈스민 유흥주점' />
+  </node>
+  <node id='-4595893609034971727' action='modify' visible='true' lat='37.38617771' lon='127.1215536'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='황새울로335번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-2' />
+    <tag k='name' v='슈퍼스타' />
+  </node>
+  <node id='-4595893609034971728' action='modify' visible='true' lat='37.38617771' lon='127.1215536'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='황새울로335번길' />
+    <tag k='addr:subdistrict' v='서현동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='자이언트' />
+  </node>
+  <node id='-4595893609034971729' action='modify' visible='true' lat='37.36526626' lon='127.1073315'>
+    <tag k='addr:housenumber' v='3-4' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='addr:subdistrict' v='정자동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='모던노래빠' />
+  </node>
+  <node id='-4595893609034971730' action='modify' visible='true' lat='37.35039912' lon='127.1100803'>
+    <tag k='addr:door' v='308,309-1' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:street' v='돌마로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='모던노래' />
+  </node>
+  <node id='-4595893609034971731' action='modify' visible='true' lat='37.35118508' lon='127.1095096'>
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='뽕밭' />
+  </node>
+  <node id='-4595893609034971732' action='modify' visible='true' lat='37.36754062' lon='127.1067451'>
+    <tag k='addr:housenumber' v='10-4' />
+    <tag k='addr:street' v='정자일로198번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='원더우먼' />
+  </node>
+  <node id='-4595893609034971733' action='modify' visible='true' lat='37.36738307' lon='127.1062946'>
+    <tag k='addr:door' v='102' />
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:street' v='정자일로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='숨' />
+  </node>
+  <node id='-4595893609034971734' action='modify' visible='true' lat='37.36528619' lon='127.1063078'>
+    <tag k='addr:door' v='지하102' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='addr:subdistrict' v='정자동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='세븐플로어(정자점)' />
+  </node>
+  <node id='-4595893609034971735' action='modify' visible='true' lat='37.36771344' lon='127.1067413'>
+    <tag k='addr:housenumber' v='6-1' />
+    <tag k='addr:street' v='정자일로198번길' />
+    <tag k='addr:subdistrict' v='정자동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='요미소주호프노래타운' />
+  </node>
+  <node id='-4595893609034971736' action='modify' visible='true' lat='37.33838577' lon='127.1100916'>
+    <tag k='addr:door' v='B02' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='구미로9번길' />
+    <tag k='addr:subdistrict' v='구미동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='방실노래빠' />
+  </node>
+  <node id='-4595893609034971737' action='modify' visible='true' lat='37.35118508' lon='127.1095096'>
+    <tag k='addr:door' v='104' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='addr:subdistrict' v='금곡동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='팝콘' />
+  </node>
+  <node id='-4595893609034971738' action='modify' visible='true' lat='37.41161073' lon='127.1270487'>
+    <tag k='addr:door' v='비01' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='양현로310번길' />
+    <tag k='addr:subdistrict' v='야탑동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='블링블링' />
+  </node>
+  <node id='-4595893609034971739' action='modify' visible='true' lat='37.38628484' lon='127.1224299'>
+    <tag k='addr:door' v='B01' />
+    <tag k='addr:housenumber' v='337' />
+    <tag k='addr:street' v='황새울로' />
+    <tag k='addr:subdistrict' v='서현동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='뉴페이스' />
+  </node>
+  <node id='-4595893609034971740' action='modify' visible='true' lat='37.38628484' lon='127.1224299'>
+    <tag k='addr:door' v='205' />
+    <tag k='addr:housenumber' v='337' />
+    <tag k='addr:street' v='황새울로' />
+    <tag k='addr:subdistrict' v='서현동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='뉴페이스아이(Ⅰ)' />
+  </node>
+  <node id='-4595893609034971741' action='modify' visible='true' lat='37.36718248' lon='127.1073153'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='정자일로198번길' />
+    <tag k='addr:subdistrict' v='정자동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='팩트' />
+  </node>
+  <node id='-4595893609034971742' action='modify' visible='true' lat='37.40572563' lon='127.1224341'>
+    <tag k='addr:housenumber' v='437' />
+    <tag k='addr:street' v='판교로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='별노래빵' />
+  </node>
+  <node id='-4595893609034971743' action='modify' visible='true' lat='37.37672794' lon='127.1395988'>
+    <tag k='addr:door' v='102' />
+    <tag k='addr:housenumber' v='375' />
+    <tag k='addr:street' v='서현로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='삼사오공' />
+  </node>
+  <node id='-4595893609034971744' action='modify' visible='true' lat='37.41256795' lon='127.130216'>
+    <tag k='addr:housenumber' v='12-1' />
+    <tag k='addr:street' v='장미로86번길' />
+    <tag k='addr:subdistrict' v='야탑동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='엘리제' />
+  </node>
+  <node id='-4595893609034971745' action='modify' visible='true' lat='37.41297512' lon='127.1302162'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='장미로86번길' />
+    <tag k='addr:subdistrict' v='야탑동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='킹카' />
+  </node>
+  <node id='-4595893609034971746' action='modify' visible='true' lat='37.41030409' lon='127.1263608'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='야탑로65번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='딸기 노래짱' />
+  </node>
+  <node id='-4595893609034971747' action='modify' visible='true' lat='37.41242765' lon='127.130226'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='장미로86번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='돼지노래빵' />
+  </node>
+  <node id='-4595893609034971748' action='modify' visible='true' lat='37.40575082' lon='127.1233435'>
+    <tag k='addr:door' v='3,4' />
+    <tag k='addr:housenumber' v='445' />
+    <tag k='addr:street' v='판교로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쿨라이브콘서트' />
+  </node>
+  <node id='-4595893609034971749' action='modify' visible='true' lat='37.37672794' lon='127.1395988'>
+    <tag k='addr:door' v='103' />
+    <tag k='addr:housenumber' v='375' />
+    <tag k='addr:street' v='서현로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='써티포티' />
+  </node>
+  <node id='-4595893609034971750' action='modify' visible='true' lat='37.41103703' lon='127.1302113'>
+    <tag k='addr:housenumber' v='13-1' />
+    <tag k='addr:street' v='야탑로105번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='러브' />
+  </node>
+  <node id='-4595893609034971751' action='modify' visible='true' lat='37.41115949' lon='127.1302064'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='야탑로105번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='신나라' />
+  </node>
+  <node id='-4595893609034971752' action='modify' visible='true' lat='37.38391088' lon='127.1312777'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='새마을로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='그녀투(TWO) 노래팡' />
+  </node>
+  <node id='-4595893609034971753' action='modify' visible='true' lat='37.41195733' lon='127.133607'>
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='매화로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='해와달' />
+  </node>
+  <node id='-4595893609034971754' action='modify' visible='true' lat='37.36701027' lon='127.1067476'>
+    <tag k='addr:housenumber' v='12-6' />
+    <tag k='addr:street' v='성남대로343번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='도도' />
+  </node>
+  <node id='-4595893609034971755' action='modify' visible='true' lat='37.3645075' lon='127.1073358'>
+    <tag k='addr:housenumber' v='3-12' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='후끈노래팡' />
+  </node>
+  <node id='-4595893609034971756' action='modify' visible='true' lat='37.36528619' lon='127.1063078'>
+    <tag k='addr:door' v='309' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='카사블랑카' />
+  </node>
+  <node id='-4595893609034971757' action='modify' visible='true' lat='37.41313768' lon='127.1302832'>
+    <tag k='addr:door' v='2' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='장미로86번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='올리브' />
+  </node>
+  <node id='-4595893609034971758' action='modify' visible='true' lat='37.4114485' lon='127.1302353'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='야탑로105번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='렉스' />
+  </node>
+  <node id='-4595893609034971759' action='modify' visible='true' lat='37.41283087' lon='127.1302165'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='장미로86번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='파인' />
+  </node>
+  <node id='-4595893609034971760' action='modify' visible='true' lat='37.41091224' lon='127.1302122'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='야탑로105번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='수노래빠' />
+  </node>
+  <node id='-4595893609034971761' action='modify' visible='true' lat='37.38766328' lon='127.1231527'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='황새울로351번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='뮤즈' />
+  </node>
+  <node id='-4595893609034971762' action='modify' visible='true' lat='37.36431958' lon='127.1071003'>
+    <tag k='addr:housenumber' v='9-15' />
+    <tag k='addr:street' v='성남대로331번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='올레' />
+  </node>
+  <node id='-4595893609034971763' action='modify' visible='true' lat='37.38458984' lon='127.1213773'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='황새울로330번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='5' />
+    <tag k='name' v='뱅크라이브' />
+  </node>
+  <node id='-4595893609034971764' action='modify' visible='true' lat='37.36431451' lon='127.1073231'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='정자일로156번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='센스 노래바' />
+  </node>
+  <node id='-4595893609034971765' action='modify' visible='true' lat='37.41207321' lon='127.1263908'>
+    <tag k='addr:door' v='201' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='성남대로925번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='짱노래바' />
+  </node>
+  <node id='-4595893609034971766' action='modify' visible='true' lat='37.41161499' lon='127.1267728'>
+    <tag k='addr:door' v='213호,214' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='야탑로69번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='큐노래빵' />
+  </node>
+  <node id='-4595893609034971767' action='modify' visible='true' lat='37.37922981' lon='127.1149037'>
+    <tag k='addr:housenumber' v='10-3' />
+    <tag k='addr:street' v='황새울로240번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='테마노래팡' />
+  </node>
+  <node id='-4595893609034971768' action='modify' visible='true' lat='37.36718794' lon='127.1067561'>
+    <tag k='addr:door' v='301' />
+    <tag k='addr:housenumber' v='12-8' />
+    <tag k='addr:street' v='성남대로343번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='파티파티' />
+  </node>
+  <node id='-4595893609034971769' action='modify' visible='true' lat='37.39194205' lon='127.0777633'>
+    <tag k='addr:door' v='운중동,스타식스메트로빌딩303' />
+    <tag k='addr:housenumber' v='131' />
+    <tag k='addr:street' v='운중로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='큐' />
+  </node>
+  <node id='-4595893609034971770' action='modify' visible='true' lat='37.37996496' lon='127.1168325'>
+    <tag k='addr:door' v='201' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='수내로46번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='뮤즈단란주점' />
+  </node>
+  <node id='-4595893609034971771' action='modify' visible='true' lat='37.39198646' lon='127.0769612'>
+    <tag k='addr:door' v='마크시티빌딩401' />
+    <tag k='addr:housenumber' v='123' />
+    <tag k='addr:street' v='운중로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오렌지노래주점' />
+  </node>
+  <node id='-4595893609034971772' action='modify' visible='true' lat='37.39774527' lon='127.1114334'>
+    <tag k='addr:door' v='406호,407' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='판교역로192번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='4' />
+    <tag k='name' v='샤넬 노래주점' />
+  </node>
+  <node id='-4595893609034971773' action='modify' visible='true' lat='37.34045482' lon='127.1094002'>
+    <tag k='addr:door' v='301' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:street' v='성남대로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='퀸노래빠' />
+  </node>
+  <node id='-4595893609034971774' action='modify' visible='true' lat='37.34038052' lon='127.1099403'>
+    <tag k='addr:door' v='302' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='구미로9번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='콘서트7080라이브' />
+  </node>
+  <node id='-4595893609034971775' action='modify' visible='true' lat='37.37726382' lon='127.1130736'>
+    <tag k='addr:door' v='501' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='백현로101번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='블루문라이브' />
+  </node>
+  <node id='-4595893609034971776' action='modify' visible='true' lat='37.38789729' lon='127.1228833'>
+    <tag k='addr:door' v='202' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='서현로180번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='오광노래바' />
+  </node>
+  <node id='-4595893609034971777' action='modify' visible='true' lat='37.37990138' lon='127.1158784'>
+    <tag k='addr:door' v='202' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='수내로46번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='쉬즈' />
+  </node>
+  <node id='-4595893609034971778' action='modify' visible='true' lat='37.33838577' lon='127.1100916'>
+    <tag k='addr:door' v='302' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='구미로9번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='낭만스케치' />
+  </node>
+  <node id='-4595893609034971779' action='modify' visible='true' lat='37.33841981' lon='127.1105945'>
+    <tag k='addr:door' v='302' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='구미로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='올래노래빠' />
+  </node>
+  <node id='-4595893609034971780' action='modify' visible='true' lat='37.39747826' lon='127.1120451'>
+    <tag k='addr:housenumber' v='14-2' />
+    <tag k='addr:street' v='판교역로192번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='탈렌트노래주점' />
+  </node>
+  <node id='-4595893609034971781' action='modify' visible='true' lat='37.38898906' lon='127.1225311'>
+    <tag k='addr:door' v='B103-2' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='서현로' />
+    <tag k='addr:subdistrict' v='서현동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='아이원노래빵' />
+  </node>
+  <node id='-4595893609034971782' action='modify' visible='true' lat='37.39802988' lon='127.1120303'>
+    <tag k='addr:door' v='301' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='판교역로192번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='팡노래주점' />
+  </node>
+  <node id='-4595893609034971783' action='modify' visible='true' lat='37.36372091' lon='127.1063246'>
+    <tag k='addr:door' v='B101,B102' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='정자로' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='리턴' />
+  </node>
+  <node id='-4595893609034971784' action='modify' visible='true' lat='37.41207321' lon='127.1263908'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='성남대로925번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='탑세시봉라이브' />
+  </node>
+  <node id='-4595893609034971785' action='modify' visible='true' lat='37.39693385' lon='127.1125317'>
+    <tag k='addr:door' v='B101' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:street' v='대왕판교로606번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='핑크 노래주점' />
+  </node>
+  <node id='-4595893609034971786' action='modify' visible='true' lat='37.38898906' lon='127.1225311'>
+    <tag k='addr:door' v='B101' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='서현로' />
+    <tag k='addr:subdistrict' v='서현동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='W노래바' />
+  </node>
+  <node id='-4595893609034971787' action='modify' visible='true' lat='37.38017725' lon='127.1162744'>
+    <tag k='addr:housenumber' v='10-7' />
+    <tag k='addr:street' v='황새울로258번길' />
+    <tag k='addr:subdistrict' v='수내동' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='써니단란주점' />
+  </node>
+  <node id='-4595893609034971788' action='modify' visible='true' lat='37.35039912' lon='127.1100803'>
+    <tag k='addr:door' v='309' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:street' v='돌마로' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='3' />
+    <tag k='name' v='모이세' />
+  </node>
+  <node id='-4595893609034971789' action='modify' visible='true' lat='37.36718504' lon='127.1070789'>
+    <tag k='addr:housenumber' v='10-6' />
+    <tag k='addr:street' v='성남대로343번길' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='5' />
+    <tag k='name' v='돔라운지' />
+  </node>
+  <node id='-4595893609034971790' action='modify' visible='true' lat='37.36802998' lon='127.1055207'>
+    <tag k='addr:door' v='220' />
+    <tag k='addr:housenumber' v='197' />
+    <tag k='addr:street' v='정자일로' />
+    <tag k='addr:subdistrict' v='정자동' />
+    <tag k='amenity' v='bar' />
+    <tag k='level' v='2' />
+    <tag k='name' v='레솔베르라운지' />
+  </node>
+</osm>
