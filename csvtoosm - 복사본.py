@@ -2,7 +2,7 @@
 import sys
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
-csv_file_path = "복사본 경기도 동두천시_일반협동조합 현황_20210617_address.csv"
+csv_file_path = "강원도 강릉시_미용업소 현황_10_18_2021_address.csv"
 osm_file_path = csv_file_path + "osm"
 
 
