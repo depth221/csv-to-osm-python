@@ -4,7 +4,7 @@ import time
 
 start = time.time()
 
-csv_file_path = "경상남도_거창군_약국현황_10_15_2021_address.csv"
+csv_file_path = "한전KDN_광주시 버스 정류장 정보_20200410.csv"
 
 
 csv_incoding = "utf-8" # set the incoding of csv file to read
