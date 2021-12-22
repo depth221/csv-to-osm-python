@@ -2,7 +2,7 @@
 import sys
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
-csv_file_path = "경상북도_구미시_버스정보시스템_버스정류장_08_30_2021"
+csv_file_path = "경기도 이천시_버스안내정보_10_30_2021"
 osm_file_path = csv_file_path + ".osm"
 csv_file_path += ".csv"
 
