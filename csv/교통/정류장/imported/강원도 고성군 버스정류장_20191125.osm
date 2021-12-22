@@ -1,0 +1,2481 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='9357576979' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.255194' lon='128.509649'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='성대1리' />
+    <tag k='name:ko' v='성대1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576980' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.272013' lon='128.523818'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원3리' />
+    <tag k='name:ko' v='도원3리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576981' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.209084' lon='128.49589'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='델피노' />
+    <tag k='name:ko' v='델피노' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576982' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.302982' lon='128.544849'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='백도' />
+    <tag k='name:ko' v='백도' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576983' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.303025' lon='128.545203'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='백도' />
+    <tag k='name:ko' v='백도' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576984' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.380864' lon='128.463064'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='간성차고지' />
+    <tag k='name:ko' v='간성차고지' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576985' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.386921' lon='128.4149'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상1리' />
+    <tag k='name:ko' v='해상1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576986' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.387686' lon='128.422257'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상2리마을입구' />
+    <tag k='name:ko' v='해상2리마을입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576987' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.387816' lon='128.420138'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상리' />
+    <tag k='name:ko' v='해상리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576988' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.387533' lon='128.416678'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상1리' />
+    <tag k='name:ko' v='해상1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576989' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.321187' lon='128.477446'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구성삼거리.신촌개발마을' />
+    <tag k='name:ko' v='구성삼거리.신촌개발마을' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576990' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.325507' lon='128.471213'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구성리' />
+    <tag k='name:ko' v='구성리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576991' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.41947' lon='128.462585'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='반암리' />
+    <tag k='name:ko' v='반암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576992' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.428577' lon='128.457374'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포2리.돌고개길' />
+    <tag k='name:ko' v='송포2리.돌고개길' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576993' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.428882' lon='128.457154'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포2리.돌고개길' />
+    <tag k='name:ko' v='송포2리.돌고개길' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576994' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.433409' lon='128.452047'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포2리' />
+    <tag k='name:ko' v='송포2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576995' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.449063' lon='128.439706'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉평리' />
+    <tag k='name:ko' v='봉평리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576996' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.449086' lon='128.43947'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화포리' />
+    <tag k='name:ko' v='화포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576997' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.450467' lon='128.433523'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='찻골입구' />
+    <tag k='name:ko' v='찻골입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576998' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.457922' lon='128.42372'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='원당리' />
+    <tag k='name:ko' v='원당리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357576999' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.501023' lon='128.42438'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진2리' />
+    <tag k='name:ko' v='대진2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577000' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.500948' lon='128.42448'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진2리' />
+    <tag k='name:ko' v='대진2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577001' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.502033' lon='128.423944'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진2리' />
+    <tag k='name:ko' v='대진2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577002' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.502153' lon='128.423969'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진1리' />
+    <tag k='name:ko' v='대진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577003' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.503312' lon='128.423611'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진등대입구' />
+    <tag k='name:ko' v='대진등대입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577004' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.503666' lon='128.423419'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진1리' />
+    <tag k='name:ko' v='대진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577005' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.510539' lon='128.419307'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마차진리' />
+    <tag k='name:ko' v='마차진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577006' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.510445' lon='128.419213'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마차진리' />
+    <tag k='name:ko' v='마차진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577007' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.515287' lon='128.417802'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='안보교육관앞' />
+    <tag k='name:ko' v='안보교육관앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577008' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.515228' lon='128.417704'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='안보교육관앞' />
+    <tag k='name:ko' v='안보교육관앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577009' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.474399' lon='128.414417'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='산학리' />
+    <tag k='name:ko' v='산학리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577010' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.474305' lon='128.414348'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='산학리' />
+    <tag k='name:ko' v='산학리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577011' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.475903' lon='128.421755'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='산학리' />
+    <tag k='name:ko' v='산학리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577012' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.475795' lon='128.421804'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='산학리' />
+    <tag k='name:ko' v='산학리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577013' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.476741' lon='128.421929'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='산학리입구' />
+    <tag k='name:ko' v='산학리입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577014' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.476894' lon='128.422033'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='산학리입구' />
+    <tag k='name:ko' v='산학리입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577015' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.469336' lon='128.422886'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='죽정1리' />
+    <tag k='name:ko' v='죽정1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357577016' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.468492' lon='128.422953'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='죽정1리' />
+    <tag k='name:ko' v='죽정1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633817' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.457961' lon='128.423851'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='원당리' />
+    <tag k='name:ko' v='원당리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633818' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.450309' lon='128.434193'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='찻골입구' />
+    <tag k='name:ko' v='찻골입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633819' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.446068' lon='128.40944'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='옹기점' />
+    <tag k='name:ko' v='옹기점' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633820' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.448019' lon='128.464542'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진1리' />
+    <tag k='name:ko' v='거진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633821' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.449335' lon='128.460151'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진수협앞' />
+    <tag k='name:ko' v='거진수협앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633822' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.419793' lon='128.46285'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='반암' />
+    <tag k='name:ko' v='반암' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633823' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.40838' lon='128.42638'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='석문리' />
+    <tag k='name:ko' v='석문리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633824' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.408403' lon='128.426514'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='석문리' />
+    <tag k='name:ko' v='석문리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633825' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.391716' lon='128.461127'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대대1리' />
+    <tag k='name:ko' v='대대1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633826' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.208687' lon='128.50348'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='일성설악콘도' />
+    <tag k='name:ko' v='일성설악콘도' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633827' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.207649' lon='128.509104'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='원암리' />
+    <tag k='name:ko' v='원암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633828' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.207764' lon='128.509195'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='원암리' />
+    <tag k='name:ko' v='원암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633829' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.281625' lon='128.384996'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘2리' />
+    <tag k='name:ko' v='흘2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633830' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.277021' lon='128.383828'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘2리.안심회관앞' />
+    <tag k='name:ko' v='흘2리.안심회관앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633831' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.277031' lon='128.383964'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘2리.안심회관앞' />
+    <tag k='name:ko' v='흘2리.안심회관앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633832' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.265481' lon='128.368409'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘1리.백두가든앞' />
+    <tag k='name:ko' v='흘1리.백두가든앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633833' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.265588' lon='128.368424'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘1리.백두가든앞' />
+    <tag k='name:ko' v='흘1리.백두가든앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633834' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.297501' lon='128.3625'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='진부리' />
+    <tag k='name:ko' v='진부리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633835' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.297484' lon='128.362415'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='진부리' />
+    <tag k='name:ko' v='진부리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633836' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.300972' lon='128.363308'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='진부리.아랫마을' />
+    <tag k='name:ko' v='진부리.아랫마을' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633837' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.301935' lon='128.363517'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='진부리.아랫마을' />
+    <tag k='name:ko' v='진부리.아랫마을' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633838' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.308771' lon='128.36059'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='제추골쉼터' />
+    <tag k='name:ko' v='제추골쉼터' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633839' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.309039' lon='128.360786'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='제추골쉼터' />
+    <tag k='name:ko' v='제추골쉼터' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633840' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.337375' lon='128.378472'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신2리' />
+    <tag k='name:ko' v='장신2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633841' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.337833' lon='128.378829'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신2리' />
+    <tag k='name:ko' v='장신2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633842' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.359755' lon='128.385322'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신1리.오교앞' />
+    <tag k='name:ko' v='장신1리.오교앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633843' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.360002' lon='128.385216'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신1리.오교앞' />
+    <tag k='name:ko' v='장신1리.오교앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633844' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.387022' lon='128.414852'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상1리' />
+    <tag k='name:ko' v='해상1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633845' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.387794' lon='128.422273'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상2리마을입구' />
+    <tag k='name:ko' v='해상2리마을입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633846' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.362402' lon='128.42703'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='어천2리' />
+    <tag k='name:ko' v='어천2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633847' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.371485' lon='128.411781'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산2리' />
+    <tag k='name:ko' v='광산2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633848' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.381216' lon='128.464036'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='고성중고등학교앞' />
+    <tag k='name:ko' v='고성중고등학교앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633849' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.381071' lon='128.464378'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='여성회관' />
+    <tag k='name:ko' v='여성회관' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633850' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.379315' lon='128.468138'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='고성군청앞' />
+    <tag k='name:ko' v='고성군청앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633851' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.372239' lon='128.507539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633852' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.367752' lon='128.509769'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진항입구' />
+    <tag k='name:ko' v='가진항입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633853' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.330206' lon='128.46918'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구성리' />
+    <tag k='name:ko' v='구성리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633854' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.328897' lon='128.514323'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인정1리' />
+    <tag k='name:ko' v='인정1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633855' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.328821' lon='128.514274'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인정1리' />
+    <tag k='name:ko' v='인정1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633856' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.34251' lon='128.512293'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송지호오토캠핑장' />
+    <tag k='name:ko' v='송지호오토캠핑장' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633857' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.312864' lon='128.5327'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오호초등학교' />
+    <tag k='name:ko' v='오호초등학교' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633858' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.268242' lon='128.474016'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원1리' />
+    <tag k='name:ko' v='도원1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633859' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.268267' lon='128.475346'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원1리' />
+    <tag k='name:ko' v='도원1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633860' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.269098' lon='128.477141'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원1리마을입구' />
+    <tag k='name:ko' v='도원1리마을입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633861' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.269002' lon='128.477215'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원1리마을입구' />
+    <tag k='name:ko' v='도원1리마을입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633862' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.273141' lon='128.486169'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원저수지입구' />
+    <tag k='name:ko' v='도원저수지입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633863' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.273239' lon='128.48623'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원저수지입구' />
+    <tag k='name:ko' v='도원저수지입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633864' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.270351' lon='128.491941'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리.저수지앞' />
+    <tag k='name:ko' v='도원2리.저수지앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633865' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.270459' lon='128.491942'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리.저수지앞' />
+    <tag k='name:ko' v='도원2리.저수지앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633866' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.27062' lon='128.495056'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리' />
+    <tag k='name:ko' v='도원2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633867' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.270515' lon='128.495091'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리' />
+    <tag k='name:ko' v='도원2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633868' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.27146' lon='128.500348'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리' />
+    <tag k='name:ko' v='도원2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633869' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.271367' lon='128.500278'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리' />
+    <tag k='name:ko' v='도원2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633870' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.272953' lon='128.50328'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도학초등학교입구' />
+    <tag k='name:ko' v='도학초등학교입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633871' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.273037' lon='128.503181'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도학초등학교입구' />
+    <tag k='name:ko' v='도학초등학교입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633872' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.28101' lon='128.512105'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야리' />
+    <tag k='name:ko' v='학야리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633873' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.283093' lon='128.517077'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='운봉리봉제앞' />
+    <tag k='name:ko' v='운봉리봉제앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633874' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.283192' lon='128.517018'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='운봉리봉제앞' />
+    <tag k='name:ko' v='운봉리봉제앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633875' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.299469' lon='128.523345'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='야촌리' />
+    <tag k='name:ko' v='야촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633876' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.299367' lon='128.523397'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='야촌리' />
+    <tag k='name:ko' v='야촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633877' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.300074' lon='128.525209'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='야촌리' />
+    <tag k='name:ko' v='야촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633878' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.301512' lon='128.531898'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='야촌리정미소앞' />
+    <tag k='name:ko' v='야촌리정미소앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633879' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.301404' lon='128.531923'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='야촌리정미소앞' />
+    <tag k='name:ko' v='야촌리정미소앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633880' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.28339' lon='128.540479'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='금화정리' />
+    <tag k='name:ko' v='금화정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633881' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.285602' lon='128.547895'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='금화정리' />
+    <tag k='name:ko' v='금화정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633882' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.270913' lon='128.55555'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진동현약국앞' />
+    <tag k='name:ko' v='아야진동현약국앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633883' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.27099' lon='128.555301'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진동현약국앞' />
+    <tag k='name:ko' v='아야진동현약국앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633884' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.278095' lon='128.55293'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진해변' />
+    <tag k='name:ko' v='아야진해변' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633885' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.278081' lon='128.553066'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진해변' />
+    <tag k='name:ko' v='아야진해변' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633886' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.250539' lon='128.564211'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633887' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.25416' lon='128.563087'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633888' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.254069' lon='128.563006'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633889' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.249498' lon='128.512672'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='전국택시연수원' />
+    <tag k='name:ko' v='전국택시연수원' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633890' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.24903' lon='128.512736'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='전국택시연수원' />
+    <tag k='name:ko' v='전국택시연수원' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633891' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.239659' lon='128.530754'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대순진리회입구' />
+    <tag k='name:ko' v='대순진리회입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633892' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.239966' lon='128.532136'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공설운동장입구' />
+    <tag k='name:ko' v='공설운동장입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633893' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233509' lon='128.551013'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥초교입구' />
+    <tag k='name:ko' v='인흥초교입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633894' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.23362' lon='128.55095'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥초교입구' />
+    <tag k='name:ko' v='인흥초교입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633895' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233549' lon='128.550872'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥초교입구' />
+    <tag k='name:ko' v='인흥초교입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633896' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.229592' lon='128.548356'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥1리.보덕암' />
+    <tag k='name:ko' v='인흥1리.보덕암' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633897' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.231246' lon='128.53902'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥3리입구' />
+    <tag k='name:ko' v='인흥3리입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633898' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.244393' lon='128.365888'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘3리' />
+    <tag k='name:ko' v='흘3리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633899' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.244372' lon='128.366026'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘3리' />
+    <tag k='name:ko' v='흘3리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633900' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.258439' lon='128.52818'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용암1리' />
+    <tag k='name:ko' v='용암1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633901' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.240595' lon='128.513424'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평리' />
+    <tag k='name:ko' v='신평리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633902' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.23884' lon='128.511683'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='102기갑여단' />
+    <tag k='name:ko' v='102기갑여단' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633903' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233971' lon='128.552716'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥2리' />
+    <tag k='name:ko' v='인흥2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633904' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.212508' lon='128.518207'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='원암리' />
+    <tag k='name:ko' v='원암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633905' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.232226' lon='128.578652'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌리' />
+    <tag k='name:ko' v='용촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633906' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.235614' lon='128.574286'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌리' />
+    <tag k='name:ko' v='용촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633907' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.238751' lon='128.571839'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌2리.청간정콘도입구' />
+    <tag k='name:ko' v='용촌2리.청간정콘도입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633908' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.239329' lon='128.570934'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌리.충용아파트입구' />
+    <tag k='name:ko' v='용촌리.충용아파트입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633909' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.263658' lon='128.543942'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용암2리' />
+    <tag k='name:ko' v='용암2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633910' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.256519' lon='128.533244'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평1리' />
+    <tag k='name:ko' v='신평1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633911' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.256425' lon='128.533255'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평1리' />
+    <tag k='name:ko' v='신평1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633912' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.258332' lon='128.52815'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용암1리' />
+    <tag k='name:ko' v='용암1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633913' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.25593' lon='128.519413'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='성대2리' />
+    <tag k='name:ko' v='성대2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633914' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.255819' lon='128.519345'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='성대2리' />
+    <tag k='name:ko' v='성대2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633915' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.255129' lon='128.509662'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='성대1리' />
+    <tag k='name:ko' v='성대1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633916' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.240614' lon='128.513288'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평리' />
+    <tag k='name:ko' v='신평리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633917' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.232677' lon='128.512855'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평2리' />
+    <tag k='name:ko' v='신평2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633918' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.232806' lon='128.512578'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평2리' />
+    <tag k='name:ko' v='신평2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633919' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.232932' lon='128.517296'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평2리' />
+    <tag k='name:ko' v='신평2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633920' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233011' lon='128.51755'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평2리' />
+    <tag k='name:ko' v='신평2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633921' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.23933' lon='128.536355'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='파인리즈리조트입구' />
+    <tag k='name:ko' v='파인리즈리조트입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633922' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.239689' lon='128.537668'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='파인리즈리조트입구' />
+    <tag k='name:ko' v='파인리즈리조트입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633923' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.238115' lon='128.549776'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥리설악수련의집앞' />
+    <tag k='name:ko' v='인흥리설악수련의집앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633924' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.238213' lon='128.549824'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥리설악수련의집앞' />
+    <tag k='name:ko' v='인흥리설악수련의집앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633925' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.235837' lon='128.574318'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌2리' />
+    <tag k='name:ko' v='용촌2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633926' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233216' lon='128.54915'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥1리' />
+    <tag k='name:ko' v='인흥1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633927' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.228513' lon='128.535479'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥3리' />
+    <tag k='name:ko' v='인흥3리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633928' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.225171' lon='128.545053'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='성천리' />
+    <tag k='name:ko' v='성천리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633929' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.226106' lon='128.547282'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='성천리' />
+    <tag k='name:ko' v='성천리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633930' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.232555' lon='128.550212'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥1리' />
+    <tag k='name:ko' v='인흥1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633931' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233906' lon='128.552735'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인흥2리' />
+    <tag k='name:ko' v='인흥2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633932' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233585' lon='128.569697'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌리' />
+    <tag k='name:ko' v='용촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633933' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.233645' lon='128.569528'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌2리' />
+    <tag k='name:ko' v='용촌2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633934' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.23279' lon='128.578303'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용촌1리' />
+    <tag k='name:ko' v='용촌1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633935' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.209031' lon='128.495768'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='델피노' />
+    <tag k='name:ko' v='델피노' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633936' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.212441' lon='128.51814'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='원암리' />
+    <tag k='name:ko' v='원암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633937' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.37551' lon='128.415239'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633938' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.351473' lon='128.381411'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신1리초가앞' />
+    <tag k='name:ko' v='장신1리초가앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633939' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.39758' lon='128.432685'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초계리' />
+    <tag k='name:ko' v='초계리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633940' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.278562' lon='128.510632'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야1리' />
+    <tag k='name:ko' v='학야1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633941' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.49207' lon='128.393894'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화곡리' />
+    <tag k='name:ko' v='화곡리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633942' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.507107' lon='128.393843'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마달리' />
+    <tag k='name:ko' v='마달리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633943' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.509359' lon='128.394109'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마달리' />
+    <tag k='name:ko' v='마달리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633944' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.526926' lon='128.407055'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='배봉리입구' />
+    <tag k='name:ko' v='배봉리입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633945' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.292481' lon='128.53869'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='백촌리' />
+    <tag k='name:ko' v='백촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633946' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.281124' lon='128.511929'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야리' />
+    <tag k='name:ko' v='학야리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633947' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.283599' lon='128.503132'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='22사단입구' />
+    <tag k='name:ko' v='22사단입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633948' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.282015' lon='128.507814'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야리' />
+    <tag k='name:ko' v='학야리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633949' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.297437' lon='128.5196'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='운봉리' />
+    <tag k='name:ko' v='운봉리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633950' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.300531' lon='128.526179'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='야촌리' />
+    <tag k='name:ko' v='야촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633951' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.321251' lon='128.477534'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구성삼거리' />
+    <tag k='name:ko' v='구성삼거리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633952' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.325582' lon='128.471274'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구성리' />
+    <tag k='name:ko' v='구성리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633953' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.391411' lon='128.484763'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동호2리' />
+    <tag k='name:ko' v='동호2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633954' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377959' lon='128.477887'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼익아파트' />
+    <tag k='name:ko' v='삼익아파트' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633955' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.378968' lon='128.472482'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='간성버스터미널' />
+    <tag k='name:ko' v='간성버스터미널' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633956' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.264935' lon='128.37395'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘1리.마을회관앞' />
+    <tag k='name:ko' v='흘1리.마을회관앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633957' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.265323' lon='128.373475'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘1리.알프스스키장' />
+    <tag k='name:ko' v='흘1리.알프스스키장' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633958' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.365519' lon='128.387747'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산2리.서잠' />
+    <tag k='name:ko' v='광산2리.서잠' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633959' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.361277' lon='128.42425'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='어천1리' />
+    <tag k='name:ko' v='어천1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633960' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.361079' lon='128.421427'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='어천리' />
+    <tag k='name:ko' v='어천리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633961' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.368056' lon='128.411907'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산3리' />
+    <tag k='name:ko' v='광산3리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633962' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.38478' lon='128.452984'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리대일가스앞' />
+    <tag k='name:ko' v='교동리대일가스앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633963' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.391842' lon='128.461369'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대대1리' />
+    <tag k='name:ko' v='대대1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633964' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441432' lon='128.434534'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉평리' />
+    <tag k='name:ko' v='봉평리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633965' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441464' lon='128.425224'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송정리' />
+    <tag k='name:ko' v='송정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633966' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.440912' lon='128.423738'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송정리' />
+    <tag k='name:ko' v='송정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633967' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.448529' lon='128.403103'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='비석거리' />
+    <tag k='name:ko' v='비석거리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633968' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.505267' lon='128.421924'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진1리' />
+    <tag k='name:ko' v='대진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633969' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.498631' lon='128.425353'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진초등학교' />
+    <tag k='name:ko' v='대진초등학교' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633970' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.49021' lon='128.430174'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초도2리' />
+    <tag k='name:ko' v='초도2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633971' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.3574' lon='128.508155'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진해수욕장앞' />
+    <tag k='name:ko' v='공현진해수욕장앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633972' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.292227' lon='128.545389'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교암1리' />
+    <tag k='name:ko' v='교암1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633973' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.289032' lon='128.54681'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교암2리.천학정입구' />
+    <tag k='name:ko' v='교암2리.천학정입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633974' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.273441' lon='128.555734'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='토성농협' />
+    <tag k='name:ko' v='토성농협' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633975' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.249535' lon='128.566904'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633976' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.244587' lon='128.568882'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리.구검문소' />
+    <tag k='name:ko' v='봉포리.구검문소' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633977' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.26709' lon='128.554367'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청간리' />
+    <tag k='name:ko' v='청간리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633978' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.2703' lon='128.549921'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진리' />
+    <tag k='name:ko' v='아야진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633979' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.273794' lon='128.54808'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진리' />
+    <tag k='name:ko' v='아야진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633980' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.27759' lon='128.548401'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진리.아야진항입구' />
+    <tag k='name:ko' v='아야진리.아야진항입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633981' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.285424' lon='128.547658'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='금화정리' />
+    <tag k='name:ko' v='금화정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633982' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.29384' lon='128.544319'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동광산업과학고' />
+    <tag k='name:ko' v='동광산업과학고' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633983' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.272124' lon='128.523816'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원3리' />
+    <tag k='name:ko' v='도원3리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633984' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.278493' lon='128.510739'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야1리' />
+    <tag k='name:ko' v='학야1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633985' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.271545' lon='128.497915'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리' />
+    <tag k='name:ko' v='도원2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633986' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.271391' lon='128.497843'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원2리' />
+    <tag k='name:ko' v='도원2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633987' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.268376' lon='128.47539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도원1리' />
+    <tag k='name:ko' v='도원1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633988' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.281039' lon='128.511825'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야리' />
+    <tag k='name:ko' v='학야리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633989' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.283491' lon='128.503092'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야' />
+    <tag k='name:ko' v='학야' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633990' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.282121' lon='128.507844'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학야리' />
+    <tag k='name:ko' v='학야리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633991' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.293846' lon='128.518777'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='운봉리' />
+    <tag k='name:ko' v='운봉리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633992' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.293822' lon='128.518643'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='운봉리' />
+    <tag k='name:ko' v='운봉리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633993' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.297335' lon='128.519653'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='운봉리' />
+    <tag k='name:ko' v='운봉리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633994' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.300175' lon='128.526748'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='야촌리' />
+    <tag k='name:ko' v='야촌리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633995' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.304046' lon='128.538283'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송암리' />
+    <tag k='name:ko' v='송암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633996' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.305638' lon='128.536919'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송암리' />
+    <tag k='name:ko' v='송암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633997' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.31677' lon='128.529749'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼포리' />
+    <tag k='name:ko' v='삼포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633998' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.320733' lon='128.526875'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼포리.군인관사앞' />
+    <tag k='name:ko' v='삼포리.군인관사앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357633999' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.325621' lon='128.52518'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오호리' />
+    <tag k='name:ko' v='오호리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634000' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.328536' lon='128.52432'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오호리' />
+    <tag k='name:ko' v='오호리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634001' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.336732' lon='128.517863'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송지호공원' />
+    <tag k='name:ko' v='송지호공원' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634002' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.349994' lon='128.509284'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진리' />
+    <tag k='name:ko' v='공현진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634003' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.352544' lon='128.508923'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진' />
+    <tag k='name:ko' v='공현진' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634004' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.359091' lon='128.50539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진.덕운면옥' />
+    <tag k='name:ko' v='공현진.덕운면옥' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634005' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.365583' lon='128.501249'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공원묘지입구' />
+    <tag k='name:ko' v='공원묘지입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634006' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.372149' lon='128.502159'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634007' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.376924' lon='128.499119'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634008' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.380136' lon='128.491102'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='향목리' />
+    <tag k='name:ko' v='향목리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634009' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377229' lon='128.484189'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='향목리.농공단지입구' />
+    <tag k='name:ko' v='향목리.농공단지입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634010' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.346884' lon='128.509581'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오봉리.왕곡마을입구' />
+    <tag k='name:ko' v='오봉리.왕곡마을입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634011' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.342104' lon='128.501241'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='왕곡마을입구' />
+    <tag k='name:ko' v='왕곡마을입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634012' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.33778' lon='128.502063'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='왕곡마을1리' />
+    <tag k='name:ko' v='왕곡마을1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634013' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.336581' lon='128.497642'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오봉2리' />
+    <tag k='name:ko' v='오봉2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634014' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.327679' lon='128.503114'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인정리' />
+    <tag k='name:ko' v='인정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634015' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.328369' lon='128.506182'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인정2리' />
+    <tag k='name:ko' v='인정2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634016' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.328254' lon='128.506142'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인정2리' />
+    <tag k='name:ko' v='인정2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634017' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.327586' lon='128.503072'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='인정리' />
+    <tag k='name:ko' v='인정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634018' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.393439' lon='128.482085'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동호1리' />
+    <tag k='name:ko' v='동호1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634019' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377724' lon='128.478121'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신안리.고성경찰서입구' />
+    <tag k='name:ko' v='신안리.고성경찰서입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634020' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.378753' lon='128.472841'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신안리' />
+    <tag k='name:ko' v='신안리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634021' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.379375' lon='128.469582'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='천년고성시장입구' />
+    <tag k='name:ko' v='천년고성시장입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634022' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.379111' lon='128.470318'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신안리' />
+    <tag k='name:ko' v='신안리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634023' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.379532' lon='128.467863'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='군청앞' />
+    <tag k='name:ko' v='군청앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634024' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.379547' lon='128.46548'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='상리' />
+    <tag k='name:ko' v='상리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634025' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.380814' lon='128.463106'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='간성차고지' />
+    <tag k='name:ko' v='간성차고지' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634026' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.381313' lon='128.445065'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리' />
+    <tag k='name:ko' v='교동리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634027' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.381375' lon='128.445489'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리' />
+    <tag k='name:ko' v='교동리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634028' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.3787' lon='128.441502'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동' />
+    <tag k='name:ko' v='교동' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634029' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.378401' lon='128.441482'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리' />
+    <tag k='name:ko' v='교동리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634030' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377584' lon='128.438545'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='향교' />
+    <tag k='name:ko' v='향교' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634031' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.37752' lon='128.436893'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리' />
+    <tag k='name:ko' v='교동리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634032' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377022' lon='128.429785'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리' />
+    <tag k='name:ko' v='교동리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634033' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377421' lon='128.423753'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산4리' />
+    <tag k='name:ko' v='광산4리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634034' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.375694' lon='128.415994'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634035' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.37418' lon='128.41394'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634036' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.373032' lon='128.411951'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634037' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.373355' lon='128.398155'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634038' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.372822' lon='128.395606'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산2리' />
+    <tag k='name:ko' v='광산2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634039' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.369245' lon='128.388728'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산2리' />
+    <tag k='name:ko' v='광산2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634040' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.356333' lon='128.382279'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신리.수동파출소입구' />
+    <tag k='name:ko' v='장신리.수동파출소입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634041' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.351646' lon='128.381699'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신1리' />
+    <tag k='name:ko' v='장신1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634042' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.334084' lon='128.377836'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신2리' />
+    <tag k='name:ko' v='장신2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634043' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.292059' lon='128.363703'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='진부리' />
+    <tag k='name:ko' v='진부리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634044' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.262997' lon='128.375762'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘1리종점' />
+    <tag k='name:ko' v='흘1리종점' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634045' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.264492' lon='128.37411'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘1리.알프스스키장' />
+    <tag k='name:ko' v='흘1리.알프스스키장' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634046' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.265237' lon='128.373389'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='흘1리.알프스스키장' />
+    <tag k='name:ko' v='흘1리.알프스스키장' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634047' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.292072' lon='128.363622'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='진부리' />
+    <tag k='name:ko' v='진부리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634048' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.333767' lon='128.377661'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신리유원지앞' />
+    <tag k='name:ko' v='장신리유원지앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634049' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.356331' lon='128.382034'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장신리.수동파출소입구' />
+    <tag k='name:ko' v='장신리.수동파출소입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634050' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.365547' lon='128.387542'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산2리.서잠' />
+    <tag k='name:ko' v='광산2리.서잠' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634051' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.369' lon='128.388501'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산2리' />
+    <tag k='name:ko' v='광산2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634052' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.372896' lon='128.395339'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산2리' />
+    <tag k='name:ko' v='광산2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634053' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.373502' lon='128.398082'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634054' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377665' lon='128.423405'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산4리' />
+    <tag k='name:ko' v='광산4리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634055' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377141' lon='128.429512'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리' />
+    <tag k='name:ko' v='교동리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634056' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.368184' lon='128.430402'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='어천2리' />
+    <tag k='name:ko' v='어천2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634057' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.364705' lon='128.428055'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='어천2리' />
+    <tag k='name:ko' v='어천2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634058' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.37345' lon='128.412621'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634059' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.3742' lon='128.413706'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='광산1리' />
+    <tag k='name:ko' v='광산1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634060' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.387627' lon='128.416609'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상1리' />
+    <tag k='name:ko' v='해상1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634061' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.38793' lon='128.420134'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='해상리' />
+    <tag k='name:ko' v='해상리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634062' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.384927' lon='128.452958'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교동리대일가스앞' />
+    <tag k='name:ko' v='교동리대일가스앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634063' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.388504' lon='128.459994'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대대2리' />
+    <tag k='name:ko' v='대대2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634064' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.399611' lon='128.449271'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오정리' />
+    <tag k='name:ko' v='오정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634065' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.395492' lon='128.443107'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초계리' />
+    <tag k='name:ko' v='초계리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634066' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.395875' lon='128.43781'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초계리' />
+    <tag k='name:ko' v='초계리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634067' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.397468' lon='128.432671'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초계리' />
+    <tag k='name:ko' v='초계리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634068' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.409569' lon='128.425304'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='석문리종점' />
+    <tag k='name:ko' v='석문리종점' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634069' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.395939' lon='128.436514'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초계리' />
+    <tag k='name:ko' v='초계리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634070' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.395534' lon='128.442978'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초계리' />
+    <tag k='name:ko' v='초계리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634071' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.399621' lon='128.449096'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오정리입구' />
+    <tag k='name:ko' v='오정리입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634072' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.391656' lon='128.461087'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대대1리' />
+    <tag k='name:ko' v='대대1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634073' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.399301' lon='128.467826'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송죽리' />
+    <tag k='name:ko' v='송죽리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634074' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.409474' lon='128.467537'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송죽리' />
+    <tag k='name:ko' v='송죽리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634075' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.418242' lon='128.464562'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='반암리부대입구' />
+    <tag k='name:ko' v='반암리부대입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634076' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.429203' lon='128.456928'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포2리' />
+    <tag k='name:ko' v='송포2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634077' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.433075' lon='128.45258'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포2리' />
+    <tag k='name:ko' v='송포2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634078' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.435794' lon='128.449706'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포1리' />
+    <tag k='name:ko' v='송포1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634079' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.435844' lon='128.449476'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포1리' />
+    <tag k='name:ko' v='송포1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634080' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.440683' lon='128.444273'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송정리입구' />
+    <tag k='name:ko' v='송정리입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634081' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441544' lon='128.434553'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉평리' />
+    <tag k='name:ko' v='봉평리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634082' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441571' lon='128.425178'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송정리' />
+    <tag k='name:ko' v='송정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634083' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441019' lon='128.423728'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송정리' />
+    <tag k='name:ko' v='송정리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634084' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.439294' lon='128.405728'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송강리' />
+    <tag k='name:ko' v='송강리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634085' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.437992' lon='128.402347'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송강리' />
+    <tag k='name:ko' v='송강리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634086' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.437915' lon='128.399437'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송강리' />
+    <tag k='name:ko' v='송강리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634087' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.449693' lon='128.399474'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용하리' />
+    <tag k='name:ko' v='용하리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634088' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.45414' lon='128.395922'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='산북리' />
+    <tag k='name:ko' v='산북리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634089' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.439016' lon='128.446101'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자산리' />
+    <tag k='name:ko' v='자산리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634090' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.446409' lon='128.442955'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉평리' />
+    <tag k='name:ko' v='봉평리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634091' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.462188' lon='128.423029'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='죽정2리' />
+    <tag k='name:ko' v='죽정2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634092' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.486592' lon='128.394527'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화곡리' />
+    <tag k='name:ko' v='화곡리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634093' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.492181' lon='128.393816'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화곡리' />
+    <tag k='name:ko' v='화곡리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634094' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.507073' lon='128.393712'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마달리' />
+    <tag k='name:ko' v='마달리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634095' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.509465' lon='128.394133'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마달리' />
+    <tag k='name:ko' v='마달리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634096' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.524629' lon='128.398453'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='배봉리종점' />
+    <tag k='name:ko' v='배봉리종점' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634097' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.486702' lon='128.394546'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화곡리' />
+    <tag k='name:ko' v='화곡리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634098' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.483427' lon='128.428435'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화진포만남의광장' />
+    <tag k='name:ko' v='화진포만남의광장' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634099' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.484925' lon='128.432015'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진중고앞' />
+    <tag k='name:ko' v='대진중고앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634100' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.487158' lon='128.432659'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초도1리' />
+    <tag k='name:ko' v='초도1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634101' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.507879' lon='128.420309'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마차진리' />
+    <tag k='name:ko' v='마차진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634102' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.52685' lon='128.406958'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='배봉리입구' />
+    <tag k='name:ko' v='배봉리입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634103' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.539459' lon='128.40166'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='명파리' />
+    <tag k='name:ko' v='명파리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634104' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.507793' lon='128.420516'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마차진리' />
+    <tag k='name:ko' v='마차진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634105' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.505169' lon='128.421848'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진1리' />
+    <tag k='name:ko' v='대진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634106' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.498586' lon='128.425231'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진초등학교' />
+    <tag k='name:ko' v='대진초등학교' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634107' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.495685' lon='128.427055'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진5리' />
+    <tag k='name:ko' v='대진5리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634108' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.49578' lon='128.427139'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진5리' />
+    <tag k='name:ko' v='대진5리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634109' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.49224' lon='128.428794'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초도2리' />
+    <tag k='name:ko' v='초도2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634110' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.492595' lon='128.428805'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='현내면사무소앞' />
+    <tag k='name:ko' v='현내면사무소앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634111' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.490126' lon='128.430083'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초도2리' />
+    <tag k='name:ko' v='초도2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634112' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.487171' lon='128.432775'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='초도1리' />
+    <tag k='name:ko' v='초도1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634113' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.484917' lon='128.4322'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대진중고앞' />
+    <tag k='name:ko' v='대진중고앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634114' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.483395' lon='128.428088'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화진포만남의광장앞' />
+    <tag k='name:ko' v='화진포만남의광장앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634115' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.461988' lon='128.422942'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='죽정2리' />
+    <tag k='name:ko' v='죽정2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634116' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.446851' lon='128.442963'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진중학교 후문' />
+    <tag k='name:ko' v='거진중학교 후문' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634117' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.438652' lon='128.446699'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자산리' />
+    <tag k='name:ko' v='자산리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634118' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441395' lon='128.443056'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자산리.송정입구' />
+    <tag k='name:ko' v='자산리.송정입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634119' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.437732' lon='128.448585'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자산리' />
+    <tag k='name:ko' v='자산리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634120' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.437858' lon='128.448325'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자산리' />
+    <tag k='name:ko' v='자산리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634121' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.43882' lon='128.451193'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진정보공업고등학교' />
+    <tag k='name:ko' v='거진정보공업고등학교' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634122' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.438412' lon='128.450504'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진11리.동진아파트' />
+    <tag k='name:ko' v='거진11리.동진아파트' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634123' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.439693' lon='128.452139'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='고성문화센터거진읍행정복지센터' />
+    <tag k='name:ko' v='고성문화센터거진읍행정복지센터' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634124' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441343' lon='128.453042'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진11리' />
+    <tag k='name:ko' v='거진11리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634125' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.443772' lon='128.453445'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진10리' />
+    <tag k='name:ko' v='거진10리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634126' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.44605' lon='128.454649'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진8리' />
+    <tag k='name:ko' v='거진8리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634127' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.447795' lon='128.456583'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진신협' />
+    <tag k='name:ko' v='거진신협' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634128' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.448951' lon='128.458594'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='금강지구대앞' />
+    <tag k='name:ko' v='금강지구대앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634129' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.448637' lon='128.463136'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진1리' />
+    <tag k='name:ko' v='거진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634130' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.448128' lon='128.464565'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진1리' />
+    <tag k='name:ko' v='거진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634131' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.448532' lon='128.463092'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진등대입구' />
+    <tag k='name:ko' v='거진등대입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634132' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.449141' lon='128.459753'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진수협앞' />
+    <tag k='name:ko' v='거진수협앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634133' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.448583' lon='128.458131'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='금강지구대앞' />
+    <tag k='name:ko' v='금강지구대앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634134' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.447842' lon='128.456821'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진구읍사무소앞' />
+    <tag k='name:ko' v='거진구읍사무소앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634135' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.446332' lon='128.455133'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진시장입구' />
+    <tag k='name:ko' v='거진시장입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634136' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.444987' lon='128.454124'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진우체국' />
+    <tag k='name:ko' v='거진우체국' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634137' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.441398' lon='128.453201'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진소방서앞' />
+    <tag k='name:ko' v='거진소방서앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634138' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.439669' lon='128.452308'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='거진정보고' />
+    <tag k='name:ko' v='거진정보고' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634139' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.434749' lon='128.452431'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='고성문화센터거진읍행정복지센터' />
+    <tag k='name:ko' v='고성문화센터거진읍행정복지센터' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634140' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.435053' lon='128.452395'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='고성문화센터거진읍행정복지센터' />
+    <tag k='name:ko' v='고성문화센터거진읍행정복지센터' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634141' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.429289' lon='128.457015'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송포2리' />
+    <tag k='name:ko' v='송포2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634142' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.420351' lon='128.462305'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='반암리' />
+    <tag k='name:ko' v='반암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634143' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.418274' lon='128.464707'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='반암리부대입구' />
+    <tag k='name:ko' v='반암리부대입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634144' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.409031' lon='128.467746'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송죽리' />
+    <tag k='name:ko' v='송죽리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634145' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.399689' lon='128.468313'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송죽리' />
+    <tag k='name:ko' v='송죽리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634146' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.388162' lon='128.459947'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대대리' />
+    <tag k='name:ko' v='대대리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634147' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.377491' lon='128.484133'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='향목리.농공단지입구' />
+    <tag k='name:ko' v='향목리.농공단지입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634148' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.380276' lon='128.490567'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='향목리' />
+    <tag k='name:ko' v='향목리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634149' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.376453' lon='128.500004'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634150' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.372344' lon='128.502447'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634151' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.35378' lon='128.509681'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진1리' />
+    <tag k='name:ko' v='공현진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634152' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.354376' lon='128.510446'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진1리' />
+    <tag k='name:ko' v='공현진1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634153' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.355727' lon='128.509584'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진2리' />
+    <tag k='name:ko' v='공현진2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634154' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.357345' lon='128.508034'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진해수욕장앞' />
+    <tag k='name:ko' v='공현진해수욕장앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634155' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.36959' lon='128.509339'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634156' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.373091' lon='128.506901'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634157' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.373725' lon='128.506377'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634158' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.372264' lon='128.507643'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634159' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.369639' lon='128.509426'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진리' />
+    <tag k='name:ko' v='가진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634160' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.367692' lon='128.509856'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='가진항입구' />
+    <tag k='name:ko' v='가진항입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634161' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.355605' lon='128.510035'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진2리' />
+    <tag k='name:ko' v='공현진2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634162' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.349426' lon='128.509588'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='공현진' />
+    <tag k='name:ko' v='공현진' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634163' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.347038' lon='128.510224'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오봉리.왕곡마을입구' />
+    <tag k='name:ko' v='오봉리.왕곡마을입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634164' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.328825' lon='128.524549'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오호리' />
+    <tag k='name:ko' v='오호리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634165' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.325687' lon='128.525464'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오호리' />
+    <tag k='name:ko' v='오호리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634166' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.320465' lon='128.527366'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼포리.군인관사앞' />
+    <tag k='name:ko' v='삼포리.군인관사앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634167' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.316322' lon='128.530659'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼포리' />
+    <tag k='name:ko' v='삼포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634168' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.314005' lon='128.532895'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼포리.오호초교앞' />
+    <tag k='name:ko' v='삼포리.오호초교앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634169' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.305968' lon='128.536929'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='송암리' />
+    <tag k='name:ko' v='송암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634170' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.303683' lon='128.538874'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문암리' />
+    <tag k='name:ko' v='문암리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634171' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.294415' lon='128.544338'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문암2리.동광산업과학고' />
+    <tag k='name:ko' v='문암2리.동광산업과학고' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634172' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.292181' lon='128.545282'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교암1리' />
+    <tag k='name:ko' v='교암1리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634173' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.289023' lon='128.546672'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교암2리.천학정입구' />
+    <tag k='name:ko' v='교암2리.천학정입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634174' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.276259' lon='128.549736'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진2리' />
+    <tag k='name:ko' v='아야진2리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634175' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.273385' lon='128.548347'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진초교앞' />
+    <tag k='name:ko' v='아야진초교앞' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634176' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.270409' lon='128.550129'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아야진5리' />
+    <tag k='name:ko' v='아야진5리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634177' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.273423' lon='128.555597'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='토성농협' />
+    <tag k='name:ko' v='토성농협' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634178' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.266963' lon='128.554786'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청간리.아야진항입구' />
+    <tag k='name:ko' v='청간리.아야진항입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634179' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.259695' lon='128.556119'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='천진리' />
+    <tag k='name:ko' v='천진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634180' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.259625' lon='128.556533'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='천진리' />
+    <tag k='name:ko' v='천진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634181' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.258103' lon='128.558418'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='천진리' />
+    <tag k='name:ko' v='천진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634182' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.258546' lon='128.558108'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='천진리' />
+    <tag k='name:ko' v='천진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634183' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.256357' lon='128.560392'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='천진리' />
+    <tag k='name:ko' v='천진리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634184' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.256919' lon='128.559978'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='천진해수욕장입구' />
+    <tag k='name:ko' v='천진해수욕장입구' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634185' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.25276' lon='128.562074'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634186' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.250586' lon='128.556906'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='경동대학교' />
+    <tag k='name:ko' v='경동대학교' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634187' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.253692' lon='128.562878'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634188' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.25303' lon='128.564718'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634189' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.252394' lon='128.565623'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634190' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.249573' lon='128.567034'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리' />
+    <tag k='name:ko' v='봉포리' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='9357634191' timestamp='2021-12-22T09:17:03Z' uid='12611025' user='LuxuryCoop_Import' visible='true' version='1' changeset='115243706' lat='38.24339' lon='128.569709'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉포리.구검문소' />
+    <tag k='name:ko' v='봉포리.구검문소' />
+    <tag k='public_transport' v='platform' />
+  </node>
+</osm>
