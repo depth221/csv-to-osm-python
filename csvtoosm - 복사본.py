@@ -2,9 +2,9 @@
 import sys
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
-csv_file_path = "강원도_홍천군_버스정류장_20201201.csv"
+csv_file_path = "충청북도 제천시_시내버스정류장현황_20200429"
 osm_file_path = csv_file_path + "osm"
-
+csv_file_path += "csv"
 
 csv_incoding = "utf-8" # set the incoding of csv file to read
 if len(sys.argv) == 3:
