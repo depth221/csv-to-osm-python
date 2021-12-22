@@ -1,0 +1,2474 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-214813' action='modify' visible='true' lat='38.16182' lon='127.21242'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도창리' />
+    <tag k='name:ko' v='도창리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320101' />
+  </node>
+  <node id='-214814' action='modify' visible='true' lat='38.16414' lon='127.2134'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='3초소' />
+    <tag k='name:ko' v='3초소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320301' />
+  </node>
+  <node id='-214815' action='modify' visible='true' lat='38.17002' lon='127.21922'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='물꾸미소대' />
+    <tag k='name:ko' v='물꾸미소대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320302' />
+  </node>
+  <node id='-214816' action='modify' visible='true' lat='38.17863' lon='127.22535'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='수색중대' />
+    <tag k='name:ko' v='수색중대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320304' />
+  </node>
+  <node id='-214845' action='modify' visible='true' lat='38.13748' lon='127.25818'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수4리' />
+    <tag k='name:ko' v='와수4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320247' />
+  </node>
+  <node id='-214846' action='modify' visible='true' lat='38.12846' lon='127.25488'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등1리(하송동)' />
+    <tag k='name:ko' v='자등1리(하송동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320291' />
+  </node>
+  <node id='-214847' action='modify' visible='true' lat='38.12294' lon='127.25198'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='중송동' />
+    <tag k='name:ko' v='중송동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320150' />
+  </node>
+  <node id='-214848' action='modify' visible='true' lat='38.11901' lon='127.25465'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등1리' />
+    <tag k='name:ko' v='자등1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320147' />
+  </node>
+  <node id='-214860' action='modify' visible='true' lat='38.09445' lon='127.24526'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양지말' />
+    <tag k='name:ko' v='양지말' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320155' />
+  </node>
+  <node id='-214863' action='modify' visible='true' lat='38.10918' lon='127.25111'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등2리(전자빔센터)' />
+    <tag k='name:ko' v='자등2리(전자빔센터)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320246' />
+  </node>
+  <node id='-214878' action='modify' visible='true' lat='38.15064' lon='127.28254'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신사곡' />
+    <tag k='name:ko' v='신사곡' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320116' />
+  </node>
+  <node id='-214879' action='modify' visible='true' lat='38.15173' lon='127.28411'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구은사' />
+    <tag k='name:ko' v='구은사' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320118' />
+  </node>
+  <node id='-214880' action='modify' visible='true' lat='38.16172' lon='127.29683'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='13초소' />
+    <tag k='name:ko' v='13초소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320312' />
+  </node>
+  <node id='-214891' action='modify' visible='true' lat='38.1639' lon='127.31518'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마현2리' />
+    <tag k='name:ko' v='마현2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320126' />
+  </node>
+  <node id='-214892' action='modify' visible='true' lat='38.16183' lon='127.29685'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='13초소' />
+    <tag k='name:ko' v='13초소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320313' />
+  </node>
+  <node id='-214893' action='modify' visible='true' lat='38.15172' lon='127.28464'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구은사' />
+    <tag k='name:ko' v='구은사' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320117' />
+  </node>
+  <node id='-214894' action='modify' visible='true' lat='38.15061' lon='127.28241'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신사곡' />
+    <tag k='name:ko' v='신사곡' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320115' />
+  </node>
+  <node id='-214909' action='modify' visible='true' lat='38.12997' lon='127.28427'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문수동' />
+    <tag k='name:ko' v='문수동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320129' />
+  </node>
+  <node id='-214910' action='modify' visible='true' lat='38.12423' lon='127.28346'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='잠곡교회' />
+    <tag k='name:ko' v='잠곡교회' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320319' />
+  </node>
+  <node id='-214923' action='modify' visible='true' lat='38.13777' lon='127.28349'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='육단3리' />
+    <tag k='name:ko' v='육단3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320128' />
+  </node>
+  <node id='-214925' action='modify' visible='true' lat='38.14245' lon='127.2825'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='근남면사무소' />
+    <tag k='name:ko' v='근남면사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320251' />
+  </node>
+  <node id='-214926' action='modify' visible='true' lat='38.14361' lon='127.28175'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='근남초교' />
+    <tag k='name:ko' v='근남초교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320113' />
+  </node>
+  <node id='-214927' action='modify' visible='true' lat='38.14418' lon='127.28075'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='육단1리' />
+    <tag k='name:ko' v='육단1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320253' />
+  </node>
+  <node id='-214941' action='modify' visible='true' lat='38.16032' lon='127.2127'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도창초등학교' />
+    <tag k='name:ko' v='도창초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320298' />
+  </node>
+  <node id='-214943' action='modify' visible='true' lat='38.16179' lon='127.21227'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도창리' />
+    <tag k='name:ko' v='도창리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320102' />
+  </node>
+  <node id='-214944' action='modify' visible='true' lat='38.16031' lon='127.2126'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도창초등학교' />
+    <tag k='name:ko' v='도창초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320299' />
+  </node>
+  <node id='-214973' action='modify' visible='true' lat='38.11115' lon='127.18913'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜3리' />
+    <tag k='name:ko' v='문혜3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320189' />
+  </node>
+  <node id='-214989' action='modify' visible='true' lat='38.12672' lon='127.12971'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='철원중고등학교' />
+    <tag k='name:ko' v='철원중고등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320363' />
+  </node>
+  <node id='-214990' action='modify' visible='true' lat='38.12788' lon='127.12896'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='철원읍사무소' />
+    <tag k='name:ko' v='철원읍사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320274' />
+  </node>
+  <node id='-214991' action='modify' visible='true' lat='38.13001' lon='127.12743'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지4리' />
+    <tag k='name:ko' v='화지4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320035' />
+  </node>
+  <node id='-214992' action='modify' visible='true' lat='38.13108' lon='127.12673'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지9리' />
+    <tag k='name:ko' v='화지9리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320036' />
+  </node>
+  <node id='-215005' action='modify' visible='true' lat='38.11644' lon='127.16089'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥초등학교' />
+    <tag k='name:ko' v='장흥초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320195' />
+  </node>
+  <node id='-215006' action='modify' visible='true' lat='38.11534' lon='127.16579'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥4리' />
+    <tag k='name:ko' v='장흥4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320193' />
+  </node>
+  <node id='-215007' action='modify' visible='true' lat='38.11296' lon='127.17295'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='고석정' />
+    <tag k='name:ko' v='고석정' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320190' />
+  </node>
+  <node id='-215022' action='modify' visible='true' lat='38.12397' lon='127.13164'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평리' />
+    <tag k='name:ko' v='이평리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320346' />
+  </node>
+  <node id='-215023' action='modify' visible='true' lat='38.12292' lon='127.14189'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평6리' />
+    <tag k='name:ko' v='이평6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320046' />
+  </node>
+  <node id='-215024' action='modify' visible='true' lat='38.12493' lon='127.15095'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥3리(국방부사거리)' />
+    <tag k='name:ko' v='장흥3리(국방부사거리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320050' />
+  </node>
+  <node id='-215037' action='modify' visible='true' lat='38.1125' lon='127.19069'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='8736부대' />
+    <tag k='name:ko' v='8736부대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320342' />
+  </node>
+  <node id='-215038' action='modify' visible='true' lat='38.11088' lon='127.19236'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜사거리' />
+    <tag k='name:ko' v='문혜사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320172' />
+  </node>
+  <node id='-215039' action='modify' visible='true' lat='38.10868' lon='127.19461'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='승포회관' />
+    <tag k='name:ko' v='승포회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320327' />
+  </node>
+  <node id='-215040' action='modify' visible='true' lat='38.10651' lon='127.19635'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜3거리' />
+    <tag k='name:ko' v='문혜3거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320174' />
+  </node>
+  <node id='-215168' action='modify' visible='true' lat='38.11141' lon='127.2001'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜헌병사거리' />
+    <tag k='name:ko' v='문혜헌병사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320057' />
+  </node>
+  <node id='-215169' action='modify' visible='true' lat='38.12155' lon='127.20364'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='갈현고개' />
+    <tag k='name:ko' v='갈현고개' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320072' />
+  </node>
+  <node id='-215170' action='modify' visible='true' lat='38.13026' lon='127.20514'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='선돌' />
+    <tag k='name:ko' v='선돌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320074' />
+  </node>
+  <node id='-215171' action='modify' visible='true' lat='38.13458' lon='127.20634'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='불당천' />
+    <tag k='name:ko' v='불당천' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320076' />
+  </node>
+  <node id='-215173' action='modify' visible='true' lat='38.14111' lon='127.21022'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='지경리' />
+    <tag k='name:ko' v='지경리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320240' />
+  </node>
+  <node id='-215174' action='modify' visible='true' lat='38.14345' lon='127.21768'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='연동(청양2리)' />
+    <tag k='name:ko' v='연동(청양2리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320079' />
+  </node>
+  <node id='-215175' action='modify' visible='true' lat='38.14588' lon='127.22392'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양3리.청하마을' />
+    <tag k='name:ko' v='청양3리.청하마을' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320081' />
+  </node>
+  <node id='-215177' action='modify' visible='true' lat='38.14646' lon='127.2284'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양3리(수무정)' />
+    <tag k='name:ko' v='청양3리(수무정)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320085' />
+  </node>
+  <node id='-215179' action='modify' visible='true' lat='38.14769' lon='127.23458'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양4리' />
+    <tag k='name:ko' v='청양4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320088' />
+  </node>
+  <node id='-215181' action='modify' visible='true' lat='38.14906' lon='127.24374'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화농공단지' />
+    <tag k='name:ko' v='김화농공단지' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320092' />
+  </node>
+  <node id='-215182' action='modify' visible='true' lat='38.14922' lon='127.24668'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='체육공원' />
+    <tag k='name:ko' v='체육공원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320352' />
+  </node>
+  <node id='-215186' action='modify' visible='true' lat='38.1433' lon='127.2626'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수리' />
+    <tag k='name:ko' v='와수리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320249' />
+  </node>
+  <node id='-215213' action='modify' visible='true' lat='38.11903' lon='127.25477'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등1리' />
+    <tag k='name:ko' v='자등1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320146' />
+  </node>
+  <node id='-215214' action='modify' visible='true' lat='38.12288' lon='127.25205'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='중송동' />
+    <tag k='name:ko' v='중송동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320148' />
+  </node>
+  <node id='-215215' action='modify' visible='true' lat='38.12845736262' lon='127.25503067055'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등1리(하송동)' />
+    <tag k='name:ko' v='자등1리(하송동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320151' />
+  </node>
+  <node id='-215216' action='modify' visible='true' lat='38.13737' lon='127.25838'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수4리' />
+    <tag k='name:ko' v='와수4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320248' />
+  </node>
+  <node id='-215230' action='modify' visible='true' lat='38.11095' lon='127.19728'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='괸돌' />
+    <tag k='name:ko' v='괸돌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320350' />
+  </node>
+  <node id='-215231' action='modify' visible='true' lat='38.11086' lon='127.19997'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜헌병사거리' />
+    <tag k='name:ko' v='문혜헌병사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320353' />
+  </node>
+  <node id='-215232' action='modify' visible='true' lat='38.11009' lon='127.20811'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='토기교' />
+    <tag k='name:ko' v='토기교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320357' />
+  </node>
+  <node id='-215244' action='modify' visible='true' lat='38.10048' lon='127.2766'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도덕동' />
+    <tag k='name:ko' v='도덕동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320137' />
+  </node>
+  <node id='-215245' action='modify' visible='true' lat='38.10476' lon='127.27718'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구잠곡초교' />
+    <tag k='name:ko' v='구잠곡초교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320323' />
+  </node>
+  <node id='-215246' action='modify' visible='true' lat='38.10762' lon='127.27886'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='샘말' />
+    <tag k='name:ko' v='샘말' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320134' />
+  </node>
+  <node id='-215259' action='modify' visible='true' lat='38.08727' lon='127.18626'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신철원2리(우체국)' />
+    <tag k='name:ko' v='신철원2리(우체국)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320324' />
+  </node>
+  <node id='-215369' action='modify' visible='true' lat='38.09077' lon='127.13313'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대성목장' />
+    <tag k='name:ko' v='대성목장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320217' />
+  </node>
+  <node id='-215373' action='modify' visible='true' lat='38.11261' lon='127.1385'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지2리생활체육공원' />
+    <tag k='name:ko' v='오지2리생활체육공원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320385' />
+  </node>
+  <node id='-215374' action='modify' visible='true' lat='38.11726' lon='127.13564'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평1리' />
+    <tag k='name:ko' v='이평1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320214' />
+  </node>
+  <node id='-215381' action='modify' visible='true' lat='38.1172' lon='127.13555'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평1리' />
+    <tag k='name:ko' v='이평1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320213' />
+  </node>
+  <node id='-215390' action='modify' visible='true' lat='38.10452' lon='127.14619'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지1리마을회관' />
+    <tag k='name:ko' v='오지1리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320208' />
+  </node>
+  <node id='-215391' action='modify' visible='true' lat='38.11549' lon='127.15336'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥1리' />
+    <tag k='name:ko' v='장흥1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320206' />
+  </node>
+  <node id='-215392' action='modify' visible='true' lat='38.11617' lon='127.15644'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장방산' />
+    <tag k='name:ko' v='장방산' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320202' />
+  </node>
+  <node id='-215394' action='modify' visible='true' lat='38.12258' lon='127.15102'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='농업기술센타' />
+    <tag k='name:ko' v='농업기술센타' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320390' />
+  </node>
+  <node id='-215398' action='modify' visible='true' lat='38.12312' lon='127.1444'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평6리' />
+    <tag k='name:ko' v='이평6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320048' />
+  </node>
+  <node id='-215401' action='modify' visible='true' lat='38.11623' lon='127.15647'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장방산' />
+    <tag k='name:ko' v='장방산' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320203' />
+  </node>
+  <node id='-215402' action='modify' visible='true' lat='38.1155' lon='127.15325'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥1리' />
+    <tag k='name:ko' v='장흥1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320205' />
+  </node>
+  <node id='-215405' action='modify' visible='true' lat='38.09798' lon='127.14581'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='상노1리' />
+    <tag k='name:ko' v='상노1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320224' />
+  </node>
+  <node id='-215406' action='modify' visible='true' lat='38.08609' lon='127.13159'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신교대' />
+    <tag k='name:ko' v='신교대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320220' />
+  </node>
+  <node id='-215407' action='modify' visible='true' lat='38.09074' lon='127.1332'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대성목장' />
+    <tag k='name:ko' v='대성목장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320218' />
+  </node>
+  <node id='-215408' action='modify' visible='true' lat='38.09382' lon='127.13504'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='상노2리입구' />
+    <tag k='name:ko' v='상노2리입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320389' />
+  </node>
+  <node id='-215409' action='modify' visible='true' lat='38.10075' lon='127.13473'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지3리' />
+    <tag k='name:ko' v='오지3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320216' />
+  </node>
+  <node id='-215410' action='modify' visible='true' lat='38.10903' lon='127.13399'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지3리마을회관' />
+    <tag k='name:ko' v='오지3리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320264' />
+  </node>
+  <node id='-215419' action='modify' visible='true' lat='38.12518' lon='127.13077'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='정한약국' />
+    <tag k='name:ko' v='정한약국' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320045' />
+  </node>
+  <node id='-215421' action='modify' visible='true' lat='38.12789' lon='127.13599'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='세륭아파트' />
+    <tag k='name:ko' v='세륭아파트' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320030' />
+  </node>
+  <node id='-215422' action='modify' visible='true' lat='38.13335' lon='127.13928'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양촌' />
+    <tag k='name:ko' v='양촌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320270' />
+  </node>
+  <node id='-215423' action='modify' visible='true' lat='38.12779' lon='127.14661'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕3리(주다리)' />
+    <tag k='name:ko' v='오덕3리(주다리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320029' />
+  </node>
+  <node id='-215449' action='modify' visible='true' lat='38.09029' lon='127.18463'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='길병원' />
+    <tag k='name:ko' v='길병원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320181' />
+  </node>
+  <node id='-215453' action='modify' visible='true' lat='38.10137' lon='127.19164'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜4리(윗삼성리)' />
+    <tag k='name:ko' v='문혜4리(윗삼성리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320237' />
+  </node>
+  <node id='-215469' action='modify' visible='true' lat='38.1278' lon='127.14669'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕3리(주다리)' />
+    <tag k='name:ko' v='오덕3리(주다리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320028' />
+  </node>
+  <node id='-215470' action='modify' visible='true' lat='38.13338' lon='127.13903'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양촌' />
+    <tag k='name:ko' v='양촌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320271' />
+  </node>
+  <node id='-215487' action='modify' visible='true' lat='38.11126' lon='127.1891'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜3리' />
+    <tag k='name:ko' v='문혜3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320188' />
+  </node>
+  <node id='-215501' action='modify' visible='true' lat='38.12587' lon='127.13118'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동송시장' />
+    <tag k='name:ko' v='동송시장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320269' />
+  </node>
+  <node id='-215517' action='modify' visible='true' lat='38.11161' lon='127.18127'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='승일공원' />
+    <tag k='name:ko' v='승일공원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320329' />
+  </node>
+  <node id='-215518' action='modify' visible='true' lat='38.11305' lon='127.17296'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='고석정' />
+    <tag k='name:ko' v='고석정' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320191' />
+  </node>
+  <node id='-215519' action='modify' visible='true' lat='38.11543' lon='127.16585'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥4리' />
+    <tag k='name:ko' v='장흥4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320192' />
+  </node>
+  <node id='-215527' action='modify' visible='true' lat='38.1337' lon='127.13926'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양촌' />
+    <tag k='name:ko' v='양촌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320339' />
+  </node>
+  <node id='-215528' action='modify' visible='true' lat='38.13614' lon='127.13054'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학저수지' />
+    <tag k='name:ko' v='학저수지' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320008' />
+  </node>
+  <node id='-215529' action='modify' visible='true' lat='38.13775' lon='127.12786'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='미곡처리장' />
+    <tag k='name:ko' v='미곡처리장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320338' />
+  </node>
+  <node id='-215530' action='modify' visible='true' lat='38.13513' lon='127.12638'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지10리' />
+    <tag k='name:ko' v='화지10리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320040' />
+  </node>
+  <node id='-215531' action='modify' visible='true' lat='38.13333' lon='127.12618'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지5리' />
+    <tag k='name:ko' v='화지5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320041' />
+  </node>
+  <node id='-215532' action='modify' visible='true' lat='38.13109' lon='127.12658'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지9리' />
+    <tag k='name:ko' v='화지9리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320037' />
+  </node>
+  <node id='-215533' action='modify' visible='true' lat='38.12997' lon='127.12734'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지4리' />
+    <tag k='name:ko' v='화지4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320043' />
+  </node>
+  <node id='-215534' action='modify' visible='true' lat='38.12783' lon='127.12884'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='철원읍사무소' />
+    <tag k='name:ko' v='철원읍사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320034' />
+  </node>
+  <node id='-215535' action='modify' visible='true' lat='38.12669' lon='127.1296'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='철원중고등학교' />
+    <tag k='name:ko' v='철원중고등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320364' />
+  </node>
+  <node id='-215549' action='modify' visible='true' lat='38.11101' lon='127.19252'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜사거리' />
+    <tag k='name:ko' v='문혜사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320173' />
+  </node>
+  <node id='-215550' action='modify' visible='true' lat='38.11259' lon='127.19082'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='8736부대' />
+    <tag k='name:ko' v='8736부대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320341' />
+  </node>
+  <node id='-215551' action='modify' visible='true' lat='38.11574' lon='127.18705'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜3리' />
+    <tag k='name:ko' v='문혜3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320068' />
+  </node>
+  <node id='-215552' action='modify' visible='true' lat='38.11657' lon='127.18517'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='독박골' />
+    <tag k='name:ko' v='독박골' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320066' />
+  </node>
+  <node id='-215562' action='modify' visible='true' lat='38.12296' lon='127.14193'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평6리' />
+    <tag k='name:ko' v='이평6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320047' />
+  </node>
+  <node id='-215563' action='modify' visible='true' lat='38.12405' lon='127.13162'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평리' />
+    <tag k='name:ko' v='이평리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320345' />
+  </node>
+  <node id='-215566' action='modify' visible='true' lat='38.14346' lon='127.26269'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수리' />
+    <tag k='name:ko' v='와수리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320281' />
+  </node>
+  <node id='-215567' action='modify' visible='true' lat='38.14575' lon='127.25949'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화여중고' />
+    <tag k='name:ko' v='김화여중고' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320109' />
+  </node>
+  <node id='-215568' action='modify' visible='true' lat='38.1484' lon='127.2524'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학사리' />
+    <tag k='name:ko' v='학사리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320250' />
+  </node>
+  <node id='-215577' action='modify' visible='true' lat='38.14592' lon='127.2239'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양3리.청하마을' />
+    <tag k='name:ko' v='청양3리.청하마을' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320082' />
+  </node>
+  <node id='-215578' action='modify' visible='true' lat='38.14356' lon='127.21768'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='연동(청양2리)' />
+    <tag k='name:ko' v='연동(청양2리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320080' />
+  </node>
+  <node id='-215579' action='modify' visible='true' lat='38.14118' lon='127.20999'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='지경리' />
+    <tag k='name:ko' v='지경리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320239' />
+  </node>
+  <node id='-215580' action='modify' visible='true' lat='38.13799' lon='127.20851'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='2567부대' />
+    <tag k='name:ko' v='2567부대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320395' />
+  </node>
+  <node id='-215581' action='modify' visible='true' lat='38.13468' lon='127.20617'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='불당천' />
+    <tag k='name:ko' v='불당천' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320077' />
+  </node>
+  <node id='-215582' action='modify' visible='true' lat='38.13031' lon='127.20497'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='선돌' />
+    <tag k='name:ko' v='선돌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320075' />
+  </node>
+  <node id='-215583' action='modify' visible='true' lat='38.12158' lon='127.20359'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='갈현고개' />
+    <tag k='name:ko' v='갈현고개' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320073' />
+  </node>
+  <node id='-215584' action='modify' visible='true' lat='38.11141' lon='127.19992'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜헌병사거리' />
+    <tag k='name:ko' v='문혜헌병사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320069' />
+  </node>
+  <node id='-215598' action='modify' visible='true' lat='38.14347' lon='127.26306'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수리' />
+    <tag k='name:ko' v='와수리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320393' />
+  </node>
+  <node id='-215599' action='modify' visible='true' lat='38.13878' lon='127.25964'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수4리(구변동)' />
+    <tag k='name:ko' v='와수4리(구변동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320153' />
+  </node>
+  <node id='-215613' action='modify' visible='true' lat='38.11214' lon='127.21862'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자비원' />
+    <tag k='name:ko' v='자비원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320168' />
+  </node>
+  <node id='-215614' action='modify' visible='true' lat='38.11165' lon='127.21533'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='연대앞' />
+    <tag k='name:ko' v='연대앞' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320170' />
+  </node>
+  <node id='-215615' action='modify' visible='true' lat='38.1107' lon='127.21299'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동양레미콘' />
+    <tag k='name:ko' v='동양레미콘' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320355' />
+  </node>
+  <node id='-215631' action='modify' visible='true' lat='38.15132' lon='127.27222'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수5리' />
+    <tag k='name:ko' v='와수5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320111' />
+  </node>
+  <node id='-215632' action='modify' visible='true' lat='38.14573' lon='127.27856'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='사곡1리' />
+    <tag k='name:ko' v='사곡1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320310' />
+  </node>
+  <node id='-215645' action='modify' visible='true' lat='38.09974' lon='127.25581'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='사단골' />
+    <tag k='name:ko' v='사단골' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320138' />
+  </node>
+  <node id='-215646' action='modify' visible='true' lat='38.0999' lon='127.2537'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼성아파트' />
+    <tag k='name:ko' v='삼성아파트' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320254' />
+  </node>
+  <node id='-215647' action='modify' visible='true' lat='38.0999' lon='127.24829'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등3리(자등치안센터)' />
+    <tag k='name:ko' v='자등3리(자등치안센터)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320244' />
+  </node>
+  <node id='-215648' action='modify' visible='true' lat='38.0988' lon='127.24712'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신술리.자등4리' />
+    <tag k='name:ko' v='신술리.자등4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320141' />
+  </node>
+  <node id='-215677' action='modify' visible='true' lat='38.15124' lon='127.23225'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양아파트' />
+    <tag k='name:ko' v='청양아파트' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320283' />
+  </node>
+  <node id='-215678' action='modify' visible='true' lat='38.15017' lon='127.22539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양6리' />
+    <tag k='name:ko' v='청양6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320099' />
+  </node>
+  <node id='-215679' action='modify' visible='true' lat='38.1499' lon='127.21246'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동송레미콘' />
+    <tag k='name:ko' v='동송레미콘' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320294' />
+  </node>
+  <node id='-215685' action='modify' visible='true' lat='38.18228' lon='127.23827'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='유곡리' />
+    <tag k='name:ko' v='유곡리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320103' />
+  </node>
+  <node id='-215686' action='modify' visible='true' lat='38.17865' lon='127.22521'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='수색중대' />
+    <tag k='name:ko' v='수색중대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320305' />
+  </node>
+  <node id='-215687' action='modify' visible='true' lat='38.17015' lon='127.21928'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='물꾸미소대' />
+    <tag k='name:ko' v='물꾸미소대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320303' />
+  </node>
+  <node id='-215688' action='modify' visible='true' lat='38.16419' lon='127.21326'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='3초소' />
+    <tag k='name:ko' v='3초소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320300' />
+  </node>
+  <node id='-215691' action='modify' visible='true' lat='38.14979' lon='127.2124'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동송레미콘' />
+    <tag k='name:ko' v='동송레미콘' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320295' />
+  </node>
+  <node id='-215692' action='modify' visible='true' lat='38.1501' lon='127.22542'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양6리' />
+    <tag k='name:ko' v='청양6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320100' />
+  </node>
+  <node id='-215693' action='modify' visible='true' lat='38.1511' lon='127.23229'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양아파트' />
+    <tag k='name:ko' v='청양아파트' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320098' />
+  </node>
+  <node id='-215694' action='modify' visible='true' lat='38.15135' lon='127.23594'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='연대앞' />
+    <tag k='name:ko' v='연대앞' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320292' />
+  </node>
+  <node id='-215695' action='modify' visible='true' lat='38.15136' lon='127.24264'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학사4리' />
+    <tag k='name:ko' v='학사4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320097' />
+  </node>
+  <node id='-215696' action='modify' visible='true' lat='38.15119' lon='127.24845'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화초등학교' />
+    <tag k='name:ko' v='김화초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320095' />
+  </node>
+  <node id='-215704' action='modify' visible='true' lat='38.16867' lon='127.27103'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='생창리마을회관' />
+    <tag k='name:ko' v='생창리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320104' />
+  </node>
+  <node id='-215705' action='modify' visible='true' lat='38.17223' lon='127.27247'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='생창리' />
+    <tag k='name:ko' v='생창리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320241' />
+  </node>
+  <node id='-215706' action='modify' visible='true' lat='38.16869' lon='127.27094'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='생창리마을회관' />
+    <tag k='name:ko' v='생창리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320105' />
+  </node>
+  <node id='-215718' action='modify' visible='true' lat='38.11406' lon='127.25383'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등2리' />
+    <tag k='name:ko' v='자등2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320145' />
+  </node>
+  <node id='-215723' action='modify' visible='true' lat='38.09448' lon='127.24515'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양지말' />
+    <tag k='name:ko' v='양지말' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320154' />
+  </node>
+  <node id='-215724' action='modify' visible='true' lat='38.08765' lon='127.24366'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='음지말' />
+    <tag k='name:ko' v='음지말' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320156' />
+  </node>
+  <node id='-215725' action='modify' visible='true' lat='38.08385' lon='127.24213'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='병참부' />
+    <tag k='name:ko' v='병참부' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320309' />
+  </node>
+  <node id='-215726' action='modify' visible='true' lat='38.08008' lon='127.24305'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도계(장명동)' />
+    <tag k='name:ko' v='도계(장명동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320158' />
+  </node>
+  <node id='-215727' action='modify' visible='true' lat='38.08388' lon='127.24237'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='병참부' />
+    <tag k='name:ko' v='병참부' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320308' />
+  </node>
+  <node id='-215728' action='modify' visible='true' lat='38.08763' lon='127.24377'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='음지말' />
+    <tag k='name:ko' v='음지말' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320157' />
+  </node>
+  <node id='-215740' action='modify' visible='true' lat='38.13873' lon='127.25978'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수4리(구변동)' />
+    <tag k='name:ko' v='와수4리(구변동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320152' />
+  </node>
+  <node id='-215741' action='modify' visible='true' lat='38.14335' lon='127.26308'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수리' />
+    <tag k='name:ko' v='와수리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320392' />
+  </node>
+  <node id='-215742' action='modify' visible='true' lat='38.14476' lon='127.2637'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수리차고지' />
+    <tag k='name:ko' v='와수리차고지' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320110' />
+  </node>
+  <node id='-215751' action='modify' visible='true' lat='38.16284' lon='127.31539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마현2리' />
+    <tag k='name:ko' v='마현2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320119' />
+  </node>
+  <node id='-215752' action='modify' visible='true' lat='38.16383' lon='127.31522'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마현2리' />
+    <tag k='name:ko' v='마현2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320231' />
+  </node>
+  <node id='-215753' action='modify' visible='true' lat='38.16465' lon='127.32494'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마현1리' />
+    <tag k='name:ko' v='마현1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320120' />
+  </node>
+  <node id='-215754' action='modify' visible='true' lat='38.16311' lon='127.32583'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마현1리' />
+    <tag k='name:ko' v='마현1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320121' />
+  </node>
+  <node id='-215755' action='modify' visible='true' lat='38.16425' lon='127.33098'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='6685부대' />
+    <tag k='name:ko' v='6685부대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320122' />
+  </node>
+  <node id='-215756' action='modify' visible='true' lat='38.16139' lon='127.33965'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='52초소' />
+    <tag k='name:ko' v='52초소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320124' />
+  </node>
+  <node id='-215757' action='modify' visible='true' lat='38.15356' lon='127.34859'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='38연대' />
+    <tag k='name:ko' v='38연대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320234' />
+  </node>
+  <node id='-215758' action='modify' visible='true' lat='38.16148' lon='127.33965'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='52초소' />
+    <tag k='name:ko' v='52초소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320125' />
+  </node>
+  <node id='-215759' action='modify' visible='true' lat='38.16431' lon='127.33105'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='6685부대' />
+    <tag k='name:ko' v='6685부대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320123' />
+  </node>
+  <node id='-215760' action='modify' visible='true' lat='38.16477' lon='127.32494'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마현1리' />
+    <tag k='name:ko' v='마현1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320230' />
+  </node>
+  <node id='-215773' action='modify' visible='true' lat='38.14405' lon='127.28058'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='육단1리' />
+    <tag k='name:ko' v='육단1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320252' />
+  </node>
+  <node id='-215774' action='modify' visible='true' lat='38.14355' lon='127.28174'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='근남초교' />
+    <tag k='name:ko' v='근남초교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320114' />
+  </node>
+  <node id='-215775' action='modify' visible='true' lat='38.14242' lon='127.28231'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='근남면사무소' />
+    <tag k='name:ko' v='근남면사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320280' />
+  </node>
+  <node id='-215776' action='modify' visible='true' lat='38.14009' lon='127.28324'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='필승회관' />
+    <tag k='name:ko' v='필승회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320314' />
+  </node>
+  <node id='-215785' action='modify' visible='true' lat='38.09136' lon='127.27802'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='방화동' />
+    <tag k='name:ko' v='방화동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320135' />
+  </node>
+  <node id='-215789' action='modify' visible='true' lat='38.12082' lon='127.28143'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='매월대폭포' />
+    <tag k='name:ko' v='매월대폭포' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320132' />
+  </node>
+  <node id='-215790' action='modify' visible='true' lat='38.12415' lon='127.2836'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='잠곡교회' />
+    <tag k='name:ko' v='잠곡교회' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320318' />
+  </node>
+  <node id='-215791' action='modify' visible='true' lat='38.12995' lon='127.28436'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문수동' />
+    <tag k='name:ko' v='문수동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320130' />
+  </node>
+  <node id='-215792' action='modify' visible='true' lat='38.13513' lon='127.28468'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내수동교회' />
+    <tag k='name:ko' v='내수동교회' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320317' />
+  </node>
+  <node id='-215805' action='modify' visible='true' lat='38.15124' lon='127.24851'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화초등학교' />
+    <tag k='name:ko' v='김화초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320094' />
+  </node>
+  <node id='-215806' action='modify' visible='true' lat='38.15144' lon='127.24264'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학사4리' />
+    <tag k='name:ko' v='학사4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320096' />
+  </node>
+  <node id='-215807' action='modify' visible='true' lat='38.15153' lon='127.23594'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='연대앞' />
+    <tag k='name:ko' v='연대앞' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320293' />
+  </node>
+  <node id='-215821' action='modify' visible='true' lat='38.14953' lon='127.25148'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화읍사무소' />
+    <tag k='name:ko' v='김화읍사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320106' />
+  </node>
+  <node id='-215822' action='modify' visible='true' lat='38.14834' lon='127.2523'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학사리' />
+    <tag k='name:ko' v='학사리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320282' />
+  </node>
+  <node id='-215823' action='modify' visible='true' lat='38.14566' lon='127.25945'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화여중고' />
+    <tag k='name:ko' v='김화여중고' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320108' />
+  </node>
+  <node id='-215837' action='modify' visible='true' lat='38.11807' lon='127.15874'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥2리(새마을주유소)' />
+    <tag k='name:ko' v='장흥2리(새마을주유소)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320261' />
+  </node>
+  <node id='-215838' action='modify' visible='true' lat='38.11715' lon='127.15949'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장방산입구' />
+    <tag k='name:ko' v='장방산입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320197' />
+  </node>
+  <node id='-215864' action='modify' visible='true' lat='38.13768' lon='127.12781'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='미곡처리장' />
+    <tag k='name:ko' v='미곡처리장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320337' />
+  </node>
+  <node id='-215865' action='modify' visible='true' lat='38.13609' lon='127.13047'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='학저수지' />
+    <tag k='name:ko' v='학저수지' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320007' />
+  </node>
+  <node id='-215866' action='modify' visible='true' lat='38.13362' lon='127.13924'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양촌' />
+    <tag k='name:ko' v='양촌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320340' />
+  </node>
+  <node id='-215869' action='modify' visible='true' lat='38.12414' lon='127.15275'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='직탕입구' />
+    <tag k='name:ko' v='직탕입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320201' />
+  </node>
+  <node id='-215870' action='modify' visible='true' lat='38.12314' lon='127.15459'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥3리마을회관' />
+    <tag k='name:ko' v='장흥3리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320331' />
+  </node>
+  <node id='-215871' action='modify' visible='true' lat='38.1215' lon='127.1562'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥3리' />
+    <tag k='name:ko' v='장흥3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320199' />
+  </node>
+  <node id='-215897' action='modify' visible='true' lat='38.12526' lon='127.16544'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='중간상사리' />
+    <tag k='name:ko' v='중간상사리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320056' />
+  </node>
+  <node id='-215901' action='modify' visible='true' lat='38.12464' lon='127.17769'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내대리' />
+    <tag k='name:ko' v='내대리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320059' />
+  </node>
+  <node id='-215902' action='modify' visible='true' lat='38.12199' lon='127.17942'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내대보건진료소' />
+    <tag k='name:ko' v='내대보건진료소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320062' />
+  </node>
+  <node id='-215903' action='modify' visible='true' lat='38.11981' lon='127.18125'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내대리입구(시라리)' />
+    <tag k='name:ko' v='내대리입구(시라리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320063' />
+  </node>
+  <node id='-215904' action='modify' visible='true' lat='38.11648' lon='127.18506'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='독박골' />
+    <tag k='name:ko' v='독박골' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320065' />
+  </node>
+  <node id='-215933' action='modify' visible='true' lat='38.11652' lon='127.16099'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥초등학교' />
+    <tag k='name:ko' v='장흥초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320194' />
+  </node>
+  <node id='-215934' action='modify' visible='true' lat='38.1172' lon='127.15961'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장방산입구' />
+    <tag k='name:ko' v='장방산입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320196' />
+  </node>
+  <node id='-215949' action='modify' visible='true' lat='38.08708' lon='127.18518'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신철원터미널' />
+    <tag k='name:ko' v='신철원터미널' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320290' />
+  </node>
+  <node id='-215965' action='modify' visible='true' lat='38.11819' lon='127.1589'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥2리(새마을주유소)' />
+    <tag k='name:ko' v='장흥2리(새마을주유소)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320260' />
+  </node>
+  <node id='-215966' action='modify' visible='true' lat='38.12154' lon='127.15634'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥3리' />
+    <tag k='name:ko' v='장흥3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320198' />
+  </node>
+  <node id='-215997' action='modify' visible='true' lat='38.12466' lon='127.17781'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내대리' />
+    <tag k='name:ko' v='내대리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320060' />
+  </node>
+  <node id='-215998' action='modify' visible='true' lat='38.12585' lon='127.17125'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아랫상사리' />
+    <tag k='name:ko' v='아랫상사리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320279' />
+  </node>
+  <node id='-215999' action='modify' visible='true' lat='38.13033' lon='127.16149'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='윗상사리' />
+    <tag k='name:ko' v='윗상사리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320052' />
+  </node>
+  <node id='-216025' action='modify' visible='true' lat='38.14678' lon='127.17914'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신동막' />
+    <tag k='name:ko' v='신동막' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320256' />
+  </node>
+  <node id='-216026' action='modify' visible='true' lat='38.14618' lon='127.17177'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동막리' />
+    <tag k='name:ko' v='동막리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320058' />
+  </node>
+  <node id='-216029' action='modify' visible='true' lat='38.13445' lon='127.16006'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='8127부대' />
+    <tag k='name:ko' v='8127부대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320054' />
+  </node>
+  <node id='-216030' action='modify' visible='true' lat='38.12524' lon='127.16539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='중간상사리' />
+    <tag k='name:ko' v='중간상사리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320055' />
+  </node>
+  <node id='-216031' action='modify' visible='true' lat='38.12562' lon='127.17125'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='아랫상사리' />
+    <tag k='name:ko' v='아랫상사리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320278' />
+  </node>
+  <node id='-216061' action='modify' visible='true' lat='38.11983' lon='127.18134'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내대리입구(시라리)' />
+    <tag k='name:ko' v='내대리입구(시라리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320064' />
+  </node>
+  <node id='-216062' action='modify' visible='true' lat='38.12205' lon='127.17948'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내대보건진료소' />
+    <tag k='name:ko' v='내대보건진료소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320061' />
+  </node>
+  <node id='-216089' action='modify' visible='true' lat='38.09472' lon='127.18618'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='군탄사거리' />
+    <tag k='name:ko' v='군탄사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320325' />
+  </node>
+  <node id='-216093' action='modify' visible='true' lat='38.10873' lon='127.19472'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='승포회관' />
+    <tag k='name:ko' v='승포회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320328' />
+  </node>
+  <node id='-216105' action='modify' visible='true' lat='38.11561' lon='127.18692'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜3리' />
+    <tag k='name:ko' v='문혜3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320067' />
+  </node>
+  <node id='-216133' action='modify' visible='true' lat='38.13798' lon='127.20862'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='2567부대' />
+    <tag k='name:ko' v='2567부대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320394' />
+  </node>
+  <node id='-216137' action='modify' visible='true' lat='38.14618' lon='127.22637'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양초등학교' />
+    <tag k='name:ko' v='청양초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320084' />
+  </node>
+  <node id='-216141' action='modify' visible='true' lat='38.14811' lon='127.23745'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양4리.만경동' />
+    <tag k='name:ko' v='청양4리.만경동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320090' />
+  </node>
+  <node id='-216153' action='modify' visible='true' lat='38.14955' lon='127.25158'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화읍사무소' />
+    <tag k='name:ko' v='김화읍사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320107' />
+  </node>
+  <node id='-216154' action='modify' visible='true' lat='38.14932' lon='127.24669'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='체육공원' />
+    <tag k='name:ko' v='체육공원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320351' />
+  </node>
+  <node id='-216155' action='modify' visible='true' lat='38.14913' lon='127.2437'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='김화농공단지' />
+    <tag k='name:ko' v='김화농공단지' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320093' />
+  </node>
+  <node id='-216156' action='modify' visible='true' lat='38.14817' lon='127.23742'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양4리.만경동' />
+    <tag k='name:ko' v='청양4리.만경동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320091' />
+  </node>
+  <node id='-216157' action='modify' visible='true' lat='38.14776' lon='127.23454'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양4리' />
+    <tag k='name:ko' v='청양4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320089' />
+  </node>
+  <node id='-216158' action='modify' visible='true' lat='38.14387' lon='127.23297'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청아골' />
+    <tag k='name:ko' v='청아골' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320087' />
+  </node>
+  <node id='-216159' action='modify' visible='true' lat='38.14652' lon='127.22835'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양3리(수무정)' />
+    <tag k='name:ko' v='청양3리(수무정)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320086' />
+  </node>
+  <node id='-216160' action='modify' visible='true' lat='38.14624' lon='127.22634'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청양초등학교' />
+    <tag k='name:ko' v='청양초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320083' />
+  </node>
+  <node id='-216181' action='modify' visible='true' lat='38.08739' lon='127.18625'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신철원2리(우체국)' />
+    <tag k='name:ko' v='신철원2리(우체국)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320236' />
+  </node>
+  <node id='-216185' action='modify' visible='true' lat='38.0931' lon='127.18528'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='군탄리' />
+    <tag k='name:ko' v='군탄리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320179' />
+  </node>
+  <node id='-216189' action='modify' visible='true' lat='38.10642' lon='127.19654'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜3거리' />
+    <tag k='name:ko' v='문혜3거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320175' />
+  </node>
+  <node id='-216197' action='modify' visible='true' lat='38.11208' lon='127.21863'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자비원' />
+    <tag k='name:ko' v='자비원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320169' />
+  </node>
+  <node id='-216201' action='modify' visible='true' lat='38.10912' lon='127.23176'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='하교대' />
+    <tag k='name:ko' v='하교대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320163' />
+  </node>
+  <node id='-216205' action='modify' visible='true' lat='38.11135' lon='127.25151'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='석현동' />
+    <tag k='name:ko' v='석현동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320142' />
+  </node>
+  <node id='-216206' action='modify' visible='true' lat='38.11402' lon='127.25395'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등2리' />
+    <tag k='name:ko' v='자등2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320144' />
+  </node>
+  <node id='-216208' action='modify' visible='true' lat='38.12013' lon='127.25405'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신병교육대' />
+    <tag k='name:ko' v='신병교육대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320307' />
+  </node>
+  <node id='-216217' action='modify' visible='true' lat='38.08859' lon='127.18478'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='갈말읍사무소' />
+    <tag k='name:ko' v='갈말읍사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320183' />
+  </node>
+  <node id='-216221' action='modify' visible='true' lat='38.09869' lon='127.18923'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='하삼성리' />
+    <tag k='name:ko' v='하삼성리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320177' />
+  </node>
+  <node id='-216229' action='modify' visible='true' lat='38.11059' lon='127.21327'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동양레미콘' />
+    <tag k='name:ko' v='동양레미콘' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320242' />
+  </node>
+  <node id='-216230' action='modify' visible='true' lat='38.11157' lon='127.21535'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='연대앞' />
+    <tag k='name:ko' v='연대앞' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320171' />
+  </node>
+  <node id='-216232' action='modify' visible='true' lat='38.11257' lon='127.22035'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='요양원' />
+    <tag k='name:ko' v='요양원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320358' />
+  </node>
+  <node id='-216233' action='modify' visible='true' lat='38.11343' lon='127.22282'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜5리' />
+    <tag k='name:ko' v='문혜5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320167' />
+  </node>
+  <node id='-216234' action='modify' visible='true' lat='38.11455' lon='127.2246'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교회앞' />
+    <tag k='name:ko' v='교회앞' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320165' />
+  </node>
+  <node id='-216235' action='modify' visible='true' lat='38.11489' lon='127.22698'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='병영체험수련원' />
+    <tag k='name:ko' v='병영체험수련원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320161' />
+  </node>
+  <node id='-216237' action='modify' visible='true' lat='38.09876' lon='127.24727'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신술리.자등4리' />
+    <tag k='name:ko' v='신술리.자등4리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320140' />
+  </node>
+  <node id='-216238' action='modify' visible='true' lat='38.09979' lon='127.24852'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등3리(자등치안센터)' />
+    <tag k='name:ko' v='자등3리(자등치안센터)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320243' />
+  </node>
+  <node id='-216239' action='modify' visible='true' lat='38.09961' lon='127.2535'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼성아파트' />
+    <tag k='name:ko' v='삼성아파트' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320255' />
+  </node>
+  <node id='-216240' action='modify' visible='true' lat='38.09957' lon='127.25591'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='사단골' />
+    <tag k='name:ko' v='사단골' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320139' />
+  </node>
+  <node id='-216249' action='modify' visible='true' lat='38.14012' lon='127.28338'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='필승회관' />
+    <tag k='name:ko' v='필승회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320315' />
+  </node>
+  <node id='-216253' action='modify' visible='true' lat='38.14575' lon='127.27869'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='사곡1리' />
+    <tag k='name:ko' v='사곡1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320311' />
+  </node>
+  <node id='-216254' action='modify' visible='true' lat='38.1514' lon='127.27216'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='와수5리' />
+    <tag k='name:ko' v='와수5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320112' />
+  </node>
+  <node id='-216262' action='modify' visible='true' lat='38.12008' lon='127.25394'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신병교육대' />
+    <tag k='name:ko' v='신병교육대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320306' />
+  </node>
+  <node id='-216265' action='modify' visible='true' lat='38.11142' lon='127.25137'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='석현동' />
+    <tag k='name:ko' v='석현동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320143' />
+  </node>
+  <node id='-216266' action='modify' visible='true' lat='38.10914' lon='127.25055'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='자등2리(전자빔센터)' />
+    <tag k='name:ko' v='자등2리(전자빔센터)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320245' />
+  </node>
+  <node id='-216269' action='modify' visible='true' lat='38.10913' lon='127.23188'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='하교대' />
+    <tag k='name:ko' v='하교대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320164' />
+  </node>
+  <node id='-216270' action='modify' visible='true' lat='38.11498' lon='127.22699'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='병영체험수련원' />
+    <tag k='name:ko' v='병영체험수련원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320160' />
+  </node>
+  <node id='-216271' action='modify' visible='true' lat='38.11463' lon='127.22454'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='교회앞' />
+    <tag k='name:ko' v='교회앞' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320162' />
+  </node>
+  <node id='-216272' action='modify' visible='true' lat='38.11347' lon='127.22276'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜5리' />
+    <tag k='name:ko' v='문혜5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320166' />
+  </node>
+  <node id='-216282' action='modify' visible='true' lat='38.1019' lon='127.1914'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜4리(윗삼성리)' />
+    <tag k='name:ko' v='문혜4리(윗삼성리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320238' />
+  </node>
+  <node id='-216283' action='modify' visible='true' lat='38.09836' lon='127.18862'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='하삼성리' />
+    <tag k='name:ko' v='하삼성리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320176' />
+  </node>
+  <node id='-216284' action='modify' visible='true' lat='38.09474' lon='127.18604'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='군탄사거리' />
+    <tag k='name:ko' v='군탄사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320326' />
+  </node>
+  <node id='-216285' action='modify' visible='true' lat='38.09318' lon='127.18517'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='군탄리' />
+    <tag k='name:ko' v='군탄리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320178' />
+  </node>
+  <node id='-216286' action='modify' visible='true' lat='38.09027' lon='127.18445'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='길병원' />
+    <tag k='name:ko' v='길병원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320180' />
+  </node>
+  <node id='-216287' action='modify' visible='true' lat='38.08865' lon='127.18458'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='갈말읍사무소' />
+    <tag k='name:ko' v='갈말읍사무소' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320182' />
+  </node>
+  <node id='-216288' action='modify' visible='true' lat='38.087' lon='127.18519'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신철원터미널' />
+    <tag k='name:ko' v='신철원터미널' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320184' />
+  </node>
+  <node id='-216297' action='modify' visible='true' lat='38.13774' lon='127.28338'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='육단3리' />
+    <tag k='name:ko' v='육단3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320127' />
+  </node>
+  <node id='-216298' action='modify' visible='true' lat='38.1351' lon='127.28457'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='내수동교회' />
+    <tag k='name:ko' v='내수동교회' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320316' />
+  </node>
+  <node id='-216301' action='modify' visible='true' lat='38.12088' lon='127.28133'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='매월대폭포' />
+    <tag k='name:ko' v='매월대폭포' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320131' />
+  </node>
+  <node id='-216302' action='modify' visible='true' lat='38.10764' lon='127.27876'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='샘말' />
+    <tag k='name:ko' v='샘말' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320133' />
+  </node>
+  <node id='-216303' action='modify' visible='true' lat='38.10481' lon='127.277'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구잠곡초교' />
+    <tag k='name:ko' v='구잠곡초교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320322' />
+  </node>
+  <node id='-216304' action='modify' visible='true' lat='38.1004' lon='127.2768'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도덕동' />
+    <tag k='name:ko' v='도덕동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320136' />
+  </node>
+  <node id='-216313' action='modify' visible='true' lat='38.11265' lon='127.22031'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='요양원' />
+    <tag k='name:ko' v='요양원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320359' />
+  </node>
+  <node id='-216317' action='modify' visible='true' lat='38.11022' lon='127.20811'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='토기교' />
+    <tag k='name:ko' v='토기교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320356' />
+  </node>
+  <node id='-216318' action='modify' visible='true' lat='38.11095' lon='127.19998'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='문혜헌병사거리' />
+    <tag k='name:ko' v='문혜헌병사거리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320354' />
+  </node>
+  <node id='-216319' action='modify' visible='true' lat='38.11105' lon='127.19729'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='괸돌' />
+    <tag k='name:ko' v='괸돌' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320349' />
+  </node>
+  <node id='-216332' action='modify' visible='true' lat='38.08402' lon='127.19606'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼부연' />
+    <tag k='name:ko' v='삼부연' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320361' />
+  </node>
+  <node id='-216333' action='modify' visible='true' lat='38.08216' lon='127.20329'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용화약수터' />
+    <tag k='name:ko' v='용화약수터' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320187' />
+  </node>
+  <node id='-216334' action='modify' visible='true' lat='38.07756' lon='127.20931'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용화동' />
+    <tag k='name:ko' v='용화동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320360' />
+  </node>
+  <node id='-216335' action='modify' visible='true' lat='38.0818' lon='127.20916'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용화동' />
+    <tag k='name:ko' v='용화동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320185' />
+  </node>
+  <node id='-216336' action='modify' visible='true' lat='38.07754' lon='127.20923'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용화동' />
+    <tag k='name:ko' v='용화동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320235' />
+  </node>
+  <node id='-216337' action='modify' visible='true' lat='38.08219' lon='127.20345'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='용화약수터' />
+    <tag k='name:ko' v='용화약수터' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320186' />
+  </node>
+  <node id='-216338' action='modify' visible='true' lat='38.08403' lon='127.19616'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='삼부연' />
+    <tag k='name:ko' v='삼부연' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320362' />
+  </node>
+  <node id='-216348' action='modify' visible='true' lat='38.13324' lon='127.1263'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지5리' />
+    <tag k='name:ko' v='화지5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320038' />
+  </node>
+  <node id='-216349' action='modify' visible='true' lat='38.1351' lon='127.12647'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='화지10리' />
+    <tag k='name:ko' v='화지10리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320039' />
+  </node>
+  <node id='-216350' action='modify' visible='true' lat='38.13782' lon='127.1278'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='미곡처리장' />
+    <tag k='name:ko' v='미곡처리장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320365' />
+  </node>
+  <node id='-216351' action='modify' visible='true' lat='38.14294' lon='127.12882'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도피안사' />
+    <tag k='name:ko' v='도피안사' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320398' />
+  </node>
+  <node id='-216352' action='modify' visible='true' lat='38.14741' lon='127.1275'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='월하리' />
+    <tag k='name:ko' v='월하리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320005' />
+  </node>
+  <node id='-216353' action='modify' visible='true' lat='38.14902' lon='127.12344'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='관전리' />
+    <tag k='name:ko' v='관전리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320003' />
+  </node>
+  <node id='-216354' action='modify' visible='true' lat='38.15297' lon='127.12091'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='노동당사' />
+    <tag k='name:ko' v='노동당사' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320367' />
+  </node>
+  <node id='-216355' action='modify' visible='true' lat='38.15692' lon='127.10737'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='사요리' />
+    <tag k='name:ko' v='사요리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320277' />
+  </node>
+  <node id='-216356' action='modify' visible='true' lat='38.15922' lon='127.10205'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='백마고지입구' />
+    <tag k='name:ko' v='백마고지입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320369' />
+  </node>
+  <node id='-216357' action='modify' visible='true' lat='38.1583' lon='127.09968'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='묘장초등학교' />
+    <tag k='name:ko' v='묘장초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320002' />
+  </node>
+  <node id='-216358' action='modify' visible='true' lat='38.15707' lon='127.09866'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마을정보센타' />
+    <tag k='name:ko' v='마을정보센타' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320371' />
+  </node>
+  <node id='-216359' action='modify' visible='true' lat='38.15522' lon='127.09687'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대마2리' />
+    <tag k='name:ko' v='대마2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320372' />
+  </node>
+  <node id='-216360' action='modify' visible='true' lat='38.1542' lon='127.09991'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='백마고지역' />
+    <tag k='name:ko' v='백마고지역' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320374' />
+  </node>
+  <node id='-216361' action='modify' visible='true' lat='38.1542' lon='127.10001'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='백마고지역' />
+    <tag k='name:ko' v='백마고지역' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320375' />
+  </node>
+  <node id='-216362' action='modify' visible='true' lat='38.15524' lon='127.09692'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대마2리' />
+    <tag k='name:ko' v='대마2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320373' />
+  </node>
+  <node id='-216363' action='modify' visible='true' lat='38.1571' lon='127.09875'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='마을정보센타' />
+    <tag k='name:ko' v='마을정보센타' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320275' />
+  </node>
+  <node id='-216364' action='modify' visible='true' lat='38.15825' lon='127.09978'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='묘장초등학교' />
+    <tag k='name:ko' v='묘장초등학교' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320001' />
+  </node>
+  <node id='-216365' action='modify' visible='true' lat='38.15913' lon='127.10207'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='백마고지입구' />
+    <tag k='name:ko' v='백마고지입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320370' />
+  </node>
+  <node id='-216366' action='modify' visible='true' lat='38.15683' lon='127.10733'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='사요리' />
+    <tag k='name:ko' v='사요리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320276' />
+  </node>
+  <node id='-216367' action='modify' visible='true' lat='38.15295' lon='127.12077'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='노동당사' />
+    <tag k='name:ko' v='노동당사' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320368' />
+  </node>
+  <node id='-216368' action='modify' visible='true' lat='38.14892' lon='127.12347'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='관전리' />
+    <tag k='name:ko' v='관전리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320004' />
+  </node>
+  <node id='-216369' action='modify' visible='true' lat='38.1474' lon='127.12743'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='월하리' />
+    <tag k='name:ko' v='월하리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320006' />
+  </node>
+  <node id='-216370' action='modify' visible='true' lat='38.14295' lon='127.12859'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='도피안사' />
+    <tag k='name:ko' v='도피안사' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320399' />
+  </node>
+  <node id='-216371' action='modify' visible='true' lat='38.13785' lon='127.12771'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='미곡처리장' />
+    <tag k='name:ko' v='미곡처리장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320366' />
+  </node>
+  <node id='-216381' action='modify' visible='true' lat='38.11804' lon='127.13485'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='차고지' />
+    <tag k='name:ko' v='차고지' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320227' />
+  </node>
+  <node id='-216383' action='modify' visible='true' lat='38.12014' lon='127.13358'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청성회관' />
+    <tag k='name:ko' v='청성회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320336' />
+  </node>
+  <node id='-216384' action='modify' visible='true' lat='38.12246' lon='127.13238'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동송지구대' />
+    <tag k='name:ko' v='동송지구대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320212' />
+  </node>
+  <node id='-216389' action='modify' visible='true' lat='38.1356' lon='127.14195'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉학' />
+    <tag k='name:ko' v='봉학' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320009' />
+  </node>
+  <node id='-216390' action='modify' visible='true' lat='38.13884' lon='127.14398'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕5리' />
+    <tag k='name:ko' v='오덕5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320011' />
+  </node>
+  <node id='-216391' action='modify' visible='true' lat='38.14057' lon='127.14494'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕6리' />
+    <tag k='name:ko' v='오덕6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320273' />
+  </node>
+  <node id='-216392' action='modify' visible='true' lat='38.14161' lon='127.14772'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대위리(송학동)' />
+    <tag k='name:ko' v='대위리(송학동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320021' />
+  </node>
+  <node id='-216393' action='modify' visible='true' lat='38.1403' lon='127.15037'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대위리(남수동)' />
+    <tag k='name:ko' v='대위리(남수동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320023' />
+  </node>
+  <node id='-216394' action='modify' visible='true' lat='38.15848' lon='127.16818'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양지리입구' />
+    <tag k='name:ko' v='양지리입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320258' />
+  </node>
+  <node id='-216395' action='modify' visible='true' lat='38.16013' lon='127.17162'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양지리' />
+    <tag k='name:ko' v='양지리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320380' />
+  </node>
+  <node id='-216396' action='modify' visible='true' lat='38.17012' lon='127.19299'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이길리' />
+    <tag k='name:ko' v='이길리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320015' />
+  </node>
+  <node id='-216397' action='modify' visible='true' lat='38.17181' lon='127.1998'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='통일교육연수원' />
+    <tag k='name:ko' v='통일교육연수원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320383' />
+  </node>
+  <node id='-216398' action='modify' visible='true' lat='38.173' lon='127.20231'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구정연리' />
+    <tag k='name:ko' v='구정연리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320018' />
+  </node>
+  <node id='-216399' action='modify' visible='true' lat='38.17822' lon='127.1992'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신정연리' />
+    <tag k='name:ko' v='신정연리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320019' />
+  </node>
+  <node id='-216400' action='modify' visible='true' lat='38.17309' lon='127.20221'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='구정연리' />
+    <tag k='name:ko' v='구정연리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320017' />
+  </node>
+  <node id='-216401' action='modify' visible='true' lat='38.17191' lon='127.19974'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='통일교육연수원' />
+    <tag k='name:ko' v='통일교육연수원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320382' />
+  </node>
+  <node id='-216402' action='modify' visible='true' lat='38.17018' lon='127.19291'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이길리' />
+    <tag k='name:ko' v='이길리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320016' />
+  </node>
+  <node id='-216403' action='modify' visible='true' lat='38.16024' lon='127.1715'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양지리' />
+    <tag k='name:ko' v='양지리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320381' />
+  </node>
+  <node id='-216404' action='modify' visible='true' lat='38.15858' lon='127.1681'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='양지리입구' />
+    <tag k='name:ko' v='양지리입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320257' />
+  </node>
+  <node id='-216405' action='modify' visible='true' lat='38.14036' lon='127.15036'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대위리(남수동)' />
+    <tag k='name:ko' v='대위리(남수동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320022' />
+  </node>
+  <node id='-216406' action='modify' visible='true' lat='38.1417' lon='127.14777'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='대위리(송학동)' />
+    <tag k='name:ko' v='대위리(송학동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320020' />
+  </node>
+  <node id='-216407' action='modify' visible='true' lat='38.14065' lon='127.14499'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕6리' />
+    <tag k='name:ko' v='오덕6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320272' />
+  </node>
+  <node id='-216408' action='modify' visible='true' lat='38.13896' lon='127.14389'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕5리' />
+    <tag k='name:ko' v='오덕5리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320012' />
+  </node>
+  <node id='-216409' action='modify' visible='true' lat='38.13562' lon='127.1419'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='봉학' />
+    <tag k='name:ko' v='봉학' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320010' />
+  </node>
+  <node id='-216413' action='modify' visible='true' lat='38.12536' lon='127.13051'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='롯데리아' />
+    <tag k='name:ko' v='롯데리아' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320044' />
+  </node>
+  <node id='-216414' action='modify' visible='true' lat='38.12242' lon='127.13229'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동송지구대' />
+    <tag k='name:ko' v='동송지구대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320211' />
+  </node>
+  <node id='-216415' action='modify' visible='true' lat='38.12012' lon='127.1335'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='청성회관' />
+    <tag k='name:ko' v='청성회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320335' />
+  </node>
+  <node id='-216423' action='modify' visible='true' lat='38.13218' lon='127.15126'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평동' />
+    <tag k='name:ko' v='신평동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320027' />
+  </node>
+  <node id='-216425' action='modify' visible='true' lat='38.13526' lon='127.15122'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕7리(강회동)' />
+    <tag k='name:ko' v='오덕7리(강회동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320025' />
+  </node>
+  <node id='-216426' action='modify' visible='true' lat='38.13217' lon='127.15112'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신평동' />
+    <tag k='name:ko' v='신평동' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320026' />
+  </node>
+  <node id='-216429' action='modify' visible='true' lat='38.12791' lon='127.13593'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='세륭아파트' />
+    <tag k='name:ko' v='세륭아파트' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320031' />
+  </node>
+  <node id='-216437' action='modify' visible='true' lat='38.11256' lon='127.13838'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지2리생활체육공원' />
+    <tag k='name:ko' v='오지2리생활체육공원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320384' />
+  </node>
+  <node id='-216438' action='modify' visible='true' lat='38.11101' lon='127.13932'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지2리' />
+    <tag k='name:ko' v='오지2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320210' />
+  </node>
+  <node id='-216441' action='modify' visible='true' lat='38.09391' lon='127.13493'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='상노2리입구' />
+    <tag k='name:ko' v='상노2리입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320388' />
+  </node>
+  <node id='-216445' action='modify' visible='true' lat='38.10438' lon='127.14367'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지1리입구' />
+    <tag k='name:ko' v='오지1리입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320225' />
+  </node>
+  <node id='-216446' action='modify' visible='true' lat='38.11105' lon='127.13942'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지2리' />
+    <tag k='name:ko' v='오지2리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320209' />
+  </node>
+  <node id='-216457' action='modify' visible='true' lat='38.10916' lon='127.13392'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지3리마을회관' />
+    <tag k='name:ko' v='오지3리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320265' />
+  </node>
+  <node id='-216458' action='modify' visible='true' lat='38.10071' lon='127.13462'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지3리' />
+    <tag k='name:ko' v='오지3리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320215' />
+  </node>
+  <node id='-216461' action='modify' visible='true' lat='38.08609' lon='127.1315'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='신교대' />
+    <tag k='name:ko' v='신교대' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320219' />
+  </node>
+  <node id='-216462' action='modify' visible='true' lat='38.09801' lon='127.14593'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='상노1리' />
+    <tag k='name:ko' v='상노1리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320223' />
+  </node>
+  <node id='-216469' action='modify' visible='true' lat='38.12315' lon='127.14437'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='이평6리' />
+    <tag k='name:ko' v='이평6리' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320049' />
+  </node>
+  <node id='-216473' action='modify' visible='true' lat='38.12251' lon='127.15096'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='농업기술센타' />
+    <tag k='name:ko' v='농업기술센타' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320391' />
+  </node>
+  <node id='-216474' action='modify' visible='true' lat='38.10979' lon='127.16144'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥5리(구수동)' />
+    <tag k='name:ko' v='장흥5리(구수동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320204' />
+  </node>
+  <node id='-216477' action='modify' visible='true' lat='38.10459' lon='127.14619'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지1리마을회관' />
+    <tag k='name:ko' v='오지1리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320207' />
+  </node>
+  <node id='-216478' action='modify' visible='true' lat='38.10441' lon='127.14357'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오지1리입구' />
+    <tag k='name:ko' v='오지1리입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320226' />
+  </node>
+  <node id='-216495' action='modify' visible='true' lat='38.12575' lon='127.13122'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='동송시장' />
+    <tag k='name:ko' v='동송시장' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320268' />
+  </node>
+  <node id='-216509' action='modify' visible='true' lat='38.11152' lon='127.18118'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='승일공원' />
+    <tag k='name:ko' v='승일공원' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320330' />
+  </node>
+  <node id='-216541' action='modify' visible='true' lat='38.12321' lon='127.15475'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥3리마을회관' />
+    <tag k='name:ko' v='장흥3리마을회관' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320332' />
+  </node>
+  <node id='-216542' action='modify' visible='true' lat='38.12425' lon='127.15282'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='직탕입구' />
+    <tag k='name:ko' v='직탕입구' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320200' />
+  </node>
+  <node id='-216543' action='modify' visible='true' lat='38.12504' lon='127.15102'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='장흥3리(국방부사거리)' />
+    <tag k='name:ko' v='장흥3리(국방부사거리)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320051' />
+  </node>
+  <node id='-216544' action='modify' visible='true' lat='38.13524' lon='127.1514'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='오덕7리(강회동)' />
+    <tag k='name:ko' v='오덕7리(강회동)' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='4320287' />
+  </node>
+</osm>
